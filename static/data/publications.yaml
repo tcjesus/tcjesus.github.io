@@ -1,0 +1,102 @@
+stats:
+    totalPapers: 15
+    totalCitations: 342
+    hIndex: 8
+    openAccessCount: 9
+
+publications:
+    - id: "https://openalex.org/W12345678"
+      title: "Advanced Machine Learning Techniques for Natural Language Processing"
+      display_name: "Advanced Machine Learning Techniques for Natural Language Processing"
+      publication_year: 2024
+      publication_date: "2024-03-15"
+      cited_by_count: 23
+      type: "journal-article"
+      type_crossref: "journal-article"
+      so: "Journal of Artificial Intelligence Research"
+      host_venue:
+          display_name: "Journal of Artificial Intelligence Research"
+          type: "journal"
+          issn_l: "1076-9757"
+      primary_location:
+          source:
+              display_name: "Journal of Artificial Intelligence Research"
+              type: "journal"
+      open_access:
+          is_oa: true
+          oa_date: "2024-03-15"
+          oa_url: "https://example.com/paper1.pdf"
+      doi: "https://doi.org/10.1000/example1"
+      authorships:
+          - author:
+                display_name: "Jane Doe"
+                id: "https://openalex.org/A5040609024"
+            author_position: "first"
+          - author:
+                display_name: "John Smith"
+                id: "https://openalex.org/A5107181246"
+            author_position: "last"
+
+    - id: "https://openalex.org/W12345679"
+      title: "Quantum Computing Applications in Cryptography"
+      display_name: "Quantum Computing Applications in Cryptography"
+      publication_year: 2024
+      publication_date: "2024-01-20"
+      cited_by_count: 18
+      type: "journal-article"
+      type_crossref: "journal-article"
+      so: "IEEE Transactions on Quantum Engineering"
+      host_venue:
+          display_name: "IEEE Transactions on Quantum Engineering"
+          type: "journal"
+          issn_l: "2689-1808"
+      primary_location:
+          source:
+              display_name: "IEEE Transactions on Quantum Engineering"
+              type: "journal"
+      open_access:
+          is_oa: false
+          oa_date: null
+          oa_url: null
+      doi: "https://doi.org/10.1000/example2"
+      authorships:
+          - author:
+                display_name: "Alice Johnson"
+                id: "https://openalex.org/A5113972525"
+            author_position: "first"
+          - author:
+                display_name: "Bob Wilson"
+                id: "https://openalex.org/A5113825607"
+            author_position: "last"
+
+    - id: "https://openalex.org/W12345680"
+      title: "Deep Learning for Medical Image Analysis: A Comprehensive Survey"
+      display_name: "Deep Learning for Medical Image Analysis: A Comprehensive Survey"
+      publication_year: 2023
+      publication_date: "2023-11-10"
+      cited_by_count: 67
+      type: "journal-article"
+      type_crossref: "journal-article"
+      so: "Nature Machine Intelligence"
+      host_venue:
+          display_name: "Nature Machine Intelligence"
+          type: "journal"
+          issn_l: "2522-5839"
+      primary_location:
+          source:
+              display_name: "Nature Machine Intelligence"
+              type: "journal"
+      open_access:
+          is_oa: true
+          oa_date: "2023-11-10"
+          oa_url: "https://example.com/paper3.pdf"
+      doi: "https://doi.org/10.1000/example3"
+      authorships:
+          - author:
+                display_name: "Jane Doe"
+                id: "https://openalex.org/A5040609024"
+            author_position: "first"
+
+    # Additional papers would continue here following the same structure
+    # For brevity, I'm including just a few examples in YAML format
+    # The full dataset should include all 15 papers as shown in the JSON version

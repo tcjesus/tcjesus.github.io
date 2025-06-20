@@ -1,0 +1,16 @@
+{
+    "name": "publications-fetcher",
+    "version": "1.0.0",
+    "description": "Fetch and process publications from OpenAlex API",
+    "main": "scripts/fetch-publications.js",
+    "scripts": {
+        "fetch": "node scripts/fetch-publications.js",
+        "build": "npm run fetch && hugo",
+        "dev": "npm run fetch && hugo server --buildDrafts"
+    },
+    "dependencies": {
+        "node-fetch": "^3.3.0"
+    },
+    "devDependencies": {},
+    "type": "module"
+}

@@ -1,36 +1,36 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://joaocarlos.github.io"
+title: João Carlos N. Bittencourt
 theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
 pagination:
-  pagerSize: 20
+    pagerSize: 20
 
 taxonomies:
     tag: tags
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
+        - name: Bio
+          url: about/
+          weight: 1
+        - name: Projects
+          url: projects/
+          weight: 5
+        - name: Publications
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Teaching
+          url: teaching/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        - name: Supervision
+          url: supervision/
+          weight: 4
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts João Carlos N. Bittencourt academic profile."
+    author: João Carlos N. Bittencourt
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -44,7 +44,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["publications", "teaching", "supervision"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -53,51 +53,50 @@ params:
     comments: false
     math: true
     profileMode:
-          enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
-          buttons:
-            - name: Papers
+        enabled: true
+        title: MSc. João Carlos N. Bittencourt
+        position: "Assistant Professor, Center of Exact Sciences and Technology<br>Federal University of Recôncavo da Bahia, Brazil"
+        intro: "I am a professor at the Center of Exact Sciences and Technology ([<u>CETEC</u>](https://ufrb.edu.br/cetec/)) at the Federal University of Recôncavo of Bahia ([<u>UFRB</u>](https://ufrb.edu.br/)). I teach in the Undergraduate Programs of Computer Engineering ([<u>ECP</u>](https://ufrb.edu.br/portal/index.php?option=com_chronoforms5&chronoform=ver-graduacao&id=19)), Electrical Engineering ([<u>EELE</u>](https://www.ufrb.edu.br/cetec/engenharia-eletrica)), and Exact Sciences and Technology ([<u>BCET</u>](https://www2.ufrb.edu.br/bcet/)). <br><br>My research includes Smart Cities, the Internet of Things, Embedded Systems, and Reconfigurable Hardware Accelerators."
+        imageUrl: "picture.jpeg"
+        imageWidth: 160
+        imageHeight: 160
+        buttons:
+            - name: Bio
+              url: about/
+            - name: Projects
+              url: projects/
+            - name: Publications
               url: papers/
-            - name: Data
-              url: data/
             - name: Books
               url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Teaching
+              url: teaching/
+            - name: Supervision
+              url: supervision/
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
+        # - name: CV
+        #   url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: mailto:joaocarlos@ufrb.edu.br
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=hEPWRnoAAAAJ
+        - name: ORCID
+          url: https://orcid.org/0000-0002-4540-512X
+        - name: ResearchGate
+          url: https://www.researchgate.net/profile/Joao-Carlos-Bittencourt
+        - name: Scopus
+          url: https://www.scopus.com/authid/detail.uri?authorId=57117498600
+        - name: Lattes
+          url: https://lattes.cnpq.br/6741995694783822
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
+          url: https://github.com/joaocarlos
         - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://www.youtube.com/@joaocarlosbittencourt
 
     assets:
         disableScrollBarStyle: true
@@ -105,9 +104,9 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
-      icon: favicon.ico
-      iconHeight: 18
+        text: "João Carlos N. Bittencourt"
+        icon: favicon.png
+        iconHeight: 18
 
 markup:
     goldmark:
@@ -115,7 +114,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: autumn
     tableOfContents:
         endLevel: 2
         ordered: false

@@ -1,0 +1,297 @@
+/* Enhanced Profile Typography - Minimalistic & Aesthetic */
+
+/* Import elegant fonts */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600&display=swap");
+
+/* Profile container enhancements */
+.profile {
+    margin: 4rem 0 3rem 0;
+    padding: 0 1rem;
+}
+
+.profile_inner {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    text-align: left;
+    max-width: 1000px;
+    margin: 0 auto;
+    gap: 3rem;
+}
+
+/* Profile image enhancements */
+.profile_inner img {
+    border-radius: 50%;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+    border: 4px solid var(--theme);
+    flex-shrink: 0;
+}
+
+.profile_inner img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+}
+
+/* Typography hierarchy */
+.profile-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.profile-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+    flex: 1;
+}
+
+.profile-title {
+    font-family: "Playfair Display", serif;
+    font-size: 2.5rem;
+    font-weight: 600;
+    line-height: 1.2;
+    margin: 0;
+    color: var(--primary);
+    letter-spacing: -0.02em;
+}
+
+.profile-position {
+    font-family: "Inter", sans-serif;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: var(--accent);
+    margin: 0.5rem 0;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    font-size: 0.95rem;
+}
+
+.profile-intro {
+    font-family: "Inter", sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    line-height: 1.7;
+    color: var(--secondary);
+    margin: 1rem 0;
+    max-width: 600px;
+    letter-spacing: 0.01em;
+}
+
+.profile-intro p {
+    margin: 0.8rem 0;
+}
+
+.profile-intro a {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s ease;
+}
+
+.profile-intro a:hover {
+    border-bottom-color: var(--accent);
+}
+
+/* Social icons enhancements */
+.social_icons {
+    margin: 1.5rem 0;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.social_icons a {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.6rem 1rem;
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--secondary);
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.social_icons a:hover {
+    background: var(--accent);
+    color: var(--theme);
+    border-color: var(--accent);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Button enhancements */
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    justify-content: flex-start;
+    margin-top: 2rem;
+}
+
+.button {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.8rem 1.5rem;
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    color: var(--primary);
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+    font-size: 0.95rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    letter-spacing: 0.01em;
+}
+
+.button:hover {
+    background: var(--primary);
+    color: var(--theme);
+    border-color: var(--primary);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.button-inner {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .profile {
+        margin: 2rem 0;
+    }
+
+    .profile_inner {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 2rem;
+    }
+
+    .profile-content {
+        align-items: center;
+        text-align: center;
+    }
+
+    .profile-text {
+        align-items: center;
+    }
+
+    .social_icons {
+        justify-content: center;
+    }
+
+    .buttons {
+        justify-content: center;
+    }
+
+    .profile-title {
+        font-size: 2rem;
+    }
+
+    .profile-position {
+        font-size: 0.9rem;
+    }
+
+    .profile-intro {
+        font-size: 1rem;
+        padding: 0 1rem;
+    }
+
+    .social_icons {
+        gap: 0.8rem;
+    }
+
+    .social_icons a {
+        padding: 0.5rem 0.8rem;
+        font-size: 0.85rem;
+    }
+
+    .buttons {
+        gap: 0.6rem;
+        padding: 0 1rem;
+    }
+
+    .button {
+        padding: 0.7rem 1.2rem;
+        font-size: 0.9rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .profile-title {
+        font-size: 1.8rem;
+    }
+
+    .profile-intro {
+        font-size: 0.95rem;
+    }
+
+    .buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .button {
+        width: 100%;
+        max-width: 200px;
+        justify-content: center;
+    }
+}
+
+/* Dark mode optimizations */
+@media (prefers-color-scheme: dark) {
+    .profile_inner img {
+        box-shadow: 0 8px 32px rgba(255, 255, 255, 0.05);
+    }
+
+    .profile_inner img:hover {
+        box-shadow: 0 12px 40px rgba(255, 255, 255, 0.08);
+    }
+
+    .social_icons a:hover,
+    .button:hover {
+        box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
+    }
+}
+
+/* Subtle animations */
+.profile-title,
+.profile-position,
+.profile-intro {
+    animation: fadeInUp 0.6s ease-out forwards;
+    opacity: 0;
+    transform: translateY(20px);
+}
+
+.profile-title {
+    animation-delay: 0.1s;
+}
+
+.profile-position {
+    animation-delay: 0.2s;
+}
+
+.profile-intro {
+    animation-delay: 0.3s;
+}
+
+@keyframes fadeInUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

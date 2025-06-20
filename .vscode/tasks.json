@@ -1,0 +1,51 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Hugo: Build and Serve",
+            "type": "shell",
+            "command": "hugo server --buildDrafts --bind=0.0.0.0",
+            "group": "build",
+            "isBackground": true,
+            "problemMatcher": [],
+            "args": []
+        },
+        {
+            "label": "OpenAlex: Update Publications Cache",
+            "type": "shell",
+            "command": "npm",
+            "args": ["run", "fetch"],
+            "group": "build",
+            "problemMatcher": [],
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "runOptions": {
+                "runOn": "default"
+            }
+        },
+        {
+            "label": "Build: Full Site with Updated Publications",
+            "type": "shell",
+            "command": "npm",
+            "args": ["run", "build"],
+            "group": "build",
+            "problemMatcher": [],
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "dependsOrder": "sequence",
+            "dependsOn": "OpenAlex: Update Publications Cache"
+        }
+    ]
+}

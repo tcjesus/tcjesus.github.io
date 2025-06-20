@@ -1,0 +1,82 @@
+{
+    "description": "Manual venue information overrides for publications missing venue data in OpenAlex. Only specify the fields you want to override - other values will be kept from the original source.",
+    "lastUpdated": "2025-06-18",
+    "overrides": {
+        "https://openalex.org/W4401113675": {
+            "venue_name": "IEEE Mediterranean Electrotechnical Conference (MELECON)",
+            "venue_acronym": "MELECON 2024",
+            "venue_location": "Porto, Portugal",
+            "notes": "IEEE MELECON 2024 - Mediterranean Electrotechnical Conference"
+        },
+        "https://openalex.org/W4403022638": {
+            "venue_name": "IEEE Smart Cities Futures Summit (SCF)",
+            "venue_acronym": "SCF 2024",
+            "venue_location": "Virtual/Online",
+            "notes": "IEEE Smart Cities Futures Summit 2024"
+        },
+        "https://openalex.org/W4403022658": {
+            "venue_name": "IEEE Smart Cities Futures Summit (SCF)",
+            "venue_acronym": "SCF 2024",
+            "venue_location": "Virtual/Online",
+            "notes": "IEEE Smart Cities Futures Summit 2024"
+        },
+        "https://openalex.org/W4402510102": {
+            "venue_name": "Escola Regional de Computação Bahia-Alagoas-Sergipe (ERBASE)",
+            "venue_acronym": "ERBASE 2022",
+            "venue_location": "Brasil",
+            "notes": "Brazilian Regional School of Computing Bahia-Alagoas-Sergipe"
+        },
+        "https://openalex.org/W4285342487": {
+            "venue_name": "Escola Regional de Computação Bahia-Alagoas-Sergipe (ERBASE)",
+            "venue_acronym": "ERBASE 2021",
+            "venue_location": "Brasil",
+            "notes": "Brazilian Regional School of Applied Computing Bahia-Alagoas-Sergipe"
+        },
+        "https://openalex.org/W4285342612": {
+            "venue_name": "Escola Regional de Computação Bahia-Alagoas-Sergipe (ERBASE)",
+            "venue_acronym": "ERBASE 2021",
+            "venue_location": "Brasil",
+            "notes": "Brazilian Regional School of Applied Computing Bahia-Alagoas-Sergipe"
+        },
+        "https://openalex.org/W3035676811": {
+            "venue_name": "As Engenharias frente a Sociedade, a Economia e o Meio Ambiente 5",
+            "venue_location": "Brasil",
+            "notes": "As Engenharias frente a Sociedade, a Economia e o Meio Ambiente 5"
+        },
+        "https://openalex.org/W2998133484": {
+            "venue_name": "IEEE/ACM Workshop on HPC for Urgent Decision Making (HPC-UDM)",
+            "venue_acronym": "H2RC 2019",
+            "venue_location": "Denver, CO, USA",
+            "notes": "IEEE/ACM Workshop on HPC for Urgent Decision Making"
+        },
+        "https://openalex.org/W2939288824": {
+            "exclude": true,
+            "reason": "thesis",
+            "notes": "Master's dissertation - excluded from publication list"
+        },
+        "https://openalex.org/W2782499739": {
+            "venue_name": "Chilean Conference on Electrical, Electronics Engineering, Information and Communication Technologies (CHILECON)",
+            "venue_acronym": "CHILECON 2017",
+            "venue_location": "Pucon, Chile",
+            "notes": "IEEE Chilean Conference on Electrical, Electronics Engineering"
+        },
+        "https://openalex.org/W2184065042": {
+            "venue_name": "International Conference on Power and Timing Modeling, Optimization and Simulation (PATMOS)",
+            "venue_acronym": "PATMOS 2015",
+            "venue_location": "Salvador, Brazil",
+            "notes": "IEEE International Conference on Power and Timing Modeling, Optimization and Simulation"
+        },
+        "https://openalex.org/W1927039319": {
+            "venue_name": "Euromicro Conference on Digital System Design (DSD)",
+            "venue_acronym": "DSD 2015",
+            "venue_location": "Madeira, Portugal",
+            "notes": "IEEE Euromicro Conference on Digital System Design"
+        },
+        "https://openalex.org/W334391379": {
+            "venue_name": "International Conference on Advanced Communications and Computation (INFOCOMP)",
+            "venue_acronym": "INFOCOMP 2011",
+            "venue_location": "Barcelona, Spain",
+            "notes": "International Conference on Advanced Communications and Computation"
+        }
+    }
+}

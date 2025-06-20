@@ -1,0 +1,19 @@
+/* Custom styling for social icons */
+
+/* Ensure all social icons have consistent size and alignment */
+.social-icons svg {
+    height: 24px;
+    width: 24px;
+}
+
+/* Specific styling for Lattes icon */
+/* .social-icons a[href*="lattes.cnpq.br"] svg {
+    height: 24px;
+    width: 24px;
+    vertical-align: middle;
+} */
+
+/* Hover effect for all social icons */
+.social-icons a:hover svg {
+    opacity: 0.8;
+}

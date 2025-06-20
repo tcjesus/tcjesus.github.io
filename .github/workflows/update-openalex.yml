@@ -1,0 +1,137 @@
+name: Update OpenAlex Cache
+
+on:
+    # Run on the first day of every month at 02:00 UTC
+    schedule:
+        - cron: "0 2 1 * *"
+
+    # Allow manual triggering
+    workflow_dispatch:
+        inputs:
+            force_update:
+                description: "Force update even if no changes"
+                required: false
+                default: false
+                type: boolean
+
+jobs:
+    update-publications:
+        runs-on: ubuntu-latest
+
+        permissions:
+            contents: write
+            pages: write
+            id-token: write
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+              with:
+                  token: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: Setup Node.js
+              uses: actions/setup-node@v4
+              with:
+                  node-version: "18"
+                  cache: "npm"
+
+            - name: Install dependencies
+              run: npm ci
+
+            - name: Setup Hugo
+              uses: peaceiris/actions-hugo@v2
+              with:
+                  hugo-version: "latest"
+                  extended: true
+
+            - name: Fetch latest publications
+              run: |
+                  echo "🔄 Fetching latest publications from OpenAlex..."
+                  npm run fetch
+
+            - name: Check for changes
+              id: check_changes
+              run: |
+                  # Check if there are any changes to commit
+                  if git diff --quiet -- data/ public/data/ static/data/; then
+                    echo "changes_detected=false" >> $GITHUB_OUTPUT
+                    echo "📊 No changes detected in publication data"
+                  else
+                    echo "changes_detected=true" >> $GITHUB_OUTPUT
+                    echo "📊 Changes detected in publication data"
+                    
+                    # Show what changed
+                    echo "Changed files:"
+                    git diff --name-only -- data/ public/data/ static/data/
+                  fi
+
+            - name: Commit and push changes
+              if: steps.check_changes.outputs.changes_detected == 'true' || github.event.inputs.force_update == 'true'
+              run: |
+                  # Configure git
+                  git config --local user.email "action@github.com"
+                  git config --local user.name "GitHub Action"
+
+                  # Add the updated files
+                  git add data/ public/data/ static/data/
+
+                  # Get current date for commit message
+                  CURRENT_DATE=$(date '+%Y-%m-%d')
+
+                  # Count publications for commit message
+                  PUB_COUNT=$(jq '.publications | length' data/publications.json)
+                  CITATION_COUNT=$(jq '.stats.totalCitations' data/publications.json)
+
+                  # Commit with detailed message
+                  git commit -m "📊 Auto-update: OpenAlex cache ($CURRENT_DATE)
+
+                  📄 Publications: $PUB_COUNT
+                  📈 Total Citations: $CITATION_COUNT
+                  🤖 Automated monthly update via GitHub Actions
+
+                  Updated files:
+                  - data/publications.json
+                  - public/data/openalex-cache.json  
+                  - static/data/openalex-cache.json"
+
+                  # Push changes
+                  git push
+
+            - name: Build Hugo site
+              if: steps.check_changes.outputs.changes_detected == 'true' || github.event.inputs.force_update == 'true'
+              run: |
+                  echo "🏗️ Building Hugo site with updated data..."
+                  hugo --minify
+
+            - name: Setup Pages
+              if: steps.check_changes.outputs.changes_detected == 'true' || github.event.inputs.force_update == 'true'
+              uses: actions/configure-pages@v4
+
+            - name: Upload artifact
+              if: steps.check_changes.outputs.changes_detected == 'true' || github.event.inputs.force_update == 'true'
+              uses: actions/upload-pages-artifact@v3
+              with:
+                  path: ./public
+
+            - name: Deploy to GitHub Pages
+              if: steps.check_changes.outputs.changes_detected == 'true' || github.event.inputs.force_update == 'true'
+              id: deployment
+              uses: actions/deploy-pages@v4
+
+            - name: Report results
+              run: |
+                  if [[ "${{ steps.check_changes.outputs.changes_detected }}" == "true" || "${{ github.event.inputs.force_update }}" == "true" ]]; then
+                    echo "✅ Publication cache updated and site deployed successfully!"
+                    echo "🌐 Site URL: ${{ steps.deployment.outputs.page_url }}"
+                  else
+                    echo "ℹ️ No changes detected - site deployment skipped"
+                  fi
+
+                  # Log final statistics
+                  if [ -f "data/publications.json" ]; then
+                    echo "📊 Final Statistics:"
+                    echo "   Publications: $(jq '.publications | length' data/publications.json)"
+                    echo "   Citations: $(jq '.stats.totalCitations' data/publications.json)"
+                    echo "   H-Index: $(jq '.stats.hIndex' data/publications.json)"
+                    echo "   Open Access: $(jq '.stats.openAccessCount' data/publications.json)"
+                  fi
