@@ -34,7 +34,6 @@ async function loadPublications() {
 
         // Try multiple potential paths for the cache file
         const cachePaths = [
-            "/website/data/openalex-cache.json", // Production GitHub Pages path
             "/data/openalex-cache.json", // Hugo processed static files
             "/static/data/openalex-cache.json", // Alternative local path
             "./data/openalex-cache.json", // Relative fallback
