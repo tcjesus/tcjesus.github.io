@@ -31,10 +31,44 @@ async function loadPublications() {
 
         // Load from cache (includes venue overrides)
         console.log("💾 Fetching cached publications...")
-        const response = await fetch("/data/openalex-cache.json")
 
-        if (!response.ok) {
-            throw new Error(`Failed to load publications: ${response.status}`)
+        // Try multiple potential paths for the cache file
+        const cachePaths = [
+            "/website/data/openalex-cache.json", // Production GitHub Pages path
+            "/data/openalex-cache.json", // Hugo processed static files
+            "/static/data/openalex-cache.json", // Alternative local path
+            "./data/openalex-cache.json", // Relative fallback
+        ]
+
+        let response = null
+        let lastError = null
+
+        for (const path of cachePaths) {
+            try {
+                console.log(`🔍 Trying cache path: ${path}`)
+                response = await fetch(path)
+                if (response.ok) {
+                    console.log(`✅ Found cache at: ${path}`)
+                    break
+                } else {
+                    console.log(
+                        `❌ Cache not found at: ${path} (${response.status})`,
+                    )
+                    lastError = new Error(`HTTP ${response.status} at ${path}`)
+                }
+            } catch (error) {
+                console.log(
+                    `❌ Error fetching from: ${path} - ${error.message}`,
+                )
+                lastError = error
+            }
+        }
+
+        if (!response || !response.ok) {
+            throw (
+                lastError ||
+                new Error("Failed to load publications from any cache path")
+            )
         }
 
         const data = await response.json()
@@ -122,18 +156,71 @@ async function loadPublications() {
         console.log("🎉 Publications loaded successfully!")
         isLoading = false
     } catch (error) {
-        console.error("❌ Error loading publications:", error)
+        console.error("❌ Error loading publications from cache:", error)
+
+        // Try fallback to publications.json
+        try {
+            console.log("🔄 Trying fallback to publications.json...")
+            const fallbackResponse = await fetch("/data/publications.json")
+
+            if (fallbackResponse.ok) {
+                const fallbackData = await fallbackResponse.json()
+                console.log("✅ Loaded from fallback publications.json")
+
+                // Convert the old format to the new format if needed
+                let publications =
+                    fallbackData.publications || fallbackData.results || []
+
+                if (publications.length > 0) {
+                    console.log(
+                        `📊 Fallback loaded ${publications.length} publications`,
+                    )
+
+                    // Store globally for filtering
+                    allPublications = publications
+
+                    // Hide loading
+                    if (loadingEl) loadingEl.style.display = "none"
+
+                    // Display publications
+                    displayPublications(publications)
+                    updateStats(publications)
+                    setupFilters()
+
+                    // Show stats and filters
+                    if (document.getElementById("publications-stats")) {
+                        document.getElementById(
+                            "publications-stats",
+                        ).style.display = "flex"
+                    }
+                    if (document.getElementById("publications-filters")) {
+                        document.getElementById(
+                            "publications-filters",
+                        ).style.display = "flex"
+                    }
+
+                    console.log(
+                        "🎉 Publications loaded from fallback successfully!",
+                    )
+                    isLoading = false
+                    return
+                }
+            }
+        } catch (fallbackError) {
+            console.error("❌ Fallback also failed:", fallbackError)
+        }
+
+        // If both methods fail, show error
         isLoading = false
 
         // Hide loading
-        const loadingEl = document.getElementById("loading-message")
         if (loadingEl) loadingEl.style.display = "none"
 
         // Show error
         const errorEl = document.getElementById("error-message")
         if (errorEl) {
             errorEl.style.display = "block"
-            errorEl.innerHTML = `<p>Error: ${error.message}</p><button onclick="loadPublications()" style="margin-top: 10px; padding: 8px 16px; background: #0066cc; color: white; border: none; border-radius: 4px; cursor: pointer;">Retry</button>`
+            errorEl.innerHTML = `<p>Error loading publications: ${error.message}</p><p>Fallback attempt also failed. Please try again later.</p><button onclick="loadPublications()" style="margin-top: 10px; padding: 8px 16px; background: #0066cc; color: white; border: none; border-radius: 4px; cursor: pointer;">Retry</button>`
         }
     }
 }
