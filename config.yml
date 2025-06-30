@@ -54,7 +54,7 @@ params:
     math: true
     profileMode:
         enabled: true
-        title: MSc. João Carlos N. Bittencourt
+        title: Prof. Thiago C. Jesus, PhD
         position: "Assistant Professor, Center of Exact Sciences and Technology<br>Federal University of Recôncavo da Bahia, Brazil"
         intro: "I am a professor at the Center of Exact Sciences and Technology ([<u>CETEC</u>](https://ufrb.edu.br/cetec/)) at the Federal University of Recôncavo of Bahia ([<u>UFRB</u>](https://ufrb.edu.br/)). I teach in the Undergraduate Programs of Computer Engineering ([<u>ECP</u>](https://ufrb.edu.br/portal/index.php?option=com_chronoforms5&chronoform=ver-graduacao&id=19)), Electrical Engineering ([<u>EELE</u>](https://www.ufrb.edu.br/cetec/engenharia-eletrica)), and Exact Sciences and Technology ([<u>BCET</u>](https://www2.ufrb.edu.br/bcet/)). <br><br>My research includes Smart Cities, the Internet of Things, Embedded Systems, and Reconfigurable Hardware Accelerators."
         imageUrl: "picture.jpeg"
