@@ -55,8 +55,8 @@ params:
     profileMode:
         enabled: true
         title: Prof. Thiago C. Jesus, PhD
-        position: "Researcher, SYSTEC-ARISE, Faculty of Engineering, University of Porto, Porto, Portugal<br>Associate Professor, Technology Department of State University of Feira de Santana, Feira de Santana, Brazil"
-        intro: "I am a professor at the Center of Exact Sciences and Technology ([<u>CETEC</u>](https://ufrb.edu.br/cetec/)) at the Federal University of Recôncavo of Bahia ([<u>UFRB</u>](https://ufrb.edu.br/)). I teach in the Undergraduate Programs of Computer Engineering ([<u>ECP</u>](https://ufrb.edu.br/portal/index.php?option=com_chronoforms5&chronoform=ver-graduacao&id=19)), Electrical Engineering ([<u>EELE</u>](https://www.ufrb.edu.br/cetec/engenharia-eletrica)), and Exact Sciences and Technology ([<u>BCET</u>](https://www2.ufrb.edu.br/bcet/)). <br><br>My research includes Smart Cities, the Internet of Things, Embedded Systems, and Reconfigurable Hardware Accelerators."
+        position: "&sup1;Researcher, SYSTEC-ARISE, Faculty of Engineering, University of Porto, Porto, Portugal<br>&sup2;Associate Professor, Technology Department of State University of Feira de Santana, Feira de Santana, Brazil"
+        intro: "I am a Researcher at [<u>SYSTEC</u>](https://systec.fe.up.pt/)–[<u>ARISE</u>](https://arise-la.pt/) at the Faculty of Engineering, University of Porto ([<u>FEUP</u>](https://www.up.pt/feup/en/)) in Porto, Portugal, and an Associate Professor in the Technology Department ([<u>DTEC</u>](https://www.dtec.uefs.br/) at the State University of Feira de Santana, [<u>UEFS</u>](https://www.uefs.br/)) in Feira de Santana, Brazil. <br><br>My research includes Smart Cities, the Internet of Things, Wireless (Visual) Sensor Networks, Embedded & Digital Systems, and Energy Management Systems."
         imageUrl: "picture.jpeg"
         imageWidth: 160
         imageHeight: 160
@@ -78,9 +78,9 @@ params:
         # - name: CV
         #   url: cv.pdf
         - name: Email
-          url: mailto:joaocarlos@ufrb.edu.br
+          url: mailto:jesus@fe.up.pt
         - name: Location
-          url: location/
+          url: <!--location/-->
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
