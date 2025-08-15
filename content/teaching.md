@@ -45,7 +45,7 @@ I teach across master’s, specialization, and undergraduate programs with empha
 
 ## Undergraduate (UEFS)
 
-### Computer Engineering — Technology Department
+### * Computer Engineering — Technology Department
 
 <div class="teach-grid">
 
@@ -96,7 +96,7 @@ I teach across master’s, specialization, and undergraduate programs with empha
 
 </div>
 
-### Computer Engineering — Exact Sciences Department (earlier disciplines)
+### * Computer Engineering — Exact Sciences Department
 
 <div class="teach-grid">
 
