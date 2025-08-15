@@ -6,7 +6,7 @@ hidemeta: true
 description: "Advising by Thiago Cerqueira de Jesus — titles, students, years, and institutions."
 showToc: true
 TocOpen: false
---------------
+---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
