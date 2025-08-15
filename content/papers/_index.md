@@ -40,7 +40,7 @@ title: "Publications"
 </div>
 
 <div id="disclaimer" class="disclaimer">
-<p><strong>Data Attribution:</strong> Publication metrics and bibliographic data are sourced from the <a href="https://help.openalex.org/hc/en-us/articles/24396686889751-About-us" target="_blank">OpenAlex</a> open scientific knowledge base. For the most complete and current publication record, please refer to my <a href="https://orcid.org/0000-0002-4540-512X" target="_blank">ORCID profile</a>.</p>
+<p><strong>Data Attribution:</strong> Publication metrics and bibliographic data are sourced from the <a href="https://help.openalex.org/hc/en-us/articles/24396686889751-About-us" target="_blank">OpenAlex</a> open scientific knowledge base. For the most complete and current publication record, please refer to my <a href="https://orcid.org/0000-0001-5299-6856" target="_blank">ORCID profile</a>.</p>
 </div>
 
 <div id="publications-content"></div>
