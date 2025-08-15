@@ -5,7 +5,7 @@ hidemeta: true
 description: "Selected research projects led or contributed to by Thiago Cerqueira de Jesus."
 showToc: true
 TocOpen: false
---------------
+---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
