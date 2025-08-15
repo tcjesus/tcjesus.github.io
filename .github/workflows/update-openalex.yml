@@ -73,7 +73,7 @@ jobs:
                   git config --local user.name "GitHub Action"
 
                   # Add the updated files
-                  git add data/ public/data/ static/data/
+                  git add data/ -f public/data/ static/data/
 
                   # Get current date for commit message
                   CURRENT_DATE=$(date '+%Y-%m-%d')
