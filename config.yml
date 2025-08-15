@@ -75,28 +75,28 @@ params:
               url: supervision/
 
     socialIcons:
-        # - name: CV
-        #   url: cv.pdf
+        - name: CV
+          url: cv.pdf
         - name: Email
           url: mailto:jesus@fe.up.pt
         - name: Location
-          url: #location
+          url: location
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=hEPWRnoAAAAJ
+          url: https://scholar.google.com/citations?user=3psJAQoAAAAJ
         - name: ORCID
-          url: https://orcid.org/0000-0002-4540-512X
+          url: http://orcid.org/0000-0001-5299-6856
         - name: ResearchGate
-          url: https://www.researchgate.net/profile/Joao-Carlos-Bittencourt
+          url: https://www.researchgate.net/profile/Thiago-Jesus-5
         - name: Scopus
-          url: https://www.scopus.com/authid/detail.uri?authorId=57117498600
+          url: https://www.scopus.com/authid/detail.uri?authorId=57212909335
         - name: Lattes
-          url: https://lattes.cnpq.br/6741995694783822
+          url: http://lattes.cnpq.br/1846614285668988
         - name: GitHub
-          url: https://github.com/joaocarlos
+          url: https://github.com/tcjesus
         - name: YouTube
-          url: https://www.youtube.com/@joaocarlosbittencourt
+          url: https://www.youtube.com/@thiagocjesus
 
     assets:
         disableScrollBarStyle: true
