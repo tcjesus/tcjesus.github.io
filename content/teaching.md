@@ -6,7 +6,7 @@ hidemeta: true
 description: "Teaching activities of Thiago Cerqueira de Jesus — courses and instructional focus."
 showToc: true
 TocOpen: false
---------------
+---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
