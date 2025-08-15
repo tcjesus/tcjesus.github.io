@@ -13,7 +13,7 @@ description: "Professor Dr. Thiago C. Jesus's mailing and office addresses at th
 Professor Dr. Thigo C. Jesus  
 Faculty of Engineering of University of Porto  
 Rua Dr. Roberto Frias, s/n  
-4200-465 Porto, Portugal  
+4200-465 Porto, Portugal
 
 ---
 
@@ -21,7 +21,7 @@ Rua Dr. Roberto Frias, s/n
 
 Room D108  
 Faculty of Engineering  
-University of Porto  
+University of Porto
 
 ---
 
