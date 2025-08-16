@@ -358,3 +358,5 @@
     margin-left: 0 !important;      /* use full width on narrow screens */
   }
 }
+
+.buttons { outline: 2px dashed red !important; }
