@@ -290,13 +290,13 @@ function displayPublications(publications) {
                     })
                     .join(" ")
 
-                // Bold João Carlos N. Bittencourt (check for variations)
+                // Bold Thiago C. Jesus (check for variations)
                 if (
-                    authorName.includes("João Carlos") &&
-                    authorName.includes("Bittencourt")
+                    authorName.includes("Thiago") &&
+                    authorName.includes("C. Jesus")
                 ) {
                     // Normalize to consistent format
-                    authorName = "João Carlos N. Bittencourt"
+                    authorName = "Thiago C. Jesus"
                     return `<strong>${authorName}</strong>`
                 }
 
