@@ -102,6 +102,7 @@ params:
 
     assets:
         disableScrollBarStyle: true
+        customCSS: ["css/profile.css"]
     cover:
         hiddenInList: false
         hiddenInSingle: true
