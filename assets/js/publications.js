@@ -293,7 +293,7 @@ function displayPublications(publications) {
                 // Bold Thiago C. Jesus (check for variations)
                 if (
                     authorName.includes("Thiago") &&
-                    authorName.includes("C. Jesus")
+                    authorName.includes("Jesus")
                 ) {
                     // Normalize to consistent format
                     authorName = "Thiago C. Jesus"
