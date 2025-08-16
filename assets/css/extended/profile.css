@@ -300,50 +300,61 @@
 
 /* === by ThiagoCJ === */
 /* === FLOATING LEFT MENU (ALWAYS VISIBLE) === */
-/* Use high specificity + !important to beat earlier .buttons rules */
+
+/* Cover common PaperMod wrappers for the home/profile hero */
 .home .profile .buttons,
-.home .buttons,
-.profile-mode .buttons {
+.home .home-info .buttons,
+.profile-mode .buttons,
+.page.home .profile .buttons,
+.page.home .home-info .buttons {
   position: fixed !important;
-  top: 8rem !important;        /* adjust height as you like */
-  left: 1rem !important;       /* distance from the left edge */
+  top: 8rem !important;           /* raise/lower as needed */
+  left: 1rem !important;          /* distance from left edge */
   z-index: 2000 !important;
+
   display: flex !important;
   flex-direction: column !important;
   flex-wrap: nowrap !important;
   justify-content: flex-start !important;
   gap: 0.7rem !important;
+
   width: 12rem !important;
-  margin: 0 !important;        /* cancel earlier margin-top */
+  margin: 0 !important;           /* cancel earlier margin-top */
   padding: 0 !important;
 }
 
-/* Make each button fill the column nicely */
+/* Make each button fill the floating column neatly */
 .home .profile .button,
-.home .button,
-.profile-mode .button {
+.home .home-info .button,
+.profile-mode .button,
+.page.home .profile .button,
+.page.home .home-info .button {
   width: 100% !important;
   justify-content: center !important;
 }
 
-/* Prevent content from hiding under the floating stack on wide screens */
+/* Keep content from hiding under the floating stack on wide screens */
 @media (min-width: 992px) {
-  .home .main {
-    margin-left: 14rem !important;   /* breathing room to the right of the menu */
+  .home .main,
+  .page.home .main {
+    margin-left: 14rem !important;  /* breathing room next to the menu */
   }
 }
 
-/* Mobile: keep floating, but tuck closer to the edge and shrink width */
+/* Mobile: keep floating, tuck closer to edges */
 @media (max-width: 768px) {
   .home .profile .buttons,
-  .home .buttons,
-  .profile-mode .buttons {
+  .home .home-info .buttons,
+  .profile-mode .buttons,
+  .page.home .profile .buttons,
+  .page.home .home-info .buttons {
     top: 6rem !important;
     left: 0.6rem !important;
     width: 10rem !important;
     gap: 0.5rem !important;
   }
-  .home .main {
-    margin-left: 0 !important;       /* use full width on narrow screens */
+  .home .main,
+  .page.home .main {
+    margin-left: 0 !important;      /* use full width on narrow screens */
   }
 }
