@@ -67,8 +67,8 @@ params:
               url: projects/
             - name: Publications
               url: papers/
-            - name: Books
-              url: books/
+            #- name: Books
+            #  url: books/
             - name: Teaching
               url: teaching/
             - name: Supervision
