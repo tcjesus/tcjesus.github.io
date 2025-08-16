@@ -102,7 +102,7 @@ params:
 
     assets:
         disableScrollBarStyle: true
-        customCSS: ["css/profile.css"]
+        customCSS: ["css/profile.css"] #Added to change buttons position on initial page
     cover:
         hiddenInList: false
         hiddenInSingle: true
