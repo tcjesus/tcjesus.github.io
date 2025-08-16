@@ -61,13 +61,12 @@
 
 .profile-position {
     font-family: "Inter", sans-serif;
-    font-size: 1.2rem;
+    font-size: 0.95rem;
     font-weight: 500;
     color: var(--accent);
     margin: 0.5rem 0;
     letter-spacing: 0.02em;
     text-transform: uppercase;
-    font-size: 0.95rem;
 }
 
 .profile-intro {
@@ -81,9 +80,7 @@
     letter-spacing: 0.01em;
 }
 
-.profile-intro p {
-    margin: 0.8rem 0;
-}
+.profile-intro p { margin: 0.8rem 0; }
 
 .profile-intro a {
     color: var(--accent);
@@ -92,11 +89,9 @@
     transition: border-color 0.2s ease;
 }
 
-.profile-intro a:hover {
-    border-bottom-color: var(--accent);
-}
+.profile-intro a:hover { border-bottom-color: var(--accent); }
 
-/* Social icons enhancements */
+/* Social icons */
 .social_icons {
     margin: 1.5rem 0;
     display: flex;
@@ -129,7 +124,7 @@
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
-/* Button enhancements */
+/* Buttons base style */
 .buttons {
     display: flex;
     flex-wrap: wrap;
@@ -162,17 +157,37 @@
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
 }
 
-.button-inner {
-    display: flex;
-    align-items: center;
-    gap: 0.4rem;
+.button-inner { display: flex; align-items: center; gap: 0.4rem; }
+
+/* === FLOATING LEFT MENU ON DESKTOP === */
+@media (min-width: 769px) {
+  .buttons {
+    position: fixed;
+    top: 8rem;
+    left: 1rem;
+    z-index: 2000;
+
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    gap: 0.7rem;
+
+    width: 12rem;
+    margin: 0;
+    padding: 0;
+  }
+
+  .buttons .button {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .main { margin-left: 14rem; }
 }
 
-/* Responsive design */
+/* === RESPONSIVE (Mobile: buttons back at bottom) === */
 @media (max-width: 768px) {
-    .profile {
-        margin: 2rem 0;
-    }
+    .profile { margin: 2rem 0; }
 
     .profile_inner {
         flex-direction: column;
@@ -186,59 +201,31 @@
         text-align: center;
     }
 
-    .profile-text {
-        align-items: center;
-    }
+    .profile-text { align-items: center; }
 
-    .social_icons {
-        justify-content: center;
-    }
+    .social_icons { justify-content: center; }
 
     .buttons {
         justify-content: center;
+        position: static;  /* override floating: back to normal flow */
+        width: auto;
+        margin-top: 2rem;
     }
 
-    .profile-title {
-        font-size: 2rem;
-    }
+    .profile-title { font-size: 2rem; }
+    .profile-position { font-size: 0.9rem; }
+    .profile-intro { font-size: 1rem; padding: 0 1rem; }
 
-    .profile-position {
-        font-size: 0.9rem;
-    }
+    .social_icons { gap: 0.8rem; }
+    .social_icons a { padding: 0.5rem 0.8rem; font-size: 0.85rem; }
 
-    .profile-intro {
-        font-size: 1rem;
-        padding: 0 1rem;
-    }
-
-    .social_icons {
-        gap: 0.8rem;
-    }
-
-    .social_icons a {
-        padding: 0.5rem 0.8rem;
-        font-size: 0.85rem;
-    }
-
-    .buttons {
-        gap: 0.6rem;
-        padding: 0 1rem;
-    }
-
-    .button {
-        padding: 0.7rem 1.2rem;
-        font-size: 0.9rem;
-    }
+    .buttons { gap: 0.6rem; padding: 0 1rem; }
+    .button { padding: 0.7rem 1.2rem; font-size: 0.9rem; }
 }
 
 @media (max-width: 480px) {
-    .profile-title {
-        font-size: 1.8rem;
-    }
-
-    .profile-intro {
-        font-size: 0.95rem;
-    }
+    .profile-title { font-size: 1.8rem; }
+    .profile-intro { font-size: 0.95rem; }
 
     .buttons {
         flex-direction: column;
@@ -257,11 +244,9 @@
     .profile_inner img {
         box-shadow: 0 8px 32px rgba(255, 255, 255, 0.05);
     }
-
     .profile_inner img:hover {
         box-shadow: 0 12px 40px rgba(255, 255, 255, 0.08);
     }
-
     .social_icons a:hover,
     .button:hover {
         box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
@@ -276,133 +261,10 @@
     opacity: 0;
     transform: translateY(20px);
 }
-
-.profile-title {
-    animation-delay: 0.1s;
-}
-
-.profile-position {
-    animation-delay: 0.2s;
-}
-
-.profile-intro {
-    animation-delay: 0.3s;
-}
+.profile-title { animation-delay: 0.1s; }
+.profile-position { animation-delay: 0.2s; }
+.profile-intro { animation-delay: 0.3s; }
 
 @keyframes fadeInUp {
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
+    to { opacity: 1; transform: translateY(0); }
 }
-
-
-
-/* === by ThiagoCJ === */
-/* === FLOATING LEFT MENU (ALWAYS VISIBLE) === */
-
-/* Cover common PaperMod wrappers for the home/profile hero */
-.home .profile .buttons,
-.home .home-info .buttons,
-.profile-mode .buttons,
-.page.home .profile .buttons,
-.page.home .home-info .buttons {
-  position: fixed !important;
-  top: 8rem !important;           /* raise/lower as needed */
-  left: 1rem !important;          /* distance from left edge */
-  z-index: 2000 !important;
-
-  display: flex !important;
-  flex-direction: column !important;
-  flex-wrap: nowrap !important;
-  justify-content: flex-start !important;
-  gap: 0.7rem !important;
-
-  width: 12rem !important;
-  margin: 0 !important;           /* cancel earlier margin-top */
-  padding: 0 !important;
-}
-
-/* Make each button fill the floating column neatly */
-.home .profile .button,
-.home .home-info .button,
-.profile-mode .button,
-.page.home .profile .button,
-.page.home .home-info .button {
-  width: 100% !important;
-  justify-content: center !important;
-}
-
-/* Keep content from hiding under the floating stack on wide screens */
-@media (min-width: 992px) {
-  .home .main,
-  .page.home .main {
-    margin-left: 14rem !important;  /* breathing room next to the menu */
-  }
-}
-
-/* Mobile: keep floating, tuck closer to edges */
-@media (max-width: 768px) {
-  .home .profile .buttons,
-  .home .home-info .buttons,
-  .profile-mode .buttons,
-  .page.home .profile .buttons,
-  .page.home .home-info .buttons {
-    top: 6rem !important;
-    left: 0.6rem !important;
-    width: 10rem !important;
-    gap: 0.5rem !important;
-  }
-  .home .main,
-  .page.home .main {
-    margin-left: 0 !important;      /* use full width on narrow screens */
-  }
-}
-
-
-
-
-
-
-
-
-/* === FORCE FLOATING LEFT MENU, ALWAYS VISIBLE === */
-.buttons {
-  position: fixed !important;
-  top: 8rem !important;        /* move up/down */
-  left: 1rem !important;       /* distance from left edge */
-  z-index: 3000 !important;
-
-  display: flex !important;
-  flex-direction: column !important;
-  flex-wrap: nowrap !important;
-  justify-content: flex-start !important;
-  gap: 0.7rem !important;
-
-  width: 12rem !important;
-  margin: 0 !important;        /* cancels earlier margin-top */
-  padding: 0 !important;
-}
-
-/* Make each button fill the column nicely */
-.buttons .button {
-  width: 100% !important;
-  justify-content: center !important;
-}
-
-/* Prevent content from sitting under the floating stack on wide screens */
-@media (min-width: 992px) {
-  .main { margin-left: 14rem !important; }
-}
-
-/* Keep it floating on mobile but tuck it closer */
-@media (max-width: 768px) {
-  .buttons {
-    top: 6rem !important;
-    left: 0.6rem !important;
-    width: 10rem !important;
-    gap: 0.5rem !important;
-  }
-  .main { margin-left: 0 !important; }
-}
-
