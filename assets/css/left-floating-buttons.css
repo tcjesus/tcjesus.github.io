@@ -1,0 +1,38 @@
+/* Make the profile buttons a fixed, floating vertical stack on the left */
+.profile .buttons, .profile-mode .buttons {
+  position: fixed;
+  top: 9rem;           /* adjust how “high” you want it */
+  left: 1.25rem;       /* distance from left edge */
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;         /* space between buttons */
+  z-index: 1000;
+  width: 12rem;        /* keeps nice, uniform buttons */
+}
+
+/* Make the buttons stretch nicely in the stack */
+.profile .buttons .button, .profile-mode .buttons .button {
+  width: 100%;
+  text-align: center;
+}
+
+/* Keep page content from hiding under the floating stack on very wide screens */
+@media (min-width: 1200px) {
+  .main {
+    margin-left: 14rem; /* creates breathing room to the right of the floating menu */
+  }
+}
+
+/* On small screens, move the stack slightly and shrink width */
+@media (max-width: 768px) {
+  .profile .buttons, .profile-mode .buttons {
+    top: 6rem;
+    left: 0.75rem;
+    width: 10rem;
+    gap: 0.5rem;
+  }
+}
+
+/* If your theme version wraps the hero in .page.home or .first-entry, keep specificity */
+.page.home .profile .buttons,
+.page.home .profile-mode .buttons { position: fixed; }
