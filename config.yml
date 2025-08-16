@@ -102,6 +102,7 @@ params:
 
     assets:
         disableScrollBarStyle: true
+        customCSS: ["css/left-floating-buttons.css"]   # by ThiagoCJ
     cover:
         hiddenInList: false
         hiddenInSingle: true
