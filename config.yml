@@ -57,7 +57,9 @@ params:
         title: Prof. Thiago C. Jesus, PhD
         position: "&sup1;Researcher, SYSTEC-ARISE, Faculty of Engineering, University of Porto, Porto, Portugal<br>&sup2;Associate Professor, Technology Department of State University of Feira de Santana, Feira de Santana, Brazil"
         intro: "I am a Researcher at [<u>SYSTEC</u>](https://systec.fe.up.pt/)–[<u>ARISE</u>](https://arise-la.pt/) at the Faculty of Engineering, University of Porto ([<u>FEUP</u>](https://www.up.pt/feup/en/)) in Porto, Portugal, and an Associate Professor in the Technology Department ([<u>DTEC</u>](https://www.dtec.uefs.br/)) at the State University of Feira de Santana, ([<u>UEFS</u>](https://www.uefs.br/)) in Feira de Santana, Brazil. <br><br>My research includes Smart Cities, the Internet of Things, Wireless (Visual) Sensor Networks, Embedded & Digital Systems, and Energy Management Systems."
-        imageUrl: "picture.jpeg"
+        #imageUrl: "picture.jpeg"
+        #imageUrl: "bio02.jpg"
+        imageUrl: "bio02.png"
         imageWidth: 160
         imageHeight: 160
         buttons:
