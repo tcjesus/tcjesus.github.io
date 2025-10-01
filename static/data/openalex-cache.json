@@ -116,7 +116,7 @@
       "language": "en",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2025-09-01T03:24:24.559Z",
+      "lastUpdated": "2025-10-01T03:15:04.301Z",
       "display_name": "On the Role of AI in Building Generative Urban Intelligence",
       "publication_year": 2025,
       "publication_date": "2025-07-24",
@@ -327,7 +327,7 @@
       },
       "cited_by_percentile_year": {
         "min": 0,
-        "max": 89
+        "max": 88
       },
       "biblio": {
         "volume": null,
@@ -1038,10 +1038,9 @@
           174
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4412640748",
       "counts_by_year": [],
-      "updated_date": "2025-08-26T15:31:19.652444",
+      "updated_date": "2025-09-23T10:30:25.244662",
       "created_date": "2025-07-25"
     },
     {
@@ -1141,7 +1140,7 @@
       "language": "pt",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2025-09-01T03:24:24.559Z",
+      "lastUpdated": "2025-10-01T03:15:04.301Z",
       "display_name": "Posicionamento de sensores para monitoramento colaborativo de emergências urbanas",
       "publication_year": 2025,
       "publication_date": "2025-06-02",
@@ -1232,7 +1231,7 @@
       },
       "cited_by_percentile_year": {
         "min": 0,
-        "max": 89
+        "max": 88
       },
       "biblio": {
         "volume": null,
@@ -1528,10 +1527,9 @@
           77
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4411930661",
       "counts_by_year": [],
-      "updated_date": "2025-08-28T20:31:46.311981",
+      "updated_date": "2025-09-25T16:56:47.699832",
       "created_date": "2025-07-02"
     },
     {
@@ -1569,7 +1567,7 @@
       "date": "2025-04-29",
       "doi": "https://doi.org/10.3390/smartcities8030077",
       "url": "https://doi.org/10.3390/smartcities8030077",
-      "citations": 2,
+      "citations": 3,
       "isOpenAccess": true,
       "oaUrl": "https://doi.org/10.3390/smartcities8030077",
       "publicationType": "journal-article",
@@ -1663,7 +1661,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-09-01T03:24:24.559Z",
+      "lastUpdated": "2025-10-01T03:15:04.301Z",
       "display_name": "The Road to Intelligent Cities",
       "publication_year": 2025,
       "publication_date": "2025-04-29",
@@ -1892,17 +1890,17 @@
         "currency": "CHF",
         "value_usd": 1515
       },
-      "fwci": 8.743,
+      "fwci": 11.118,
       "has_fulltext": false,
-      "cited_by_count": 2,
+      "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.99978,
+        "value": 0.999817,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 96,
-        "max": 98
+        "min": 98,
+        "max": 99
       },
       "biblio": {
         "volume": "8",
@@ -2649,7 +2647,6 @@
           191
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4410069375",
       "counts_by_year": [
         {
@@ -2657,7 +2654,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-08-25T16:03:47.212574",
+      "updated_date": "2025-09-22T09:56:31.574128",
       "created_date": "2025-05-05"
     },
     {
@@ -2799,7 +2796,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-09-01T03:24:24.559Z",
+      "lastUpdated": "2025-10-01T03:15:04.301Z",
       "display_name": "Reliability and Detectability of Emergency Management Systems in Smart Cities under Common Cause Failures",
       "publication_year": 2024,
       "publication_date": "2024-05-06",
@@ -3028,7 +3025,7 @@
         "currency": "CHF",
         "value_usd": 2598
       },
-      "fwci": 2.215,
+      "fwci": 1.962,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
@@ -3037,7 +3034,7 @@
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 93,
+        "min": 92,
         "max": 94
       },
       "biblio": {
@@ -3710,7 +3707,6 @@
           129
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4396674431",
       "counts_by_year": [
         {
@@ -3722,7 +3718,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-08-30T09:12:11.050792",
+      "updated_date": "2025-09-27T05:55:43.672428",
       "created_date": "2024-05-07"
     },
     {
@@ -3834,7 +3830,7 @@
       "language": "pt",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2025-09-01T03:24:24.559Z",
+      "lastUpdated": "2025-10-01T03:15:04.301Z",
       "display_name": "Plataforma de Crowdsourcing Internet of Things (Crowd-IoT) para detecção de emergências urbanas",
       "publication_year": 2024,
       "publication_date": "2024-04-26",
@@ -4064,7 +4060,7 @@
       },
       "cited_by_percentile_year": {
         "min": 0,
-        "max": 70
+        "max": 69
       },
       "biblio": {
         "volume": null,
@@ -4420,10 +4416,9 @@
           88
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4395681892",
       "counts_by_year": [],
-      "updated_date": "2025-08-27T10:22:46.277771",
+      "updated_date": "2025-09-24T06:34:40.541150",
       "created_date": "2024-04-27"
     },
     {
@@ -4467,7 +4462,7 @@
       "date": "2024-01-11",
       "doi": "https://doi.org/10.3390/su16020640",
       "url": "https://doi.org/10.3390/su16020640",
-      "citations": 35,
+      "citations": 37,
       "isOpenAccess": true,
       "oaUrl": "https://www.mdpi.com/2071-1050/16/2/640/pdf?version=1704965720",
       "publicationType": "journal-article",
@@ -4571,7 +4566,7 @@
           "cited_by_count": 17
         }
       ],
-      "lastUpdated": "2025-09-01T03:24:24.560Z",
+      "lastUpdated": "2025-10-01T03:15:04.302Z",
       "display_name": "Achieving Sustainable Smart Cities through Geospatial Data-Driven Approaches",
       "publication_year": 2024,
       "publication_date": "2024-01-11",
@@ -4857,12 +4852,12 @@
         "currency": "CHF",
         "value_usd": 2382
       },
-      "fwci": 22.061,
+      "fwci": 20.158,
       "has_fulltext": true,
       "fulltext_origin": "pdf",
-      "cited_by_count": 35,
+      "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.99975,
+        "value": 0.999748,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -5696,7 +5691,6 @@
           181
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4390751318",
       "counts_by_year": [
         {
@@ -5708,8 +5702,920 @@
           "cited_by_count": 17
         }
       ],
-      "updated_date": "2025-08-29T19:44:18.197758",
+      "updated_date": "2025-09-26T15:58:43.798189",
       "created_date": "2024-01-13"
+    },
+    {
+      "id": "https://openalex.org/W4388966876",
+      "title": "Urban emergency detection system using hierarchical, collaborative and configurable wireless sensor networks",
+      "authors": [
+        {
+          "name": "Gustavo A. A. Coelho",
+          "orcid": null,
+          "isCorresponding": false,
+          "position": "first"
+        },
+        {
+          "name": "Thiago C. Jesus",
+          "orcid": "https://orcid.org/0000-0001-5299-6856",
+          "isCorresponding": false,
+          "position": "middle"
+        },
+        {
+          "name": "Daniel G. Costa",
+          "orcid": "https://orcid.org/0000-0003-3988-8476",
+          "isCorresponding": false,
+          "position": "last"
+        }
+      ],
+      "year": 2023,
+      "month": 11,
+      "date": "2023-11-21",
+      "doi": "https://doi.org/10.1109/sbesc60926.2023.10324250",
+      "url": "https://doi.org/10.1109/sbesc60926.2023.10324250",
+      "citations": 5,
+      "isOpenAccess": false,
+      "oaUrl": null,
+      "publicationType": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": {
+        "first": "1",
+        "last": "6"
+      },
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/smart-city",
+          "display_name": "Smart City",
+          "score": 0.5492825
+        }
+      ],
+      "topics": [
+        {
+          "id": "https://openalex.org/T12120",
+          "display_name": "Air Quality Monitoring and Forecasting",
+          "score": 0.9889,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11980",
+          "display_name": "Human Mobility and Location-Based Analysis",
+          "score": 0.9801,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3313",
+            "display_name": "Transportation"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12597",
+          "display_name": "Fire Detection and Safety Systems",
+          "score": 0.9726,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2213",
+            "display_name": "Safety, Risk, Reliability and Quality"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "abstract": "The rapid urbanization of cities has given rise to numerous challenges related to essential services and emergency management. To address these complexities, smart city solutions have emerged, employing advanced technologies to automate and enhance service quality. In this context, wireless sensor networks and the Internet of Things offer promising solutions for monitoring and detecting emergencies in urban environments. However, urban emergency detection is a complex task that requires intellig...",
+      "venue": null,
+      "language": "en",
+      "isRetracted": false,
+      "citationsPerYear": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        }
+      ],
+      "lastUpdated": "2025-10-01T03:15:04.302Z",
+      "display_name": "Urban emergency detection system using hierarchical, collaborative and configurable wireless sensor networks",
+      "publication_year": 2023,
+      "publication_date": "2023-11-21",
+      "ids": {
+        "openalex": "https://openalex.org/W4388966876",
+        "doi": "https://doi.org/10.1109/sbesc60926.2023.10324250"
+      },
+      "primary_location": {
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/sbesc60926.2023.10324250",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false
+      },
+      "type": "article",
+      "type_crossref": "proceedings-article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5111079661",
+            "display_name": "Gustavo A. A. Coelho",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I21606457",
+              "display_name": "Universidade Estadual de Feira de Santana",
+              "ror": "https://ror.org/04ygk5j35",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I21606457"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Gustavo A. A. Coelho",
+          "raw_affiliation_strings": [
+            "PGCC-UEFS, State University of Feira de Santana, Brazil"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "PGCC-UEFS, State University of Feira de Santana, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I21606457"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5011761859",
+            "display_name": "Thiago C. Jesus",
+            "orcid": "https://orcid.org/0000-0001-5299-6856"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I21606457",
+              "display_name": "Universidade Estadual de Feira de Santana",
+              "ror": "https://ror.org/04ygk5j35",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I21606457"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Thiago C. Jesus",
+          "raw_affiliation_strings": [
+            "DTEC-UEFS, Department of Technology, State University of Feira de Santana, Brazil"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "DTEC-UEFS, Department of Technology, State University of Feira de Santana, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I21606457"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5068969835",
+            "display_name": "Daniel G. Costa",
+            "orcid": "https://orcid.org/0000-0003-3988-8476"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210121509",
+              "display_name": "Institute of Mechanical Engineering and Industrial Mangement",
+              "ror": "https://ror.org/02pk7c879",
+              "country_code": "PT",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I182534213",
+                "https://openalex.org/I4210121509"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I182534213",
+              "display_name": "Universidade do Porto",
+              "ror": "https://ror.org/043pwc612",
+              "country_code": "PT",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I182534213"
+              ]
+            }
+          ],
+          "countries": [
+            "PT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Daniel G. Costa",
+          "raw_affiliation_strings": [
+            "INEGI, Faculty of Engineering, University of Porto, Portugal"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "INEGI, Faculty of Engineering, University of Porto, Portugal",
+              "institution_ids": [
+                "https://openalex.org/I4210121509",
+                "https://openalex.org/I182534213"
+              ]
+            }
+          ]
+        }
+      ],
+      "institution_assertions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.699,
+      "has_fulltext": false,
+      "cited_by_count": 5,
+      "citation_normalized_percentile": {
+        "value": 0.614924,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 85,
+        "max": 88
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "1",
+        "last_page": "6"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12120",
+        "display_name": "Air Quality Monitoring and Forecasting",
+        "score": 0.9889,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "concepts": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.75430876
+        },
+        {
+          "id": "https://openalex.org/C24590314",
+          "wikidata": "https://www.wikidata.org/wiki/Q336038",
+          "display_name": "Wireless sensor network",
+          "level": 2,
+          "score": 0.60966235
+        },
+        {
+          "id": "https://openalex.org/C2777103469",
+          "wikidata": "https://www.wikidata.org/wiki/Q1231558",
+          "display_name": "Smart city",
+          "level": 3,
+          "score": 0.5492825
+        },
+        {
+          "id": "https://openalex.org/C2779343474",
+          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+          "display_name": "Context (archaeology)",
+          "level": 2,
+          "score": 0.5374769
+        },
+        {
+          "id": "https://openalex.org/C38652104",
+          "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+          "display_name": "Computer security",
+          "level": 1,
+          "score": 0.33155668
+        },
+        {
+          "id": "https://openalex.org/C81860439",
+          "wikidata": "https://www.wikidata.org/wiki/Q251212",
+          "display_name": "Internet of Things",
+          "level": 2,
+          "score": 0.29935896
+        },
+        {
+          "id": "https://openalex.org/C31258907",
+          "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+          "display_name": "Computer network",
+          "level": 1,
+          "score": 0.2880363
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1109/sbesc60926.2023.10324250",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": false
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
+          "score": 0.78
+        }
+      ],
+      "grants": [],
+      "datasets": [],
+      "versions": [],
+      "referenced_works_count": 10,
+      "referenced_works": [
+        "https://openalex.org/W2052816043",
+        "https://openalex.org/W2134736495",
+        "https://openalex.org/W2900811403",
+        "https://openalex.org/W2905145587",
+        "https://openalex.org/W3100279757",
+        "https://openalex.org/W3170357465",
+        "https://openalex.org/W4285123134",
+        "https://openalex.org/W4286214446",
+        "https://openalex.org/W4308087325",
+        "https://openalex.org/W4319781903"
+      ],
+      "related_works": [
+        "https://openalex.org/W4396701345",
+        "https://openalex.org/W4391913857",
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2390279801",
+        "https://openalex.org/W2376932109",
+        "https://openalex.org/W2358668433",
+        "https://openalex.org/W2001405890",
+        "https://openalex.org/W1939054760"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          145
+        ],
+        "rapid": [
+          1
+        ],
+        "urbanization": [
+          2
+        ],
+        "of": [
+          3,
+          45,
+          87,
+          112,
+          150,
+          161,
+          170,
+          187
+        ],
+        "cities": [
+          4
+        ],
+        "has": [
+          5
+        ],
+        "given": [
+          6
+        ],
+        "rise": [
+          7
+        ],
+        "to": [
+          8,
+          12,
+          30,
+          80,
+          95,
+          183
+        ],
+        "numerous": [
+          9
+        ],
+        "challenges": [
+          10
+        ],
+        "related": [
+          11
+        ],
+        "essential": [
+          13
+        ],
+        "services": [
+          14
+        ],
+        "and": [
+          15,
+          32,
+          42,
+          52,
+          71,
+          92,
+          100,
+          106,
+          118,
+          140,
+          147,
+          172,
+          177
+        ],
+        "emergency": [
+          16,
+          60,
+          88,
+          133,
+          180
+        ],
+        "management.": [
+          17
+        ],
+        "To": [
+          18,
+          103
+        ],
+        "address": [
+          19
+        ],
+        "these": [
+          20
+        ],
+        "complexities,": [
+          21
+        ],
+        "smart": [
+          22
+        ],
+        "city": [
+          23,
+          189
+        ],
+        "solutions": [
+          24,
+          49
+        ],
+        "have": [
+          25
+        ],
+        "emerged,": [
+          26
+        ],
+        "employing": [
+          27
+        ],
+        "advanced": [
+          28
+        ],
+        "technologies": [
+          29
+        ],
+        "automate": [
+          31
+        ],
+        "enhance": [
+          33
+        ],
+        "service": [
+          34
+        ],
+        "quality.": [
+          35
+        ],
+        "In": [
+          36,
+          124
+        ],
+        "this": [
+          37,
+          125
+        ],
+        "context,": [
+          38
+        ],
+        "wireless": [
+          39,
+          142
+        ],
+        "sensor": [
+          40,
+          143
+        ],
+        "networks": [
+          41,
+          153
+        ],
+        "the": [
+          43,
+          84,
+          151,
+          168,
+          184
+        ],
+        "Internet": [
+          44
+        ],
+        "Things": [
+          46
+        ],
+        "offer": [
+          47
+        ],
+        "promising": [
+          48
+        ],
+        "for": [
+          50
+        ],
+        "monitoring": [
+          51
+        ],
+        "detecting": [
+          53
+        ],
+        "emergencies": [
+          54
+        ],
+        "in": [
+          55,
+          167
+        ],
+        "urban": [
+          56,
+          59,
+          131,
+          179
+        ],
+        "environments.": [
+          57
+        ],
+        "However,": [
+          58
+        ],
+        "detection": [
+          61,
+          89,
+          134,
+          181
+        ],
+        "is": [
+          62,
+          122,
+          194
+        ],
+        "a": [
+          63,
+          109,
+          129
+        ],
+        "complex": [
+          64
+        ],
+        "task": [
+          65
+        ],
+        "that": [
+          66
+        ],
+        "requires": [
+          67
+        ],
+        "intelligent": [
+          68
+        ],
+        "data": [
+          69,
+          156
+        ],
+        "processing": [
+          70
+        ],
+        "analysis.": [
+          72
+        ],
+        "Many": [
+          73
+        ],
+        "existing": [
+          74
+        ],
+        "approaches": [
+          75
+        ],
+        "utilize": [
+          76
+        ],
+        "artificial": [
+          77
+        ],
+        "intelligence": [
+          78
+        ],
+        "techniques": [
+          79
+        ],
+        "improve": [
+          81
+        ],
+        "accuracy.": [
+          82
+        ],
+        "Moreover,": [
+          83
+        ],
+        "time-critical": [
+          85
+        ],
+        "nature": [
+          86,
+          149
+        ],
+        "necessitates": [
+          90
+        ],
+        "swift": [
+          91
+        ],
+        "reliable": [
+          93,
+          120
+        ],
+        "diagnosis": [
+          94
+        ],
+        "avoid": [
+          96
+        ],
+        "potential": [
+          97
+        ],
+        "economic": [
+          98
+        ],
+        "losses": [
+          99
+        ],
+        "human": [
+          101
+        ],
+        "risks.": [
+          102
+        ],
+        "achieve": [
+          104
+        ],
+        "precise": [
+          105
+        ],
+        "timely": [
+          107
+        ],
+        "detection,": [
+          108
+        ],
+        "system": [
+          110,
+          135
+        ],
+        "capable": [
+          111
+        ],
+        "collecting": [
+          113
+        ],
+        "georeferenced": [
+          114
+        ],
+        "data,": [
+          115
+        ],
+        "analyzing": [
+          116
+        ],
+        "it,": [
+          117
+        ],
+        "providing": [
+          119
+        ],
+        "diagnoses": [
+          121
+        ],
+        "essential.": [
+          123
+        ],
+        "paper,": [
+          126
+        ],
+        "we": [
+          127
+        ],
+        "propose": [
+          128
+        ],
+        "novel": [
+          130
+        ],
+        "multiple": [
+          132
+        ],
+        "based": [
+          136
+        ],
+        "on": [
+          137
+        ],
+        "hierarchical,": [
+          138
+        ],
+        "collaborative": [
+          139,
+          148
+        ],
+        "configurable": [
+          141,
+          173
+        ],
+        "networks.": [
+          144
+        ],
+        "hierarchical": [
+          146
+        ],
+        "proposed": [
+          152
+        ],
+        "ensures": [
+          154
+        ],
+        "efficient": [
+          155
+        ],
+        "exchange": [
+          157
+        ],
+        "between": [
+          158
+        ],
+        "sensing": [
+          159
+        ],
+        "units": [
+          160
+        ],
+        "different": [
+          162
+        ],
+        "categories.": [
+          163
+        ],
+        "Our": [
+          164
+        ],
+        "contributions": [
+          165
+        ],
+        "lie": [
+          166
+        ],
+        "implementation": [
+          169
+        ],
+        "flexible": [
+          171
+        ],
+        "functionalities,": [
+          174
+        ],
+        "enabling": [
+          175
+        ],
+        "accurate": [
+          176
+        ],
+        "energy-efficient": [
+          178
+        ],
+        "adaptable": [
+          182
+        ],
+        "unique": [
+          185
+        ],
+        "characteristics": [
+          186
+        ],
+        "each": [
+          188
+        ],
+        "or": [
+          190
+        ],
+        "region": [
+          191
+        ],
+        "where": [
+          192
+        ],
+        "it": [
+          193
+        ],
+        "deployed.": [
+          195
+        ]
+      },
+      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4388966876",
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2025-09-24T18:29:20.668387",
+      "created_date": "2023-11-25"
     },
     {
       "id": "https://openalex.org/W4388842249",
@@ -5861,7 +6767,7 @@
       "citationsPerYear": [
         {
           "year": 2025,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2024,
@@ -5872,7 +6778,7 @@
           "cited_by_count": 1
         }
       ],
-      "lastUpdated": "2025-09-01T03:24:24.560Z",
+      "lastUpdated": "2025-10-01T03:15:04.302Z",
       "display_name": "Exploiting geospatial data of connectivity and urban infrastructure for efficient positioning of emergency detection units in smart cities",
       "publication_year": 2023,
       "publication_date": "2023-11-21",
@@ -6220,17 +7126,17 @@
         "currency": "USD",
         "value_usd": 3740
       },
-      "fwci": 3.181,
+      "fwci": 3.26,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.999749,
+        "value": 0.999748,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 95,
-        "max": 96
+        "min": 94,
+        "max": 95
       },
       "biblio": {
         "volume": "107",
@@ -7220,12 +8126,11 @@
           301
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4388842249",
       "counts_by_year": [
         {
           "year": 2025,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2024,
@@ -7236,921 +8141,8 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-08-24T03:59:05.055222",
+      "updated_date": "2025-09-20T21:45:15.724741",
       "created_date": "2023-11-21"
-    },
-    {
-      "id": "https://openalex.org/W4388966876",
-      "title": "Urban emergency detection system using hierarchical, collaborative and configurable wireless sensor networks",
-      "authors": [
-        {
-          "name": "Gustavo A. A. Coelho",
-          "orcid": null,
-          "isCorresponding": false,
-          "position": "first"
-        },
-        {
-          "name": "Thiago C. Jesus",
-          "orcid": "https://orcid.org/0000-0001-5299-6856",
-          "isCorresponding": false,
-          "position": "middle"
-        },
-        {
-          "name": "Daniel G. Costa",
-          "orcid": "https://orcid.org/0000-0003-3988-8476",
-          "isCorresponding": false,
-          "position": "last"
-        }
-      ],
-      "year": 2023,
-      "month": 11,
-      "date": "2023-11-21",
-      "doi": "https://doi.org/10.1109/sbesc60926.2023.10324250",
-      "url": "https://doi.org/10.1109/sbesc60926.2023.10324250",
-      "citations": 5,
-      "isOpenAccess": false,
-      "oaUrl": null,
-      "publicationType": "proceedings-article",
-      "volume": null,
-      "issue": null,
-      "pages": {
-        "first": "1",
-        "last": "6"
-      },
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/smart-city",
-          "display_name": "Smart City",
-          "score": 0.5492825
-        }
-      ],
-      "topics": [
-        {
-          "id": "https://openalex.org/T12120",
-          "display_name": "Air Quality Monitoring and Forecasting",
-          "score": 0.9889,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11980",
-          "display_name": "Human Mobility and Location-Based Analysis",
-          "score": 0.9801,
-          "subfield": {
-            "id": "https://openalex.org/subfields/3313",
-            "display_name": "Transportation"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/33",
-            "display_name": "Social Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12597",
-          "display_name": "Fire Detection and Safety Systems",
-          "score": 0.9726,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2213",
-            "display_name": "Safety, Risk, Reliability and Quality"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "abstract": "The rapid urbanization of cities has given rise to numerous challenges related to essential services and emergency management. To address these complexities, smart city solutions have emerged, employing advanced technologies to automate and enhance service quality. In this context, wireless sensor networks and the Internet of Things offer promising solutions for monitoring and detecting emergencies in urban environments. However, urban emergency detection is a complex task that requires intellig...",
-      "venue": null,
-      "language": "en",
-      "isRetracted": false,
-      "citationsPerYear": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 3
-        }
-      ],
-      "lastUpdated": "2025-09-01T03:24:24.561Z",
-      "display_name": "Urban emergency detection system using hierarchical, collaborative and configurable wireless sensor networks",
-      "publication_year": 2023,
-      "publication_date": "2023-11-21",
-      "ids": {
-        "openalex": "https://openalex.org/W4388966876",
-        "doi": "https://doi.org/10.1109/sbesc60926.2023.10324250"
-      },
-      "primary_location": {
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1109/sbesc60926.2023.10324250",
-        "pdf_url": null,
-        "source": null,
-        "license": null,
-        "license_id": null,
-        "version": null,
-        "is_accepted": false,
-        "is_published": false
-      },
-      "type": "article",
-      "type_crossref": "proceedings-article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5111079661",
-            "display_name": "Gustavo A. A. Coelho",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I21606457",
-              "display_name": "Universidade Estadual de Feira de Santana",
-              "ror": "https://ror.org/04ygk5j35",
-              "country_code": "BR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I21606457"
-              ]
-            }
-          ],
-          "countries": [
-            "BR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Gustavo A. A. Coelho",
-          "raw_affiliation_strings": [
-            "PGCC-UEFS, State University of Feira de Santana, Brazil"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "PGCC-UEFS, State University of Feira de Santana, Brazil",
-              "institution_ids": [
-                "https://openalex.org/I21606457"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5011761859",
-            "display_name": "Thiago C. Jesus",
-            "orcid": "https://orcid.org/0000-0001-5299-6856"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I21606457",
-              "display_name": "Universidade Estadual de Feira de Santana",
-              "ror": "https://ror.org/04ygk5j35",
-              "country_code": "BR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I21606457"
-              ]
-            }
-          ],
-          "countries": [
-            "BR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Thiago C. Jesus",
-          "raw_affiliation_strings": [
-            "DTEC-UEFS, Department of Technology, State University of Feira de Santana, Brazil"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "DTEC-UEFS, Department of Technology, State University of Feira de Santana, Brazil",
-              "institution_ids": [
-                "https://openalex.org/I21606457"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5068969835",
-            "display_name": "Daniel G. Costa",
-            "orcid": "https://orcid.org/0000-0003-3988-8476"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210121509",
-              "display_name": "Institute of Mechanical Engineering and Industrial Mangement",
-              "ror": "https://ror.org/02pk7c879",
-              "country_code": "PT",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I182534213",
-                "https://openalex.org/I4210121509"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I182534213",
-              "display_name": "Universidade do Porto",
-              "ror": "https://ror.org/043pwc612",
-              "country_code": "PT",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I182534213"
-              ]
-            }
-          ],
-          "countries": [
-            "PT"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Daniel G. Costa",
-          "raw_affiliation_strings": [
-            "INEGI, Faculty of Engineering, University of Porto, Portugal"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "INEGI, Faculty of Engineering, University of Porto, Portugal",
-              "institution_ids": [
-                "https://openalex.org/I4210121509",
-                "https://openalex.org/I182534213"
-              ]
-            }
-          ]
-        }
-      ],
-      "institution_assertions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.739,
-      "has_fulltext": false,
-      "cited_by_count": 5,
-      "citation_normalized_percentile": {
-        "value": 0.626368,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 86,
-        "max": 88
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "1",
-        "last_page": "6"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12120",
-        "display_name": "Air Quality Monitoring and Forecasting",
-        "score": 0.9889,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2305",
-          "display_name": "Environmental Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "concepts": [
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.75430876
-        },
-        {
-          "id": "https://openalex.org/C24590314",
-          "wikidata": "https://www.wikidata.org/wiki/Q336038",
-          "display_name": "Wireless sensor network",
-          "level": 2,
-          "score": 0.60966235
-        },
-        {
-          "id": "https://openalex.org/C2777103469",
-          "wikidata": "https://www.wikidata.org/wiki/Q1231558",
-          "display_name": "Smart city",
-          "level": 3,
-          "score": 0.5492825
-        },
-        {
-          "id": "https://openalex.org/C2779343474",
-          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
-          "display_name": "Context (archaeology)",
-          "level": 2,
-          "score": 0.5374769
-        },
-        {
-          "id": "https://openalex.org/C38652104",
-          "wikidata": "https://www.wikidata.org/wiki/Q3510521",
-          "display_name": "Computer security",
-          "level": 1,
-          "score": 0.33155668
-        },
-        {
-          "id": "https://openalex.org/C81860439",
-          "wikidata": "https://www.wikidata.org/wiki/Q251212",
-          "display_name": "Internet of Things",
-          "level": 2,
-          "score": 0.29935896
-        },
-        {
-          "id": "https://openalex.org/C31258907",
-          "wikidata": "https://www.wikidata.org/wiki/Q1301371",
-          "display_name": "Computer network",
-          "level": 1,
-          "score": 0.2880363
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1109/sbesc60926.2023.10324250",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": null,
-          "is_accepted": false,
-          "is_published": false
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.78
-        }
-      ],
-      "grants": [],
-      "datasets": [],
-      "versions": [],
-      "referenced_works_count": 10,
-      "referenced_works": [
-        "https://openalex.org/W2052816043",
-        "https://openalex.org/W2134736495",
-        "https://openalex.org/W2900811403",
-        "https://openalex.org/W2905145587",
-        "https://openalex.org/W3100279757",
-        "https://openalex.org/W3170357465",
-        "https://openalex.org/W4285123134",
-        "https://openalex.org/W4286214446",
-        "https://openalex.org/W4308087325",
-        "https://openalex.org/W4319781903"
-      ],
-      "related_works": [
-        "https://openalex.org/W4396701345",
-        "https://openalex.org/W4391913857",
-        "https://openalex.org/W4391375266",
-        "https://openalex.org/W2899084033",
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W2390279801",
-        "https://openalex.org/W2376932109",
-        "https://openalex.org/W2358668433",
-        "https://openalex.org/W2001405890",
-        "https://openalex.org/W1939054760"
-      ],
-      "abstract_inverted_index": {
-        "The": [
-          0,
-          145
-        ],
-        "rapid": [
-          1
-        ],
-        "urbanization": [
-          2
-        ],
-        "of": [
-          3,
-          45,
-          87,
-          112,
-          150,
-          161,
-          170,
-          187
-        ],
-        "cities": [
-          4
-        ],
-        "has": [
-          5
-        ],
-        "given": [
-          6
-        ],
-        "rise": [
-          7
-        ],
-        "to": [
-          8,
-          12,
-          30,
-          80,
-          95,
-          183
-        ],
-        "numerous": [
-          9
-        ],
-        "challenges": [
-          10
-        ],
-        "related": [
-          11
-        ],
-        "essential": [
-          13
-        ],
-        "services": [
-          14
-        ],
-        "and": [
-          15,
-          32,
-          42,
-          52,
-          71,
-          92,
-          100,
-          106,
-          118,
-          140,
-          147,
-          172,
-          177
-        ],
-        "emergency": [
-          16,
-          60,
-          88,
-          133,
-          180
-        ],
-        "management.": [
-          17
-        ],
-        "To": [
-          18,
-          103
-        ],
-        "address": [
-          19
-        ],
-        "these": [
-          20
-        ],
-        "complexities,": [
-          21
-        ],
-        "smart": [
-          22
-        ],
-        "city": [
-          23,
-          189
-        ],
-        "solutions": [
-          24,
-          49
-        ],
-        "have": [
-          25
-        ],
-        "emerged,": [
-          26
-        ],
-        "employing": [
-          27
-        ],
-        "advanced": [
-          28
-        ],
-        "technologies": [
-          29
-        ],
-        "automate": [
-          31
-        ],
-        "enhance": [
-          33
-        ],
-        "service": [
-          34
-        ],
-        "quality.": [
-          35
-        ],
-        "In": [
-          36,
-          124
-        ],
-        "this": [
-          37,
-          125
-        ],
-        "context,": [
-          38
-        ],
-        "wireless": [
-          39,
-          142
-        ],
-        "sensor": [
-          40,
-          143
-        ],
-        "networks": [
-          41,
-          153
-        ],
-        "the": [
-          43,
-          84,
-          151,
-          168,
-          184
-        ],
-        "Internet": [
-          44
-        ],
-        "Things": [
-          46
-        ],
-        "offer": [
-          47
-        ],
-        "promising": [
-          48
-        ],
-        "for": [
-          50
-        ],
-        "monitoring": [
-          51
-        ],
-        "detecting": [
-          53
-        ],
-        "emergencies": [
-          54
-        ],
-        "in": [
-          55,
-          167
-        ],
-        "urban": [
-          56,
-          59,
-          131,
-          179
-        ],
-        "environments.": [
-          57
-        ],
-        "However,": [
-          58
-        ],
-        "detection": [
-          61,
-          89,
-          134,
-          181
-        ],
-        "is": [
-          62,
-          122,
-          194
-        ],
-        "a": [
-          63,
-          109,
-          129
-        ],
-        "complex": [
-          64
-        ],
-        "task": [
-          65
-        ],
-        "that": [
-          66
-        ],
-        "requires": [
-          67
-        ],
-        "intelligent": [
-          68
-        ],
-        "data": [
-          69,
-          156
-        ],
-        "processing": [
-          70
-        ],
-        "analysis.": [
-          72
-        ],
-        "Many": [
-          73
-        ],
-        "existing": [
-          74
-        ],
-        "approaches": [
-          75
-        ],
-        "utilize": [
-          76
-        ],
-        "artificial": [
-          77
-        ],
-        "intelligence": [
-          78
-        ],
-        "techniques": [
-          79
-        ],
-        "improve": [
-          81
-        ],
-        "accuracy.": [
-          82
-        ],
-        "Moreover,": [
-          83
-        ],
-        "time-critical": [
-          85
-        ],
-        "nature": [
-          86,
-          149
-        ],
-        "necessitates": [
-          90
-        ],
-        "swift": [
-          91
-        ],
-        "reliable": [
-          93,
-          120
-        ],
-        "diagnosis": [
-          94
-        ],
-        "avoid": [
-          96
-        ],
-        "potential": [
-          97
-        ],
-        "economic": [
-          98
-        ],
-        "losses": [
-          99
-        ],
-        "human": [
-          101
-        ],
-        "risks.": [
-          102
-        ],
-        "achieve": [
-          104
-        ],
-        "precise": [
-          105
-        ],
-        "timely": [
-          107
-        ],
-        "detection,": [
-          108
-        ],
-        "system": [
-          110,
-          135
-        ],
-        "capable": [
-          111
-        ],
-        "collecting": [
-          113
-        ],
-        "georeferenced": [
-          114
-        ],
-        "data,": [
-          115
-        ],
-        "analyzing": [
-          116
-        ],
-        "it,": [
-          117
-        ],
-        "providing": [
-          119
-        ],
-        "diagnoses": [
-          121
-        ],
-        "essential.": [
-          123
-        ],
-        "paper,": [
-          126
-        ],
-        "we": [
-          127
-        ],
-        "propose": [
-          128
-        ],
-        "novel": [
-          130
-        ],
-        "multiple": [
-          132
-        ],
-        "based": [
-          136
-        ],
-        "on": [
-          137
-        ],
-        "hierarchical,": [
-          138
-        ],
-        "collaborative": [
-          139,
-          148
-        ],
-        "configurable": [
-          141,
-          173
-        ],
-        "networks.": [
-          144
-        ],
-        "hierarchical": [
-          146
-        ],
-        "proposed": [
-          152
-        ],
-        "ensures": [
-          154
-        ],
-        "efficient": [
-          155
-        ],
-        "exchange": [
-          157
-        ],
-        "between": [
-          158
-        ],
-        "sensing": [
-          159
-        ],
-        "units": [
-          160
-        ],
-        "different": [
-          162
-        ],
-        "categories.": [
-          163
-        ],
-        "Our": [
-          164
-        ],
-        "contributions": [
-          165
-        ],
-        "lie": [
-          166
-        ],
-        "implementation": [
-          169
-        ],
-        "flexible": [
-          171
-        ],
-        "functionalities,": [
-          174
-        ],
-        "enabling": [
-          175
-        ],
-        "accurate": [
-          176
-        ],
-        "energy-efficient": [
-          178
-        ],
-        "adaptable": [
-          182
-        ],
-        "unique": [
-          185
-        ],
-        "characteristics": [
-          186
-        ],
-        "each": [
-          188
-        ],
-        "or": [
-          190
-        ],
-        "region": [
-          191
-        ],
-        "where": [
-          192
-        ],
-        "it": [
-          193
-        ],
-        "deployed.": [
-          195
-        ]
-      },
-      "abstract_inverted_index_v3": null,
-      "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4388966876",
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2025-08-17T15:42:31.921603",
-      "created_date": "2023-11-25"
     },
     {
       "id": "https://openalex.org/W4388039561",
@@ -8292,7 +8284,7 @@
           "cited_by_count": 1
         }
       ],
-      "lastUpdated": "2025-09-01T03:24:24.561Z",
+      "lastUpdated": "2025-10-01T03:15:04.302Z",
       "display_name": "Dependability and Quality-Aware Connectivity in Smart Cities Applications",
       "publication_year": 2023,
       "publication_date": "2023-09-24",
@@ -8561,11 +8553,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.645,
+      "fwci": 0.617,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.50236,
+        "value": 0.490637,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9329,7 +9321,6 @@
           185
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4388039561",
       "counts_by_year": [
         {
@@ -9337,7 +9328,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-08-29T02:14:38.971898",
+      "updated_date": "2025-09-16T14:26:31.528100",
       "created_date": "2023-11-01"
     },
     {
@@ -9457,7 +9448,7 @@
           "cited_by_count": 5
         }
       ],
-      "lastUpdated": "2025-09-01T03:24:24.561Z",
+      "lastUpdated": "2025-10-01T03:15:04.303Z",
       "display_name": "A Secure OTA Approach For Flexible Operation of Emergency Detection Units in Smart Cities",
       "publication_year": 2023,
       "publication_date": "2023-09-24",
@@ -9630,16 +9621,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.223,
+      "fwci": 3.085,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.50236,
+        "value": 0.490637,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 86,
+        "min": 85,
         "max": 88
       },
       "biblio": {
@@ -10297,7 +10288,6 @@
           225
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4388078058",
       "counts_by_year": [
         {
@@ -10305,7 +10295,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2025-08-18T20:13:45.956190",
+      "updated_date": "2025-09-25T22:27:21.178082",
       "created_date": "2023-11-01"
     },
     {
@@ -10441,7 +10431,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-09-01T03:24:24.561Z",
+      "lastUpdated": "2025-10-01T03:15:04.303Z",
       "display_name": "A dependability-aware approach for dynamic mobile sink repositioning in smart cities applications",
       "publication_year": 2022,
       "publication_date": "2022-09-26",
@@ -10674,11 +10664,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.947,
+      "fwci": 0.927,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.61868,
+        "value": 0.614929,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11309,7 +11299,6 @@
           167
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4308087325",
       "counts_by_year": [
         {
@@ -11321,7 +11310,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-08-31T09:22:12.422801",
+      "updated_date": "2025-09-18T23:05:52.380472",
       "created_date": "2022-11-08"
     },
     {
@@ -11447,7 +11436,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-09-01T03:24:24.561Z",
+      "lastUpdated": "2025-10-01T03:15:04.303Z",
       "display_name": "A Framework for the Development of Reconfigurable Sensors-based Emergencies Detection Units in Smart Cities",
       "publication_year": 2022,
       "publication_date": "2022-09-26",
@@ -11620,11 +11609,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.631,
+      "fwci": 0.618,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.327247,
+        "value": 0.325102,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12110,7 +12099,6 @@
           119
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4308087333",
       "counts_by_year": [
         {
@@ -12118,7 +12106,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-08-31T09:26:38.445922",
+      "updated_date": "2025-09-18T23:10:20.383554",
       "created_date": "2022-11-08"
     },
     {
@@ -12274,7 +12262,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-09-01T03:24:24.561Z",
+      "lastUpdated": "2025-10-01T03:15:04.303Z",
       "display_name": "A Survey on Monitoring Quality Assessment for Wireless Visual Sensor Networks",
       "publication_year": 2022,
       "publication_date": "2022-07-19",
@@ -12548,11 +12536,11 @@
         "currency": "CHF",
         "value_usd": 1515
       },
-      "fwci": 1.849,
+      "fwci": 1.804,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.786281,
+        "value": 0.780679,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13488,7 +13476,6 @@
           229
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4286214446",
       "counts_by_year": [
         {
@@ -13504,7 +13491,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-08-16T05:32:20.333985",
+      "updated_date": "2025-09-23T06:35:42.856340",
       "created_date": "2022-07-21"
     },
     {
@@ -13560,7 +13547,7 @@
       "date": "2022-01-01",
       "doi": "https://doi.org/10.1109/access.2022.3180033",
       "url": "https://doi.org/10.1109/access.2022.3180033",
-      "citations": 67,
+      "citations": 68,
       "isOpenAccess": true,
       "oaUrl": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09787492.pdf",
       "publicationType": "journal-article",
@@ -13651,7 +13638,7 @@
       "citationsPerYear": [
         {
           "year": 2025,
-          "cited_by_count": 14
+          "cited_by_count": 16
         },
         {
           "year": 2024,
@@ -13666,7 +13653,7 @@
           "cited_by_count": 7
         }
       ],
-      "lastUpdated": "2025-09-01T03:24:24.561Z",
+      "lastUpdated": "2025-10-01T03:15:04.303Z",
       "display_name": "A Survey of Emergencies Management Systems in Smart Cities",
       "publication_year": 2022,
       "publication_date": "2022-01-01",
@@ -14022,12 +14009,12 @@
         "currency": "USD",
         "value_usd": 1850
       },
-      "fwci": 10.215,
+      "fwci": 10.189,
       "has_fulltext": true,
       "fulltext_origin": "pdf",
-      "cited_by_count": 67,
+      "cited_by_count": 68,
       "citation_normalized_percentile": {
-        "value": 0.999752,
+        "value": 0.999751,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -14950,12 +14937,11 @@
           203
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4285123134",
       "counts_by_year": [
         {
           "year": 2025,
-          "cited_by_count": 14
+          "cited_by_count": 16
         },
         {
           "year": 2024,
@@ -14970,7 +14956,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2025-08-27T15:57:41.023561",
+      "updated_date": "2025-09-24T11:58:45.613858",
       "created_date": "2022-07-14"
     },
     {
@@ -15120,7 +15106,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-09-01T03:24:24.561Z",
+      "lastUpdated": "2025-10-01T03:15:04.303Z",
       "display_name": "A Comprehensive Dependability Model for QoM-Aware Industrial WSN When Performing Visual Area Coverage in Occluded Scenarios",
       "publication_year": 2020,
       "publication_date": "2020-11-16",
@@ -15389,12 +15375,12 @@
         "currency": "CHF",
         "value_usd": 2598
       },
-      "fwci": 0.894,
+      "fwci": 0.895,
       "has_fulltext": true,
       "fulltext_origin": "pdf",
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.779786,
+        "value": 0.779991,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16125,7 +16111,6 @@
           132
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3100279757",
       "counts_by_year": [
         {
@@ -16145,7 +16130,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-08-16T05:02:58.757700",
+      "updated_date": "2025-09-23T06:07:11.399054",
       "created_date": "2020-11-23"
     },
     {
@@ -16309,7 +16294,7 @@
           "cited_by_count": 4
         }
       ],
-      "lastUpdated": "2025-09-01T03:24:24.561Z",
+      "lastUpdated": "2025-10-01T03:15:04.304Z",
       "display_name": "Modelling Coverage Failures Caused by Mobile Obstacles for the Selection of Faultless Visual Nodes in Wireless Sensor Networks",
       "publication_year": 2020,
       "publication_date": "2020-01-01",
@@ -16587,7 +16572,7 @@
         "currency": "USD",
         "value_usd": 1850
       },
-      "fwci": 1.405,
+      "fwci": 1.406,
       "has_fulltext": true,
       "fulltext_origin": "pdf",
       "cited_by_count": 13,
@@ -17441,7 +17426,6 @@
           213
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3008765476",
       "counts_by_year": [
         {
@@ -17469,7 +17453,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-08-24T16:00:39.174112",
+      "updated_date": "2025-09-21T09:58:16.147816",
       "created_date": "2020-03-06"
     },
     {
@@ -17623,7 +17607,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-09-01T03:24:24.562Z",
+      "lastUpdated": "2025-10-01T03:15:04.304Z",
       "display_name": "FoV-Based Quality Assessment and Optimization for Area Coverage in Wireless Visual Sensor Networks",
       "publication_year": 2020,
       "publication_date": "2020-01-01",
@@ -17930,7 +17914,7 @@
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.821231,
+        "value": 0.81827,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18767,7 +18751,6 @@
           215
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3035343018",
       "counts_by_year": [
         {
@@ -18791,7 +18774,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-08-24T16:00:20.778330",
+      "updated_date": "2025-09-21T09:57:58.346215",
       "created_date": "2020-06-19"
     },
     {
@@ -18927,7 +18910,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-09-01T03:24:24.562Z",
+      "lastUpdated": "2025-10-01T03:15:04.304Z",
       "display_name": "Wireless visual sensor networks redeployment based on dependability optimization",
       "publication_year": 2019,
       "publication_date": "2019-07-01",
@@ -19105,7 +19088,7 @@
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.871429,
+        "value": 0.876437,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19796,7 +19779,6 @@
           184
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3003910048",
       "counts_by_year": [
         {
@@ -19820,7 +19802,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-08-24T08:17:20.867179",
+      "updated_date": "2025-09-21T01:58:39.109633",
       "created_date": "2020-02-07"
     },
     {
@@ -19964,7 +19946,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-09-01T03:24:24.562Z",
+      "lastUpdated": "2025-10-01T03:15:04.304Z",
       "display_name": "An Availability Metric and Optimization Algorithms for Simultaneous Coverage of Targets and Areas by Wireless Visual Sensor Networks",
       "publication_year": 2019,
       "publication_date": "2019-07-01",
@@ -20166,7 +20148,7 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.688056,
+        "value": 0.687761,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20771,7 +20753,6 @@
           166
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3003333072",
       "counts_by_year": [
         {
@@ -20791,7 +20772,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-08-25T04:26:42.609529",
+      "updated_date": "2025-09-21T22:17:05.933244",
       "created_date": "2020-02-07"
     },
     {
@@ -20949,7 +20930,7 @@
           "cited_by_count": 4
         }
       ],
-      "lastUpdated": "2025-09-01T03:24:24.563Z",
+      "lastUpdated": "2025-10-01T03:15:04.305Z",
       "display_name": "Automated Methodology for Dependability Evaluation of Wireless Visual Sensor Networks",
       "publication_year": 2018,
       "publication_date": "2018-08-10",
@@ -21218,12 +21199,12 @@
         "currency": "CHF",
         "value_usd": 2598
       },
-      "fwci": 2.257,
+      "fwci": 2.258,
       "has_fulltext": true,
       "fulltext_origin": "pdf",
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.862995,
+        "value": 0.863762,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22137,7 +22118,6 @@
           212
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2885871490",
       "counts_by_year": [
         {
@@ -22165,7 +22145,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-08-16T04:59:01.356833",
+      "updated_date": "2025-09-23T06:03:06.615491",
       "created_date": "2018-08-22"
     },
     {
@@ -22303,7 +22283,7 @@
           "cited_by_count": 3
         }
       ],
-      "lastUpdated": "2025-09-01T03:24:24.563Z",
+      "lastUpdated": "2025-10-01T03:15:04.305Z",
       "display_name": "On the Computing of Area Coverage by Visual Sensor Networks: Assessing Performance of Approximate and Precise Algorithms",
       "publication_year": 2018,
       "publication_date": "2018-07-01",
@@ -22482,7 +22462,7 @@
       "fulltext_origin": "pdf",
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.648423,
+        "value": 0.648275,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23181,7 +23161,6 @@
           173
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2894012709",
       "counts_by_year": [
         {
@@ -23201,7 +23180,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-08-16T09:05:26.321472",
+      "updated_date": "2025-09-23T10:27:07.422645",
       "created_date": "2018-10-05"
     },
     {
@@ -23387,7 +23366,7 @@
           "cited_by_count": 5
         }
       ],
-      "lastUpdated": "2025-09-01T03:24:24.563Z",
+      "lastUpdated": "2025-10-01T03:15:04.305Z",
       "display_name": "Polynomial Time Verification of Decentralized Diagnosability of Discrete Event Systems",
       "publication_year": 2011,
       "publication_date": "2011-03-15",
@@ -23557,7 +23536,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.263,
+      "fwci": 5.264,
       "has_fulltext": true,
       "fulltext_origin": "ngrams",
       "cited_by_count": 138,
@@ -24032,7 +24011,6 @@
           93
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2110388557",
       "counts_by_year": [
         {
@@ -24092,7 +24070,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2025-08-31T05:39:20.583028",
+      "updated_date": "2025-09-18T19:15:39.310526",
       "created_date": "2016-06-24"
     },
     {
@@ -24201,7 +24179,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-09-01T03:24:24.563Z",
+      "lastUpdated": "2025-10-01T03:15:04.305Z",
       "display_name": "Polynomial time verification of decentralized diagnosability of discrete event systems",
       "publication_year": 2010,
       "publication_date": "2010-06-01",
@@ -24354,7 +24332,7 @@
       "fulltext_origin": "ngrams",
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.646217,
+        "value": 0.646491,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24827,7 +24805,6 @@
           106
         ]
       },
-      "abstract_inverted_index_v3": null,
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2039478639",
       "counts_by_year": [
         {
@@ -24839,13 +24816,13 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-08-17T17:44:41.187883",
+      "updated_date": "2025-09-24T20:31:50.250853",
       "created_date": "2016-06-24"
     }
   ],
   "meta": {
     "count": 23,
-    "lastUpdated": "2025-09-01T03:24:24.570Z",
+    "lastUpdated": "2025-10-01T03:15:04.315Z",
     "venueOverridesApplied": 13
   }
 }
