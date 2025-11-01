@@ -116,7 +116,7 @@
       "language": "en",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2025-10-01T03:15:04.301Z",
+      "lastUpdated": "2025-11-01T03:15:49.990Z",
       "display_name": "On the Role of AI in Building Generative Urban Intelligence",
       "publication_year": 2025,
       "publication_date": "2025-07-24",
@@ -327,7 +327,7 @@
       },
       "cited_by_percentile_year": {
         "min": 0,
-        "max": 88
+        "max": 87
       },
       "biblio": {
         "volume": null,
@@ -581,9 +581,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.49,
           "display_name": "Sustainable cities and communities",
-          "score": 0.49
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "grants": [],
@@ -1040,7 +1040,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4412640748",
       "counts_by_year": [],
-      "updated_date": "2025-09-23T10:30:25.244662",
+      "updated_date": "2025-10-24T17:04:34.505900",
       "created_date": "2025-07-25"
     },
     {
@@ -1140,7 +1140,7 @@
       "language": "pt",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2025-10-01T03:15:04.301Z",
+      "lastUpdated": "2025-11-01T03:15:49.991Z",
       "display_name": "Posicionamento de sensores para monitoramento colaborativo de emergências urbanas",
       "publication_year": 2025,
       "publication_date": "2025-06-02",
@@ -1231,7 +1231,7 @@
       },
       "cited_by_percentile_year": {
         "min": 0,
-        "max": 88
+        "max": 87
       },
       "biblio": {
         "volume": null,
@@ -1529,7 +1529,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4411930661",
       "counts_by_year": [],
-      "updated_date": "2025-09-25T16:56:47.699832",
+      "updated_date": "2025-10-27T13:56:58.326088",
       "created_date": "2025-07-02"
     },
     {
@@ -1567,7 +1567,7 @@
       "date": "2025-04-29",
       "doi": "https://doi.org/10.3390/smartcities8030077",
       "url": "https://doi.org/10.3390/smartcities8030077",
-      "citations": 3,
+      "citations": 4,
       "isOpenAccess": true,
       "oaUrl": "https://doi.org/10.3390/smartcities8030077",
       "publicationType": "journal-article",
@@ -1658,10 +1658,10 @@
       "citationsPerYear": [
         {
           "year": 2025,
-          "cited_by_count": 2
+          "cited_by_count": 3
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.301Z",
+      "lastUpdated": "2025-11-01T03:15:49.991Z",
       "display_name": "The Road to Intelligent Cities",
       "publication_year": 2025,
       "publication_date": "2025-04-29",
@@ -1890,11 +1890,11 @@
         "currency": "CHF",
         "value_usd": 1515
       },
-      "fwci": 11.118,
+      "fwci": 9.599,
       "has_fulltext": false,
-      "cited_by_count": 3,
+      "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.999817,
+        "value": 0.999833,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2651,10 +2651,10 @@
       "counts_by_year": [
         {
           "year": 2025,
-          "cited_by_count": 2
+          "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-09-22T09:56:31.574128",
+      "updated_date": "2025-10-23T11:05:13.320683",
       "created_date": "2025-05-05"
     },
     {
@@ -2796,7 +2796,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.301Z",
+      "lastUpdated": "2025-11-01T03:15:49.991Z",
       "display_name": "Reliability and Detectability of Emergency Management Systems in Smart Cities under Common Cause Failures",
       "publication_year": 2024,
       "publication_date": "2024-05-06",
@@ -3025,7 +3025,7 @@
         "currency": "CHF",
         "value_usd": 2598
       },
-      "fwci": 1.962,
+      "fwci": 1.792,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
@@ -3034,8 +3034,8 @@
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 92,
-        "max": 94
+        "min": 91,
+        "max": 93
       },
       "biblio": {
         "volume": "24",
@@ -3302,9 +3302,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.74,
           "display_name": "Sustainable cities and communities",
-          "score": 0.74
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "grants": [],
@@ -3718,7 +3718,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-09-27T05:55:43.672428",
+      "updated_date": "2025-10-29T11:56:16.853909",
       "created_date": "2024-05-07"
     },
     {
@@ -3830,7 +3830,7 @@
       "language": "pt",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2025-10-01T03:15:04.301Z",
+      "lastUpdated": "2025-11-01T03:15:49.991Z",
       "display_name": "Plataforma de Crowdsourcing Internet of Things (Crowd-IoT) para detecção de emergências urbanas",
       "publication_year": 2024,
       "publication_date": "2024-04-26",
@@ -4060,7 +4060,7 @@
       },
       "cited_by_percentile_year": {
         "min": 0,
-        "max": 69
+        "max": 68
       },
       "biblio": {
         "volume": null,
@@ -4418,7 +4418,7 @@
       },
       "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4395681892",
       "counts_by_year": [],
-      "updated_date": "2025-09-24T06:34:40.541150",
+      "updated_date": "2025-10-25T16:11:34.541029",
       "created_date": "2024-04-27"
     },
     {
@@ -4462,7 +4462,7 @@
       "date": "2024-01-11",
       "doi": "https://doi.org/10.3390/su16020640",
       "url": "https://doi.org/10.3390/su16020640",
-      "citations": 37,
+      "citations": 39,
       "isOpenAccess": true,
       "oaUrl": "https://www.mdpi.com/2071-1050/16/2/640/pdf?version=1704965720",
       "publicationType": "journal-article",
@@ -4559,14 +4559,14 @@
       "citationsPerYear": [
         {
           "year": 2025,
-          "cited_by_count": 18
+          "cited_by_count": 21
         },
         {
           "year": 2024,
           "cited_by_count": 17
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.302Z",
+      "lastUpdated": "2025-11-01T03:15:49.991Z",
       "display_name": "Achieving Sustainable Smart Cities through Geospatial Data-Driven Approaches",
       "publication_year": 2024,
       "publication_date": "2024-01-11",
@@ -4852,12 +4852,12 @@
         "currency": "CHF",
         "value_usd": 2382
       },
-      "fwci": 20.158,
+      "fwci": 20.021,
       "has_fulltext": true,
       "fulltext_origin": "pdf",
-      "cited_by_count": 37,
+      "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.999748,
+        "value": 0.999747,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -5079,9 +5079,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.46,
           "display_name": "Sustainable cities and communities",
-          "score": 0.46
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "grants": [],
@@ -5695,14 +5695,14 @@
       "counts_by_year": [
         {
           "year": 2025,
-          "cited_by_count": 18
+          "cited_by_count": 21
         },
         {
           "year": 2024,
           "cited_by_count": 17
         }
       ],
-      "updated_date": "2025-09-26T15:58:43.798189",
+      "updated_date": "2025-10-28T18:37:41.087255",
       "created_date": "2024-01-13"
     },
     {
@@ -5817,7 +5817,7 @@
           "cited_by_count": 3
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.302Z",
+      "lastUpdated": "2025-11-01T03:15:49.991Z",
       "display_name": "Urban emergency detection system using hierarchical, collaborative and configurable wireless sensor networks",
       "publication_year": 2023,
       "publication_date": "2023-11-21",
@@ -5976,17 +5976,17 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.699,
+      "fwci": 0.669,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.614924,
+        "value": 0.606406,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 85,
-        "max": 88
+        "max": 87
       },
       "biblio": {
         "volume": null,
@@ -6096,9 +6096,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.78,
           "display_name": "Sustainable cities and communities",
-          "score": 0.78
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "grants": [],
@@ -6614,7 +6614,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-09-24T18:29:20.668387",
+      "updated_date": "2025-10-26T07:34:16.816391",
       "created_date": "2023-11-25"
     },
     {
@@ -6778,7 +6778,7 @@
           "cited_by_count": 1
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.302Z",
+      "lastUpdated": "2025-11-01T03:15:49.991Z",
       "display_name": "Exploiting geospatial data of connectivity and urban infrastructure for efficient positioning of emergency detection units in smart cities",
       "publication_year": 2023,
       "publication_date": "2023-11-21",
@@ -7126,7 +7126,7 @@
         "currency": "USD",
         "value_usd": 3740
       },
-      "fwci": 3.26,
+      "fwci": 3.121,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
@@ -7354,9 +7354,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.68,
           "display_name": "Sustainable cities and communities",
-          "score": 0.68
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "grants": [
@@ -8141,7 +8141,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-09-20T21:45:15.724741",
+      "updated_date": "2025-10-21T10:32:22.945172",
       "created_date": "2023-11-21"
     },
     {
@@ -8284,7 +8284,7 @@
           "cited_by_count": 1
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.302Z",
+      "lastUpdated": "2025-11-01T03:15:49.991Z",
       "display_name": "Dependability and Quality-Aware Connectivity in Smart Cities Applications",
       "publication_year": 2023,
       "publication_date": "2023-09-24",
@@ -8553,17 +8553,17 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.617,
+      "fwci": 0.596,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.490637,
+        "value": 0.481314,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 63,
-        "max": 74
+        "max": 73
       },
       "biblio": {
         "volume": null,
@@ -8841,9 +8841,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.43,
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.43
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "grants": [],
@@ -9328,7 +9328,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-09-16T14:26:31.528100",
+      "updated_date": "2025-10-16T12:00:54.045725",
       "created_date": "2023-11-01"
     },
     {
@@ -9448,7 +9448,7 @@
           "cited_by_count": 5
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.303Z",
+      "lastUpdated": "2025-11-01T03:15:49.991Z",
       "display_name": "A Secure OTA Approach For Flexible Operation of Emergency Detection Units in Smart Cities",
       "publication_year": 2023,
       "publication_date": "2023-09-24",
@@ -9621,17 +9621,17 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.085,
+      "fwci": 2.98,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.490637,
+        "value": 0.481314,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 85,
-        "max": 88
+        "max": 87
       },
       "biblio": {
         "volume": null,
@@ -9713,9 +9713,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.48,
           "display_name": "Sustainable cities and communities",
-          "score": 0.48
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "grants": [],
@@ -10295,7 +10295,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2025-09-25T22:27:21.178082",
+      "updated_date": "2025-10-16T11:59:44.975961",
       "created_date": "2023-11-01"
     },
     {
@@ -10431,7 +10431,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.303Z",
+      "lastUpdated": "2025-11-01T03:15:49.992Z",
       "display_name": "A dependability-aware approach for dynamic mobile sink repositioning in smart cities applications",
       "publication_year": 2022,
       "publication_date": "2022-09-26",
@@ -10664,11 +10664,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.927,
+      "fwci": 0.912,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.614929,
+        "value": 0.611598,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10847,9 +10847,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.89,
           "display_name": "Affordable and clean energy",
-          "score": 0.89
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "grants": [
@@ -11310,7 +11310,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-09-18T23:05:52.380472",
+      "updated_date": "2025-10-19T02:37:32.077674",
       "created_date": "2022-11-08"
     },
     {
@@ -11436,7 +11436,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.303Z",
+      "lastUpdated": "2025-11-01T03:15:49.992Z",
       "display_name": "A Framework for the Development of Reconfigurable Sensors-based Emergencies Detection Units in Smart Cities",
       "publication_year": 2022,
       "publication_date": "2022-09-26",
@@ -11609,11 +11609,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.618,
+      "fwci": 0.608,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.325102,
+        "value": 0.322914,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11764,9 +11764,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.43,
           "display_name": "Sustainable cities and communities",
-          "score": 0.43
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "grants": [],
@@ -12106,7 +12106,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-09-18T23:10:20.383554",
+      "updated_date": "2025-10-19T02:42:09.704597",
       "created_date": "2022-11-08"
     },
     {
@@ -12144,7 +12144,7 @@
       "date": "2022-07-19",
       "doi": "https://doi.org/10.3390/fi14070213",
       "url": "https://doi.org/10.3390/fi14070213",
-      "citations": 12,
+      "citations": 13,
       "isOpenAccess": true,
       "oaUrl": "https://www.mdpi.com/1999-5903/14/7/213/pdf?version=1658312449",
       "publicationType": "journal-article",
@@ -12262,7 +12262,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.303Z",
+      "lastUpdated": "2025-11-01T03:15:49.992Z",
       "display_name": "A Survey on Monitoring Quality Assessment for Wireless Visual Sensor Networks",
       "publication_year": 2022,
       "publication_date": "2022-07-19",
@@ -12536,17 +12536,17 @@
         "currency": "CHF",
         "value_usd": 1515
       },
-      "fwci": 1.804,
+      "fwci": 1.915,
       "has_fulltext": false,
-      "cited_by_count": 12,
+      "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.780679,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "value": 0.999934,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 90,
-        "max": 91
+        "min": 91,
+        "max": 92
       },
       "biblio": {
         "volume": "14",
@@ -13491,7 +13491,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-09-23T06:35:42.856340",
+      "updated_date": "2025-10-24T11:41:13.980006",
       "created_date": "2022-07-21"
     },
     {
@@ -13547,7 +13547,7 @@
       "date": "2022-01-01",
       "doi": "https://doi.org/10.1109/access.2022.3180033",
       "url": "https://doi.org/10.1109/access.2022.3180033",
-      "citations": 68,
+      "citations": 72,
       "isOpenAccess": true,
       "oaUrl": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09787492.pdf",
       "publicationType": "journal-article",
@@ -13638,7 +13638,7 @@
       "citationsPerYear": [
         {
           "year": 2025,
-          "cited_by_count": 16
+          "cited_by_count": 19
         },
         {
           "year": 2024,
@@ -13653,7 +13653,7 @@
           "cited_by_count": 7
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.303Z",
+      "lastUpdated": "2025-11-01T03:15:49.992Z",
       "display_name": "A Survey of Emergencies Management Systems in Smart Cities",
       "publication_year": 2022,
       "publication_date": "2022-01-01",
@@ -14009,12 +14009,12 @@
         "currency": "USD",
         "value_usd": 1850
       },
-      "fwci": 10.189,
+      "fwci": 10.484,
       "has_fulltext": true,
       "fulltext_origin": "pdf",
-      "cited_by_count": 68,
+      "cited_by_count": 72,
       "citation_normalized_percentile": {
-        "value": 0.999751,
+        "value": 0.99975,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -14177,9 +14177,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.72,
           "display_name": "Sustainable cities and communities",
-          "score": 0.72
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "grants": [
@@ -14941,7 +14941,7 @@
       "counts_by_year": [
         {
           "year": 2025,
-          "cited_by_count": 16
+          "cited_by_count": 19
         },
         {
           "year": 2024,
@@ -14956,7 +14956,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2025-09-24T11:58:45.613858",
+      "updated_date": "2025-10-25T22:51:58.320572",
       "created_date": "2022-07-14"
     },
     {
@@ -15106,7 +15106,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.303Z",
+      "lastUpdated": "2025-11-01T03:15:49.992Z",
       "display_name": "A Comprehensive Dependability Model for QoM-Aware Industrial WSN When Performing Visual Area Coverage in Occluded Scenarios",
       "publication_year": 2020,
       "publication_date": "2020-11-16",
@@ -15380,7 +15380,7 @@
       "fulltext_origin": "pdf",
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.779991,
+        "value": 0.779892,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15713,9 +15713,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.58,
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.58
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "grants": [
@@ -16130,7 +16130,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-09-23T06:07:11.399054",
+      "updated_date": "2025-10-24T11:03:13.400166",
       "created_date": "2020-11-23"
     },
     {
@@ -16294,7 +16294,7 @@
           "cited_by_count": 4
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.304Z",
+      "lastUpdated": "2025-11-01T03:15:49.992Z",
       "display_name": "Modelling Coverage Failures Caused by Mobile Obstacles for the Selection of Faultless Visual Nodes in Wireless Sensor Networks",
       "publication_year": 2020,
       "publication_date": "2020-01-01",
@@ -16845,9 +16845,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.9,
           "display_name": "Affordable and clean energy",
-          "score": 0.9
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "grants": [
@@ -17453,7 +17453,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-09-21T09:58:16.147816",
+      "updated_date": "2025-10-22T02:24:34.507530",
       "created_date": "2020-03-06"
     },
     {
@@ -17607,7 +17607,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.304Z",
+      "lastUpdated": "2025-11-01T03:15:49.993Z",
       "display_name": "FoV-Based Quality Assessment and Optimization for Area Coverage in Wireless Visual Sensor Networks",
       "publication_year": 2020,
       "publication_date": "2020-01-01",
@@ -17914,7 +17914,7 @@
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.81827,
+        "value": 0.815652,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18189,9 +18189,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.53,
           "display_name": "Sustainable cities and communities",
-          "score": 0.53
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "grants": [
@@ -18774,7 +18774,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-09-21T09:57:58.346215",
+      "updated_date": "2025-10-22T02:24:06.064206",
       "created_date": "2020-06-19"
     },
     {
@@ -18910,7 +18910,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.304Z",
+      "lastUpdated": "2025-11-01T03:15:49.993Z",
       "display_name": "Wireless visual sensor networks redeployment based on dependability optimization",
       "publication_year": 2019,
       "publication_date": "2019-07-01",
@@ -19088,7 +19088,7 @@
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.876437,
+        "value": 0.873563,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19274,9 +19274,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.59,
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.59
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "grants": [],
@@ -19802,7 +19802,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-09-21T01:58:39.109633",
+      "updated_date": "2025-10-21T15:40:03.355791",
       "created_date": "2020-02-07"
     },
     {
@@ -19946,7 +19946,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.304Z",
+      "lastUpdated": "2025-11-01T03:15:49.993Z",
       "display_name": "An Availability Metric and Optimization Algorithms for Simultaneous Coverage of Targets and Areas by Wireless Visual Sensor Networks",
       "publication_year": 2019,
       "publication_date": "2019-07-01",
@@ -20148,13 +20148,13 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.687761,
+        "value": 0.686829,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 80,
-        "max": 82
+        "max": 81
       },
       "biblio": {
         "volume": null,
@@ -20299,9 +20299,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.56,
           "display_name": "Sustainable cities and communities",
-          "score": 0.56
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "grants": [],
@@ -20772,7 +20772,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-09-21T22:17:05.933244",
+      "updated_date": "2025-10-22T18:21:58.132582",
       "created_date": "2020-02-07"
     },
     {
@@ -20930,7 +20930,7 @@
           "cited_by_count": 4
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.305Z",
+      "lastUpdated": "2025-11-01T03:15:49.993Z",
       "display_name": "Automated Methodology for Dependability Evaluation of Wireless Visual Sensor Networks",
       "publication_year": 2018,
       "publication_date": "2018-08-10",
@@ -21204,7 +21204,7 @@
       "fulltext_origin": "pdf",
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.863762,
+        "value": 0.863726,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22145,7 +22145,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-09-23T06:03:06.615491",
+      "updated_date": "2025-10-24T10:58:40.225513",
       "created_date": "2018-08-22"
     },
     {
@@ -22283,7 +22283,7 @@
           "cited_by_count": 3
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.305Z",
+      "lastUpdated": "2025-11-01T03:15:49.993Z",
       "display_name": "On the Computing of Area Coverage by Visual Sensor Networks: Assessing Performance of Approximate and Precise Algorithms",
       "publication_year": 2018,
       "publication_date": "2018-07-01",
@@ -22462,7 +22462,7 @@
       "fulltext_origin": "pdf",
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.648275,
+        "value": 0.64839,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23180,7 +23180,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-09-23T10:27:07.422645",
+      "updated_date": "2025-10-24T17:00:17.525773",
       "created_date": "2018-10-05"
     },
     {
@@ -23366,7 +23366,7 @@
           "cited_by_count": 5
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.305Z",
+      "lastUpdated": "2025-11-01T03:15:49.993Z",
       "display_name": "Polynomial Time Verification of Decentralized Diagnosability of Discrete Event Systems",
       "publication_year": 2011,
       "publication_date": "2011-03-15",
@@ -24179,7 +24179,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-10-01T03:15:04.305Z",
+      "lastUpdated": "2025-11-01T03:15:49.993Z",
       "display_name": "Polynomial time verification of decentralized diagnosability of discrete event systems",
       "publication_year": 2010,
       "publication_date": "2010-06-01",
@@ -24332,7 +24332,7 @@
       "fulltext_origin": "ngrams",
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.646491,
+        "value": 0.646284,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24816,13 +24816,13 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-09-24T20:31:50.250853",
+      "updated_date": "2025-10-26T12:31:12.882381",
       "created_date": "2016-06-24"
     }
   ],
   "meta": {
     "count": 23,
-    "lastUpdated": "2025-10-01T03:15:04.315Z",
+    "lastUpdated": "2025-11-01T03:15:50.001Z",
     "venueOverridesApplied": 13
   }
 }
