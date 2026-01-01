@@ -50,7 +50,7 @@
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2025-12-01T03:55:24.895Z",
+      "lastUpdated": "2026-01-01T03:54:34.055Z",
       "display_name": "Quality-aware Sensors Positioning in Smart Cities: Enhancing Coverage in IoT-driven Urban Scenarios",
       "publication_year": 2025,
       "publication_date": "2025-10-14",
@@ -235,7 +235,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0,
+      "fwci": null,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": null,
@@ -271,12 +271,11 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "grants": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 16,
       "referenced_works": [
@@ -359,7 +358,7 @@
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2025-12-01T03:55:24.895Z",
+      "lastUpdated": "2026-01-01T03:54:34.055Z",
       "display_name": "Embedded AI for Intelligent Wildfire Monitoring: A Multi-Sensor and Vision-Driven Approach",
       "publication_year": 2025,
       "publication_date": "2025-10-14",
@@ -580,7 +579,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0,
+      "fwci": null,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": null,
@@ -616,12 +615,11 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "grants": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 17,
       "referenced_works": [
@@ -711,7 +709,7 @@
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2025-12-01T03:55:24.895Z",
+      "lastUpdated": "2026-01-01T03:54:34.055Z",
       "display_name": "Dependability-Driven Planning of Wireless Sensor Networks for Smart Cities Using Machine Learning",
       "publication_year": 2025,
       "publication_date": "2025-10-14",
@@ -968,7 +966,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0,
+      "fwci": null,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": null,
@@ -1004,12 +1002,11 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "grants": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 15,
       "referenced_works": [
@@ -1216,7 +1213,7 @@
       "language": "en",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2025-12-01T03:55:24.895Z",
+      "lastUpdated": "2026-01-01T03:54:34.056Z",
       "display_name": "On the Role of AI in Building Generative Urban Intelligence",
       "publication_year": 2025,
       "publication_date": "2025-07-24",
@@ -1405,7 +1402,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.41324593,
+        "value": 0.40694204,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1661,17 +1658,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.49000000953674316
         }
       ],
-      "grants": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -2233,7 +2229,7 @@
       "language": "pt",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2025-12-01T03:55:24.895Z",
+      "lastUpdated": "2026-01-01T03:54:34.056Z",
       "display_name": "Posicionamento de sensores para monitoramento colaborativo de emergências urbanas",
       "publication_year": 2025,
       "publication_date": "2025-06-02",
@@ -2320,7 +2316,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.33277958,
+        "value": 0.32588539,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2400,12 +2396,11 @@
         "raw_type": "proceedings-article"
       },
       "sustainable_development_goals": [],
-      "grants": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 14,
       "referenced_works": [
@@ -2779,7 +2774,9 @@
         "host_organization_lineage": [
           "https://openalex.org/P4310310987"
         ],
-        "host_organization_lineage_names": [],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
         "type": "journal"
       },
       "language": "en",
@@ -2790,7 +2787,7 @@
           "cited_by_count": 6
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.896Z",
+      "lastUpdated": "2026-01-01T03:54:34.056Z",
       "display_name": "The Road to Intelligent Cities",
       "publication_year": 2025,
       "publication_date": "2025-04-29",
@@ -2818,7 +2815,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310310987"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -3023,7 +3022,7 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.98574476,
+        "value": 0.98310035,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -3110,7 +3109,9 @@
             "host_organization_lineage": [
               "https://openalex.org/P4310310987"
             ],
-            "host_organization_lineage_names": [],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
             "type": "journal"
           },
           "license": "cc-by",
@@ -3136,9 +3137,7 @@
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
-            "host_organization_lineage": [
-              null
-            ],
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -3171,7 +3170,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310310987"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -3183,14 +3184,15 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "grants": [
+      "awards": [
         {
-          "funder": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia",
-          "award_id": "2024.02446.BD"
+          "id": "https://openalex.org/G7459556246",
+          "display_name": null,
+          "funder_award_id": "2024.02446.BD",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         }
       ],
-      "awards": [],
       "funders": [
         {
           "id": "https://openalex.org/F4320334779",
@@ -3199,8 +3201,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 136,
       "referenced_works": [
@@ -3331,15 +3333,15 @@
         "https://openalex.org/W3034146339",
         "https://openalex.org/W3087653683",
         "https://openalex.org/W4396677387",
+        "https://openalex.org/W1995579106",
+        "https://openalex.org/W4323038871",
+        "https://openalex.org/W3152623439",
+        "https://openalex.org/W4400258056",
+        "https://openalex.org/W4290458122",
+        "https://openalex.org/W2969018889",
         "https://openalex.org/W4389279429",
         "https://openalex.org/W2963231271",
-        "https://openalex.org/W2964705423",
-        "https://openalex.org/W3152623439",
-        "https://openalex.org/W2969018889",
-        "https://openalex.org/W1995579106",
-        "https://openalex.org/W4290458122",
-        "https://openalex.org/W4400258056",
-        "https://openalex.org/W4323038871"
+        "https://openalex.org/W2964705423"
       ],
       "related_works": [
         "https://openalex.org/W4391375266",
@@ -4006,7 +4008,9 @@
         "host_organization_lineage": [
           "https://openalex.org/P4310310987"
         ],
-        "host_organization_lineage_names": [],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
         "type": "journal"
       },
       "language": "en",
@@ -4021,7 +4025,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.896Z",
+      "lastUpdated": "2026-01-01T03:54:34.056Z",
       "display_name": "Reliability and Detectability of Emergency Management Systems in Smart Cities under Common Cause Failures",
       "publication_year": 2024,
       "publication_date": "2024-05-06",
@@ -4050,7 +4054,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310310987"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -4254,13 +4260,13 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.8265018,
+        "value": 0.8190183,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 94,
-        "max": 98
+        "max": 97
       },
       "biblio": {
         "volume": "24",
@@ -4425,7 +4431,9 @@
             "host_organization_lineage": [
               "https://openalex.org/P4310310987"
             ],
-            "host_organization_lineage_names": [],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
             "type": "journal"
           },
           "license": "cc-by",
@@ -4480,9 +4488,7 @@
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
-            "host_organization_lineage": [
-              null
-            ],
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -4544,7 +4550,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310310987"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -4557,17 +4565,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7400000095367432
         }
       ],
-      "grants": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 50,
       "referenced_works": [
@@ -4617,10 +4624,10 @@
         "https://openalex.org/W4200410145",
         "https://openalex.org/W4376480609",
         "https://openalex.org/W3162144595",
-        "https://openalex.org/W4212767643",
         "https://openalex.org/W3132720385",
         "https://openalex.org/W4386202993",
-        "https://openalex.org/W3006244614"
+        "https://openalex.org/W3006244614",
+        "https://openalex.org/W4212767643"
       ],
       "related_works": [
         "https://openalex.org/W2022683204",
@@ -5022,7 +5029,7 @@
       "month": 4,
       "date": "2024-04-26",
       "doi": "https://doi.org/10.5753/sbsc_estendido.2024.238538",
-      "url": "https://doi.org/10.5753/sbsc_estendido.2024.238538",
+      "url": "http://dx.doi.org/10.5753/sbsc_estendido.2024.238538",
       "citations": 0,
       "isOpenAccess": true,
       "oaUrl": "https://sol.sbc.org.br/index.php/sbsc_estendido/article/download/28129/27940",
@@ -5117,7 +5124,7 @@
       "language": "pt",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2025-12-01T03:55:24.896Z",
+      "lastUpdated": "2026-01-01T03:54:34.056Z",
       "display_name": "Plataforma de Crowdsourcing Internet of Things (Crowd-IoT) para detecção de emergências urbanas",
       "publication_year": 2024,
       "publication_date": "2024-04-26",
@@ -5128,7 +5135,7 @@
       "primary_location": {
         "id": "doi:10.5753/sbsc_estendido.2024.238538",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5753/sbsc_estendido.2024.238538",
+        "landing_page_url": "http://dx.doi.org/10.5753/sbsc_estendido.2024.238538",
         "pdf_url": "https://sol.sbc.org.br/index.php/sbsc_estendido/article/download/28129/27940",
         "source": null,
         "license": null,
@@ -5342,7 +5349,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06260409,
+        "value": 0.05904636,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5416,7 +5423,7 @@
         {
           "id": "doi:10.5753/sbsc_estendido.2024.238538",
           "is_oa": true,
-          "landing_page_url": "https://doi.org/10.5753/sbsc_estendido.2024.238538",
+          "landing_page_url": "http://dx.doi.org/10.5753/sbsc_estendido.2024.238538",
           "pdf_url": "https://sol.sbc.org.br/index.php/sbsc_estendido/article/download/28129/27940",
           "source": null,
           "license": null,
@@ -5431,7 +5438,7 @@
       "best_oa_location": {
         "id": "doi:10.5753/sbsc_estendido.2024.238538",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.5753/sbsc_estendido.2024.238538",
+        "landing_page_url": "http://dx.doi.org/10.5753/sbsc_estendido.2024.238538",
         "pdf_url": "https://sol.sbc.org.br/index.php/sbsc_estendido/article/download/28129/27940",
         "source": null,
         "license": null,
@@ -5443,12 +5450,11 @@
         "raw_type": "proceedings-article"
       },
       "sustainable_development_goals": [],
-      "grants": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 14,
       "referenced_works": [
@@ -5713,7 +5719,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2025-12-26T23:08:49.675405",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5902,7 +5908,9 @@
         "host_organization_lineage": [
           "https://openalex.org/P4310310987"
         ],
-        "host_organization_lineage_names": [],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
         "type": "journal"
       },
       "language": "en",
@@ -5917,7 +5925,7 @@
           "cited_by_count": 19
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.896Z",
+      "lastUpdated": "2026-01-01T03:54:34.057Z",
       "display_name": "Achieving Sustainable Smart Cities through Geospatial Data-Driven Approaches",
       "publication_year": 2024,
       "publication_date": "2024-01-11",
@@ -5945,7 +5953,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310310987"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -6133,15 +6143,15 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "PPGM-UEFS, State University of Feira de Santana, Feira de Santana 44036-900, Brazil",
-              "institution_ids": [
-                "https://openalex.org/I21606457"
-              ]
-            },
-            {
               "raw_affiliation_string": "Federal Institute of Education, Science and Technology of Bahia, Valença 40301-015, Brazil",
               "institution_ids": [
                 "https://openalex.org/I130913789"
+              ]
+            },
+            {
+              "raw_affiliation_string": "PPGM-UEFS, State University of Feira de Santana, Feira de Santana 44036-900, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I21606457"
               ]
             }
           ]
@@ -6206,7 +6216,7 @@
       "has_fulltext": true,
       "cited_by_count": 48,
       "citation_normalized_percentile": {
-        "value": 0.99922544,
+        "value": 0.99918622,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -6384,7 +6394,9 @@
             "host_organization_lineage": [
               "https://openalex.org/P4310310987"
             ],
-            "host_organization_lineage_names": [],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
             "type": "journal"
           },
           "license": "cc-by",
@@ -6445,7 +6457,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310310987"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -6458,17 +6472,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.46000000834465027
         }
       ],
-      "grants": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 172,
       "referenced_works": [
@@ -6637,12 +6650,12 @@
         "https://openalex.org/W3009303236",
         "https://openalex.org/W4389565166",
         "https://openalex.org/W3178298399",
-        "https://openalex.org/W2982003903",
-        "https://openalex.org/W4308570094",
-        "https://openalex.org/W2088028384",
         "https://openalex.org/W4321366824",
-        "https://openalex.org/W4378647911",
+        "https://openalex.org/W4308570094",
         "https://openalex.org/W3133953661",
+        "https://openalex.org/W2088028384",
+        "https://openalex.org/W4378647911",
+        "https://openalex.org/W2982003903",
         "https://openalex.org/W3104833050"
       ],
       "related_works": [
@@ -7235,7 +7248,7 @@
           "cited_by_count": 3
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.896Z",
+      "lastUpdated": "2026-01-01T03:54:34.057Z",
       "display_name": "Urban emergency detection system using hierarchical, collaborative and configurable wireless sensor networks",
       "publication_year": 2023,
       "publication_date": "2023-11-21",
@@ -7400,7 +7413,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.68658076,
+        "value": 0.68363486,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7520,17 +7533,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7799999713897705
         }
       ],
-      "grants": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 10,
       "referenced_works": [
@@ -8091,7 +8103,7 @@
       "date": "2023-11-20",
       "doi": "https://doi.org/10.1016/j.compenvurbsys.2023.102054",
       "url": "https://doi.org/10.1016/j.compenvurbsys.2023.102054",
-      "citations": 16,
+      "citations": 17,
       "isOpenAccess": true,
       "oaUrl": "https://doi.org/10.1016/j.compenvurbsys.2023.102054",
       "volume": "107",
@@ -8242,7 +8254,9 @@
         "host_organization_lineage": [
           "https://openalex.org/P4310320990"
         ],
-        "host_organization_lineage_names": [],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
         "type": "journal"
       },
       "language": "en",
@@ -8250,7 +8264,7 @@
       "citationsPerYear": [
         {
           "year": 2025,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2024,
@@ -8261,7 +8275,7 @@
           "cited_by_count": 1
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.896Z",
+      "lastUpdated": "2026-01-01T03:54:34.057Z",
       "display_name": "Exploiting geospatial data of connectivity and urban infrastructure for efficient positioning of emergency detection units in smart cities",
       "publication_year": 2023,
       "publication_date": "2023-11-20",
@@ -8290,7 +8304,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310320990"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -8608,11 +8624,11 @@
         "currency": "USD",
         "value_usd": 3740
       },
-      "fwci": 7.85461701,
+      "fwci": 8.34553057,
       "has_fulltext": false,
-      "cited_by_count": 16,
+      "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.96519249,
+        "value": 0.96706211,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8791,7 +8807,9 @@
             "host_organization_lineage": [
               "https://openalex.org/P4310320990"
             ],
-            "host_organization_lineage_names": [],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
             "type": "journal"
           },
           "license": "cc-by",
@@ -8824,7 +8842,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310320990"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -8837,24 +8857,20 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.6800000071525574
         }
       ],
-      "grants": [
+      "awards": [
         {
-          "funder": "https://openalex.org/F4320323642",
-          "funder_display_name": "Ministério da Ciência, Tecnologia e Ensino Superior",
-          "award_id": null
-        },
-        {
-          "funder": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia",
-          "award_id": "EXPL/EEI-COM/1089/2021"
+          "id": "https://openalex.org/G1614854654",
+          "display_name": "Creating safer and more resilient cities through the detection and management of urban emergencies based on optimized sensor networks",
+          "funder_award_id": "EXPL/EEI-COM/1089/2021",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         }
       ],
-      "awards": [],
       "funders": [
         {
           "id": "https://openalex.org/F4320323642",
@@ -8868,8 +8884,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 78,
       "referenced_works": [
@@ -8939,18 +8955,18 @@
         "https://openalex.org/W4296079341",
         "https://openalex.org/W4312558627",
         "https://openalex.org/W4367692561",
-        "https://openalex.org/W4233163546",
-        "https://openalex.org/W4256351822",
-        "https://openalex.org/W4242472075",
-        "https://openalex.org/W4312271065",
         "https://openalex.org/W4251705936",
+        "https://openalex.org/W4312598927",
+        "https://openalex.org/W4252344361",
+        "https://openalex.org/W4242472075",
+        "https://openalex.org/W2615992928",
+        "https://openalex.org/W4312271065",
+        "https://openalex.org/W4382999366",
         "https://openalex.org/W136692655",
         "https://openalex.org/W2187466352",
-        "https://openalex.org/W4312598927",
-        "https://openalex.org/W4313002037",
-        "https://openalex.org/W4252344361",
-        "https://openalex.org/W4382999366",
-        "https://openalex.org/W2615992928"
+        "https://openalex.org/W4233163546",
+        "https://openalex.org/W4256351822",
+        "https://openalex.org/W4313002037"
       ],
       "related_works": [
         "https://openalex.org/W4367313141",
@@ -9643,7 +9659,7 @@
       "counts_by_year": [
         {
           "year": 2025,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2024,
@@ -9684,7 +9700,7 @@
       "month": 9,
       "date": "2023-09-24",
       "doi": "https://doi.org/10.1109/isc257844.2023.10293637",
-      "url": "https://doi.org/10.1109/isc257844.2023.10293637",
+      "url": "http://dx.doi.org/10.1109/isc257844.2023.10293637",
       "citations": 5,
       "isOpenAccess": false,
       "oaUrl": null,
@@ -9774,7 +9790,7 @@
           "cited_by_count": 5
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.896Z",
+      "lastUpdated": "2026-01-01T03:54:34.057Z",
       "display_name": "A Secure OTA Approach For Flexible Operation of Emergency Detection Units in Smart Cities",
       "publication_year": 2023,
       "publication_date": "2023-09-24",
@@ -9785,7 +9801,7 @@
       "primary_location": {
         "id": "doi:10.1109/isc257844.2023.10293637",
         "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1109/isc257844.2023.10293637",
+        "landing_page_url": "http://dx.doi.org/10.1109/isc257844.2023.10293637",
         "pdf_url": null,
         "source": null,
         "license": null,
@@ -9939,7 +9955,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.80418194,
+        "value": 0.80051244,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10002,7 +10018,7 @@
         {
           "id": "doi:10.1109/isc257844.2023.10293637",
           "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1109/isc257844.2023.10293637",
+          "landing_page_url": "http://dx.doi.org/10.1109/isc257844.2023.10293637",
           "pdf_url": null,
           "source": null,
           "license": null,
@@ -10017,17 +10033,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.47999998927116394
         }
       ],
-      "grants": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 16,
       "referenced_works": [
@@ -10604,7 +10619,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2025-12-25T23:11:45.687758",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10811,7 +10826,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.896Z",
+      "lastUpdated": "2026-01-01T03:54:34.057Z",
       "display_name": "Dependability and Quality-Aware Connectivity in Smart Cities Applications",
       "publication_year": 2023,
       "publication_date": "2023-09-24",
@@ -11072,7 +11087,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.65355352,
+        "value": 0.65520175,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11346,17 +11361,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.4300000071525574
         }
       ],
-      "grants": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 19,
       "referenced_works": [
@@ -11377,8 +11391,8 @@
         "https://openalex.org/W2957283238",
         "https://openalex.org/W6800573622",
         "https://openalex.org/W4286214446",
-        "https://openalex.org/W136692655",
-        "https://openalex.org/W3194146037"
+        "https://openalex.org/W3194146037",
+        "https://openalex.org/W136692655"
       ],
       "related_works": [
         "https://openalex.org/W4252527915",
@@ -12011,9 +12025,7 @@
         "is_core": false,
         "host_organization": null,
         "host_organization_name": null,
-        "host_organization_lineage": [
-          null
-        ],
+        "host_organization_lineage": [],
         "host_organization_lineage_names": [],
         "type": "conference"
       },
@@ -12029,7 +12041,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.896Z",
+      "lastUpdated": "2026-01-01T03:54:34.057Z",
       "display_name": "A dependability-aware approach for dynamic mobile sink repositioning in smart cities applications",
       "publication_year": 2022,
       "publication_date": "2022-09-26",
@@ -12052,9 +12064,7 @@
           "is_core": false,
           "host_organization": null,
           "host_organization_name": null,
-          "host_organization_lineage": [
-            null
-          ],
+          "host_organization_lineage": [],
           "host_organization_lineage_names": [],
           "type": "conference"
         },
@@ -12269,7 +12279,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.61613624,
+        "value": 0.61390285,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12435,9 +12445,7 @@
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
-            "host_organization_lineage": [
-              null
-            ],
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "conference"
           },
@@ -12453,21 +12461,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.8899999856948853
-        }
-      ],
-      "grants": [
-        {
-          "funder": "https://openalex.org/F4320323642",
-          "funder_display_name": "Ministério da Ciência, Tecnologia e Ensino Superior",
-          "award_id": null
-        },
-        {
-          "funder": "https://openalex.org/F4320337197",
-          "funder_display_name": "Nuclear Fuel Cycle and Supply Chain",
-          "award_id": null
         }
       ],
       "awards": [],
@@ -12484,8 +12480,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 24,
       "referenced_works": [
@@ -13077,9 +13073,7 @@
         "is_core": false,
         "host_organization": null,
         "host_organization_name": null,
-        "host_organization_lineage": [
-          null
-        ],
+        "host_organization_lineage": [],
         "host_organization_lineage_names": [],
         "type": "conference"
       },
@@ -13091,7 +13085,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.896Z",
+      "lastUpdated": "2026-01-01T03:54:34.057Z",
       "display_name": "A Framework for the Development of Reconfigurable Sensors-based Emergencies Detection Units in Smart Cities",
       "publication_year": 2022,
       "publication_date": "2022-09-26",
@@ -13114,9 +13108,7 @@
           "is_core": false,
           "host_organization": null,
           "host_organization_name": null,
-          "host_organization_lineage": [
-            null
-          ],
+          "host_organization_lineage": [],
           "host_organization_lineage_names": [],
           "type": "conference"
         },
@@ -13271,7 +13263,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.50460637,
+        "value": 0.50195422,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13409,9 +13401,7 @@
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
-            "host_organization_lineage": [
-              null
-            ],
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "conference"
           },
@@ -13427,17 +13417,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.4300000071525574
         }
       ],
-      "grants": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 11,
       "referenced_works": [
@@ -13991,7 +13980,9 @@
         "host_organization_lineage": [
           "https://openalex.org/P4310310987"
         ],
-        "host_organization_lineage_names": [],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
         "type": "journal"
       },
       "language": "en",
@@ -14014,7 +14005,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.897Z",
+      "lastUpdated": "2026-01-01T03:54:34.057Z",
       "display_name": "A Survey on Monitoring Quality Assessment for Wireless Visual Sensor Networks",
       "publication_year": 2022,
       "publication_date": "2022-07-19",
@@ -14042,7 +14033,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310310987"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -14106,15 +14099,15 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Electrical and Computer Engineering (DEEC), Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal",
-              "institution_ids": [
-                "https://openalex.org/I182534213"
-              ]
-            },
-            {
               "raw_affiliation_string": "Department of Technology, State University of Feira de Santana (DTEC/UEFS), Feira de Santana 44036-900, Brazil",
               "institution_ids": [
                 "https://openalex.org/I21606457"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Electrical and Computer Engineering (DEEC), Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal",
+              "institution_ids": [
+                "https://openalex.org/I182534213"
               ]
             }
           ]
@@ -14290,7 +14283,7 @@
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.87501324,
+        "value": 0.87485056,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14531,7 +14524,9 @@
             "host_organization_lineage": [
               "https://openalex.org/P4310310987"
             ],
-            "host_organization_lineage_names": [],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
             "type": "journal"
           },
           "license": "cc-by",
@@ -14557,9 +14552,7 @@
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
-            "host_organization_lineage": [
-              null
-            ],
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -14621,7 +14614,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310310987"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -14633,12 +14628,11 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "grants": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 97,
       "referenced_works": [
@@ -14737,8 +14731,8 @@
         "https://openalex.org/W2532435949",
         "https://openalex.org/W6729062305",
         "https://openalex.org/W2132443513",
-        "https://openalex.org/W2531836760",
-        "https://openalex.org/W2544370511"
+        "https://openalex.org/W2544370511",
+        "https://openalex.org/W2531836760"
       ],
       "related_works": [
         "https://openalex.org/W2165912799",
@@ -15444,7 +15438,9 @@
         "host_organization_lineage": [
           "https://openalex.org/P4310319808"
         ],
-        "host_organization_lineage_names": [],
+        "host_organization_lineage_names": [
+          "Institute of Electrical and Electronics Engineers"
+        ],
         "type": "journal"
       },
       "language": "en",
@@ -15467,7 +15463,7 @@
           "cited_by_count": 7
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.897Z",
+      "lastUpdated": "2026-01-01T03:54:34.058Z",
       "display_name": "A Survey of Emergencies Management Systems in Smart Cities",
       "publication_year": 2022,
       "publication_date": "2022-01-01",
@@ -15495,7 +15491,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310319808"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -15826,7 +15824,7 @@
       "has_fulltext": true,
       "cited_by_count": 83,
       "citation_normalized_percentile": {
-        "value": 0.99677749,
+        "value": 0.9966868,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -15920,7 +15918,9 @@
             "host_organization_lineage": [
               "https://openalex.org/P4310319808"
             ],
-            "host_organization_lineage_names": [],
+            "host_organization_lineage_names": [
+              "Institute of Electrical and Electronics Engineers"
+            ],
             "type": "journal"
           },
           "license": "cc-by",
@@ -15946,9 +15946,7 @@
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
-            "host_organization_lineage": [
-              null
-            ],
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -15981,7 +15979,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310319808"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -15994,19 +15994,20 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7200000286102295
         }
       ],
-      "grants": [
+      "awards": [
         {
-          "funder": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia",
-          "award_id": "UIDB/50022/2020"
+          "id": "https://openalex.org/G1885850072",
+          "display_name": "Associate Laboratory of Energy, Transports and Aeronautics",
+          "funder_award_id": "UIDB/50022/2020",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         }
       ],
-      "awards": [],
       "funders": [
         {
           "id": "https://openalex.org/F4320334779",
@@ -16015,8 +16016,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 250,
       "referenced_works": [
@@ -16266,9 +16267,9 @@
         "https://openalex.org/W2903939152",
         "https://openalex.org/W3046105738",
         "https://openalex.org/W2966247892",
+        "https://openalex.org/W3029238616",
         "https://openalex.org/W3124696941",
         "https://openalex.org/W2519108747",
-        "https://openalex.org/W3029238616",
         "https://openalex.org/W2767003194"
       ],
       "related_works": [
@@ -16975,7 +16976,9 @@
         "host_organization_lineage": [
           "https://openalex.org/P4310310987"
         ],
-        "host_organization_lineage_names": [],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
         "type": "journal"
       },
       "language": "en",
@@ -17002,7 +17005,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.898Z",
+      "lastUpdated": "2026-01-01T03:54:34.058Z",
       "display_name": "A Comprehensive Dependability Model for QoM-Aware Industrial WSN When Performing Visual Area Coverage in Occluded Scenarios",
       "publication_year": 2020,
       "publication_date": "2020-11-16",
@@ -17032,7 +17035,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310310987"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -17272,7 +17277,7 @@
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.80187249,
+        "value": 0.80292354,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17478,7 +17483,9 @@
             "host_organization_lineage": [
               "https://openalex.org/P4310310987"
             ],
-            "host_organization_lineage_names": [],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
             "type": "journal"
           },
           "license": "cc-by",
@@ -17533,9 +17540,7 @@
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
-            "host_organization_lineage": [
-              null
-            ],
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -17626,7 +17631,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310310987"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -17639,24 +17646,27 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.5799999833106995
         }
       ],
-      "grants": [
+      "awards": [
         {
-          "funder": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
-          "award_id": "204691/2018-4"
+          "id": "https://openalex.org/G3313758759",
+          "display_name": null,
+          "funder_award_id": "204691/2018-4",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
         },
         {
-          "funder": "https://openalex.org/F4320338080",
-          "funder_display_name": "European Social Fund",
-          "award_id": "NORTE-08-5369-FSE-000003"
+          "id": "https://openalex.org/G4530947760",
+          "display_name": null,
+          "funder_award_id": "NORTE-08-5369-FSE-000003",
+          "funder_id": "https://openalex.org/F4320338080",
+          "funder_display_name": "European Social Fund"
         }
       ],
-      "awards": [],
       "funders": [
         {
           "id": "https://openalex.org/F4320322025",
@@ -17670,8 +17680,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 37,
       "referenced_works": [
@@ -18263,7 +18273,9 @@
         "host_organization_lineage": [
           "https://openalex.org/P4310319808"
         ],
-        "host_organization_lineage_names": [],
+        "host_organization_lineage_names": [
+          "Institute of Electrical and Electronics Engineers"
+        ],
         "type": "journal"
       },
       "language": "en",
@@ -18294,7 +18306,7 @@
           "cited_by_count": 4
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.898Z",
+      "lastUpdated": "2026-01-01T03:54:34.059Z",
       "display_name": "Modelling Coverage Failures Caused by Mobile Obstacles for the Selection of Faultless Visual Nodes in Wireless Sensor Networks",
       "publication_year": 2020,
       "publication_date": "2020-01-01",
@@ -18323,7 +18335,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310319808"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -18575,7 +18589,7 @@
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.85255819,
+        "value": 0.85333159,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18774,7 +18788,9 @@
             "host_organization_lineage": [
               "https://openalex.org/P4310319808"
             ],
-            "host_organization_lineage_names": [],
+            "host_organization_lineage_names": [
+              "Institute of Electrical and Electronics Engineers"
+            ],
             "type": "journal"
           },
           "license": "cc-by",
@@ -18800,9 +18816,7 @@
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
-            "host_organization_lineage": [
-              null
-            ],
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -18835,7 +18849,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310319808"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -18848,39 +18864,48 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.8999999761581421
         }
       ],
-      "grants": [
+      "awards": [
         {
-          "funder": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
-          "award_id": "204691/2018-4"
+          "id": "https://openalex.org/G2489998489",
+          "display_name": null,
+          "funder_award_id": "POCI-01-0145-FEDER-016426",
+          "funder_id": "https://openalex.org/F4320335322",
+          "funder_display_name": "European Regional Development Fund"
         },
         {
-          "funder": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia",
-          "award_id": "CMUP-ERI/TIC/0010/2014"
+          "id": "https://openalex.org/G4726032871",
+          "display_name": null,
+          "funder_award_id": "CMUP-ERI/TIC/0010/2014",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         },
         {
-          "funder": "https://openalex.org/F4320335322",
-          "funder_display_name": "European Regional Development Fund",
-          "award_id": "POCI-01-0145-FEDER-016426"
+          "id": "https://openalex.org/G1685677391",
+          "display_name": null,
+          "funder_award_id": "NORTE-08-5369-FSE-00003",
+          "funder_id": "https://openalex.org/F4320338080",
+          "funder_display_name": "European Social Fund"
         },
         {
-          "funder": "https://openalex.org/F4320335322",
-          "funder_display_name": "European Regional Development Fund",
-          "award_id": "SAICTPAC/0011/2015"
+          "id": "https://openalex.org/G3313758759",
+          "display_name": null,
+          "funder_award_id": "204691/2018-4",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
         },
         {
-          "funder": "https://openalex.org/F4320338080",
-          "funder_display_name": "European Social Fund",
-          "award_id": "NORTE-08-5369-FSE-00003"
+          "id": "https://openalex.org/G1354054524",
+          "display_name": null,
+          "funder_award_id": "SAICTPAC/0011/2015",
+          "funder_id": "https://openalex.org/F4320335322",
+          "funder_display_name": "European Regional Development Fund"
         }
       ],
-      "awards": [],
       "funders": [
         {
           "id": "https://openalex.org/F4320322025",
@@ -18904,8 +18929,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 34,
       "referenced_works": [
@@ -19673,7 +19698,9 @@
         "host_organization_lineage": [
           "https://openalex.org/P4310319808"
         ],
-        "host_organization_lineage_names": [],
+        "host_organization_lineage_names": [
+          "Institute of Electrical and Electronics Engineers"
+        ],
         "type": "journal"
       },
       "language": "en",
@@ -19700,7 +19727,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.898Z",
+      "lastUpdated": "2026-01-01T03:54:34.059Z",
       "display_name": "FoV-Based Quality Assessment and Optimization for Area Coverage in Wireless Visual Sensor Networks",
       "publication_year": 2020,
       "publication_date": "2020-01-01",
@@ -19729,7 +19756,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310319808"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -20006,7 +20035,7 @@
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.66304435,
+        "value": 0.66432222,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20212,7 +20241,9 @@
             "host_organization_lineage": [
               "https://openalex.org/P4310319808"
             ],
-            "host_organization_lineage_names": [],
+            "host_organization_lineage_names": [
+              "Institute of Electrical and Electronics Engineers"
+            ],
             "type": "journal"
           },
           "license": "cc-by",
@@ -20238,9 +20269,7 @@
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
-            "host_organization_lineage": [
-              null
-            ],
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -20273,7 +20302,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310319808"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -20286,19 +20317,20 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.5299999713897705
         }
       ],
-      "grants": [
+      "awards": [
         {
-          "funder": "https://openalex.org/F4320338080",
-          "funder_display_name": "European Social Fund",
-          "award_id": "NORTE-08-5369-FSE-000003"
+          "id": "https://openalex.org/G4530947760",
+          "display_name": null,
+          "funder_award_id": "NORTE-08-5369-FSE-000003",
+          "funder_id": "https://openalex.org/F4320338080",
+          "funder_display_name": "European Social Fund"
         }
       ],
-      "awards": [],
       "funders": [
         {
           "id": "https://openalex.org/F4320338080",
@@ -20307,8 +20339,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 32,
       "referenced_works": [
@@ -21066,7 +21098,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.898Z",
+      "lastUpdated": "2026-01-01T03:54:34.059Z",
       "display_name": "Wireless visual sensor networks redeployment based on dependability optimization",
       "publication_year": 2019,
       "publication_date": "2019-07-01",
@@ -21232,13 +21264,13 @@
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.90593692,
+        "value": 0.90656799,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 89,
-        "max": 98
+        "max": 97
       },
       "biblio": {
         "volume": null,
@@ -21408,17 +21440,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.5899999737739563
         }
       ],
-      "grants": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 23,
       "referenced_works": [
@@ -22117,7 +22148,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.898Z",
+      "lastUpdated": "2026-01-01T03:54:34.059Z",
       "display_name": "An Availability Metric and Optimization Algorithms for Simultaneous Coverage of Targets and Areas by Wireless Visual Sensor Networks",
       "publication_year": 2019,
       "publication_date": "2019-07-01",
@@ -22307,13 +22338,13 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.71002037,
+        "value": 0.71161642,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 89,
-        "max": 98
+        "max": 97
       },
       "biblio": {
         "volume": null,
@@ -22448,17 +22479,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.5600000023841858
         }
       ],
-      "grants": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 26,
       "referenced_works": [
@@ -22481,13 +22511,13 @@
         "https://openalex.org/W2804240489",
         "https://openalex.org/W2596636257",
         "https://openalex.org/W2012610544",
-        "https://openalex.org/W2528722320",
+        "https://openalex.org/W2538215603",
         "https://openalex.org/W1991328498",
-        "https://openalex.org/W2905408371",
-        "https://openalex.org/W2035975838",
         "https://openalex.org/W2170239483",
         "https://openalex.org/W2105103777",
-        "https://openalex.org/W2538215603"
+        "https://openalex.org/W2528722320",
+        "https://openalex.org/W2035975838",
+        "https://openalex.org/W2905408371"
       ],
       "related_works": [
         "https://openalex.org/W1975451135",
@@ -23102,7 +23132,9 @@
         "host_organization_lineage": [
           "https://openalex.org/P4310310987"
         ],
-        "host_organization_lineage_names": [],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
         "type": "journal"
       },
       "language": "en",
@@ -23133,7 +23165,7 @@
           "cited_by_count": 4
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.898Z",
+      "lastUpdated": "2026-01-01T03:54:34.059Z",
       "display_name": "Automated Methodology for Dependability Evaluation of Wireless Visual Sensor Networks",
       "publication_year": 2018,
       "publication_date": "2018-08-10",
@@ -23163,7 +23195,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310310987"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -23403,7 +23437,7 @@
       "has_fulltext": true,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.90712317,
+        "value": 0.90738978,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -23567,7 +23601,9 @@
             "host_organization_lineage": [
               "https://openalex.org/P4310310987"
             ],
-            "host_organization_lineage_names": [],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
             "type": "journal"
           },
           "license": "cc-by",
@@ -23608,33 +23644,31 @@
           "raw_type": null
         },
         {
-          "id": "pmh:oai:mdpi.com:/1424-8220/18/8/2629/",
+          "id": "pmh:oai:doaj.org/article:b7fdb4a119fc40f78cab7303b761c6e5",
           "is_oa": true,
-          "landing_page_url": "http://dx.doi.org/10.3390/s18082629",
+          "landing_page_url": "https://doaj.org/article/b7fdb4a119fc40f78cab7303b761c6e5",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306400947",
-            "display_name": "MDPI (MDPI AG)",
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
             "issn_l": null,
             "issn": null,
-            "is_oa": true,
+            "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I4210097602",
-            "host_organization_name": "Multidisciplinary Digital Publishing Institute (Switzerland)",
-            "host_organization_lineage": [
-              "https://openalex.org/I4210097602"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
-          "raw_source_name": "Sensors",
-          "raw_type": "Text"
+          "raw_source_name": "Sensors, Vol 18, Iss 8, p 2629 (2018)",
+          "raw_type": "article"
         },
         {
           "id": "pmh:oai:europepmc.org:5065162",
@@ -23666,33 +23700,33 @@
           "raw_type": "Text"
         },
         {
-          "id": "pmh:oai:doaj.org/article:b7fdb4a119fc40f78cab7303b761c6e5",
+          "id": "pmh:oai:mdpi.com:/1424-8220/18/8/2629/",
           "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/b7fdb4a119fc40f78cab7303b761c6e5",
+          "landing_page_url": "http://dx.doi.org/10.3390/s18082629",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "id": "https://openalex.org/S4306400947",
+            "display_name": "MDPI (MDPI AG)",
             "issn_l": null,
             "issn": null,
-            "is_oa": false,
+            "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
+            "host_organization": "https://openalex.org/I4210097602",
+            "host_organization_name": "Multidisciplinary Digital Publishing Institute (Switzerland)",
             "host_organization_lineage": [
-              null
+              "https://openalex.org/I4210097602"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
-          "raw_source_name": "Sensors, Vol 18, Iss 8, p 2629 (2018)",
-          "raw_type": "article"
+          "raw_source_name": "Sensors",
+          "raw_type": "Text"
         },
         {
           "id": "pmh:oai:pubmedcentral.nih.gov:6111997",
@@ -23744,7 +23778,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310310987"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
           "type": "journal"
         },
         "license": "cc-by",
@@ -23756,12 +23792,11 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "grants": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 65,
       "referenced_works": [
@@ -23828,8 +23863,8 @@
         "https://openalex.org/W2097635914",
         "https://openalex.org/W6744620746",
         "https://openalex.org/W2619564410",
-        "https://openalex.org/W2757930302",
-        "https://openalex.org/W2544370511"
+        "https://openalex.org/W2544370511",
+        "https://openalex.org/W2757930302"
       ],
       "related_works": [
         "https://openalex.org/W4252527915",
@@ -24562,7 +24597,7 @@
           "cited_by_count": 3
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.898Z",
+      "lastUpdated": "2026-01-01T03:54:34.059Z",
       "display_name": "On the Computing of Area Coverage by Visual Sensor Networks: Assessing Performance of Approximate and Precise Algorithms",
       "publication_year": 2018,
       "publication_date": "2018-07-01",
@@ -24728,7 +24763,7 @@
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.87283896,
+        "value": 0.87326538,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24910,12 +24945,11 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "grants": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 25,
       "referenced_works": [
@@ -24940,10 +24974,10 @@
         "https://openalex.org/W1964377401",
         "https://openalex.org/W6744620746",
         "https://openalex.org/W2532435949",
-        "https://openalex.org/W587580576",
+        "https://openalex.org/W2757930302",
         "https://openalex.org/W2750843281",
         "https://openalex.org/W2340364767",
-        "https://openalex.org/W2757930302"
+        "https://openalex.org/W587580576"
       ],
       "related_works": [
         "https://openalex.org/W4232403550",
@@ -25830,7 +25864,9 @@
         "host_organization_lineage": [
           "https://openalex.org/P4310319808"
         ],
-        "host_organization_lineage_names": [],
+        "host_organization_lineage_names": [
+          "Institute of Electrical and Electronics Engineers"
+        ],
         "type": "journal"
       },
       "language": "en",
@@ -25893,7 +25929,7 @@
           "cited_by_count": 5
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.898Z",
+      "lastUpdated": "2026-01-01T03:54:34.059Z",
       "display_name": "Polynomial Time Verification of Decentralized Diagnosability of Discrete Event Systems",
       "publication_year": 2011,
       "publication_date": "2011-03-15",
@@ -25924,7 +25960,9 @@
           "host_organization_lineage": [
             "https://openalex.org/P4310319808"
           ],
-          "host_organization_lineage_names": [],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
           "type": "journal"
         },
         "license": null,
@@ -26066,7 +26104,7 @@
       "has_fulltext": false,
       "cited_by_count": 143,
       "citation_normalized_percentile": {
-        "value": 0.96920952,
+        "value": 0.9692302,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -26246,7 +26284,9 @@
             "host_organization_lineage": [
               "https://openalex.org/P4310319808"
             ],
-            "host_organization_lineage_names": [],
+            "host_organization_lineage_names": [
+              "Institute of Electrical and Electronics Engineers"
+            ],
             "type": "journal"
           },
           "license": null,
@@ -26260,12 +26300,11 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "grants": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 25,
       "referenced_works": [
@@ -26288,12 +26327,12 @@
         "https://openalex.org/W2118673178",
         "https://openalex.org/W2101961364",
         "https://openalex.org/W2059057465",
-        "https://openalex.org/W2002089154",
-        "https://openalex.org/W1526031273",
-        "https://openalex.org/W3145128584",
-        "https://openalex.org/W4302339081",
+        "https://openalex.org/W1587663028",
         "https://openalex.org/W2752573522",
-        "https://openalex.org/W1587663028"
+        "https://openalex.org/W3145128584",
+        "https://openalex.org/W1526031273",
+        "https://openalex.org/W4302339081",
+        "https://openalex.org/W2002089154"
       ],
       "related_works": [
         "https://openalex.org/W2922314686",
@@ -26776,7 +26815,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2025-12-01T03:55:24.898Z",
+      "lastUpdated": "2026-01-01T03:54:34.059Z",
       "display_name": "Polynomial time verification of decentralized diagnosability of discrete event systems",
       "publication_year": 2010,
       "publication_date": "2010-06-01",
@@ -26930,7 +26969,7 @@
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.83997731,
+        "value": 0.83990157,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27112,37 +27151,36 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "grants": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 22,
       "referenced_works": [
-        "https://openalex.org/W2101622613",
-        "https://openalex.org/W2108024750",
-        "https://openalex.org/W2118028347",
-        "https://openalex.org/W2088445166",
-        "https://openalex.org/W2170614893",
         "https://openalex.org/W2125493492",
-        "https://openalex.org/W2118673178",
-        "https://openalex.org/W1587663028",
-        "https://openalex.org/W1985787415",
-        "https://openalex.org/W2037802202",
-        "https://openalex.org/W3015129727",
-        "https://openalex.org/W2113428686",
-        "https://openalex.org/W3145128584",
-        "https://openalex.org/W2059057465",
+        "https://openalex.org/W1526031273",
         "https://openalex.org/W2099395647",
         "https://openalex.org/W2131628306",
+        "https://openalex.org/W2108024750",
+        "https://openalex.org/W3145128584",
+        "https://openalex.org/W2113428686",
+        "https://openalex.org/W2118673178",
+        "https://openalex.org/W2170614893",
+        "https://openalex.org/W1985787415",
+        "https://openalex.org/W2088445166",
+        "https://openalex.org/W2101961364",
+        "https://openalex.org/W2059057465",
         "https://openalex.org/W2117558445",
-        "https://openalex.org/W3022296623",
-        "https://openalex.org/W1526031273",
-        "https://openalex.org/W2002089154",
         "https://openalex.org/W2147774669",
-        "https://openalex.org/W2101961364"
+        "https://openalex.org/W1587663028",
+        "https://openalex.org/W2118028347",
+        "https://openalex.org/W3022296623",
+        "https://openalex.org/W2101622613",
+        "https://openalex.org/W3015129727",
+        "https://openalex.org/W2037802202",
+        "https://openalex.org/W2002089154"
       ],
       "related_works": [
         "https://openalex.org/W2582753012",
@@ -27435,7 +27473,7 @@
   ],
   "meta": {
     "count": 26,
-    "lastUpdated": "2025-12-01T03:55:24.907Z",
+    "lastUpdated": "2026-01-01T03:54:34.067Z",
     "venueOverridesApplied": 13
   }
 }
