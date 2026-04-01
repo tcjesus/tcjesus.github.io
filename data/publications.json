@@ -55,14 +55,102 @@
         "first": "1",
         "last": "6"
       },
-      "keywords": [],
-      "topics": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/dependability",
+          "display_name": "Dependability",
+          "score": 0.8112999796867371
+        },
+        {
+          "id": "https://openalex.org/keywords/wireless-sensor-network",
+          "display_name": "Wireless sensor network",
+          "score": 0.7357000112533569
+        },
+        {
+          "id": "https://openalex.org/keywords/adaptability",
+          "display_name": "Adaptability",
+          "score": 0.6589999794960022
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-neural-network",
+          "display_name": "Artificial neural network",
+          "score": 0.4684000015258789
+        },
+        {
+          "id": "https://openalex.org/keywords/convolutional-neural-network",
+          "display_name": "Convolutional neural network",
+          "score": 0.4505999982357025
+        },
+        {
+          "id": "https://openalex.org/keywords/path",
+          "display_name": "Path (computing)",
+          "score": 0.388700008392334
+        },
+        {
+          "id": "https://openalex.org/keywords/motion-planning",
+          "display_name": "Motion planning",
+          "score": 0.36890000104904175
+        }
+      ],
+      "topics": [
+        {
+          "id": "https://openalex.org/T10080",
+          "display_name": "Energy Efficient Wireless Sensor Networks",
+          "score": 0.7283999919891357,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1705",
+            "display_name": "Computer Networks and Communications"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10917",
+          "display_name": "Smart Grid Security and Resilience",
+          "score": 0.04569999873638153,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2207",
+            "display_name": "Control and Systems Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12079",
+          "display_name": "IoT Networks and Protocols",
+          "score": 0.036400001496076584,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2208",
+            "display_name": "Electrical and Electronic Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
       "abstract": "This study addresses the challenges of dependability in Wireless Sensor Networks by proposing a Machine Learning-based approach using Convolutional Neural Networks for network planning for smart cities. Simulated scenarios were used to train the model, which predicts sensor placement and communication configurations to optimize coverage and availability. Results show significant improvements, including an average of 10.7% increase in dependability index and a rise in area coverage from 59% to 73...",
       "venue": null,
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-03-01T04:26:47.307Z",
+      "lastUpdated": "2026-04-01T04:51:33.608Z",
       "display_name": "Dependability-Driven Planning of Wireless Sensor Networks for Smart Cities Using Machine Learning",
       "publication_year": 2025,
       "publication_date": "2025-10-14",
@@ -323,10 +411,14 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": null,
+      "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
-      "citation_normalized_percentile": null,
+      "citation_normalized_percentile": {
+        "value": 0.40519551,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -337,8 +429,179 @@
       "is_retracted": false,
       "is_paratext": false,
       "is_xpac": false,
-      "primary_topic": null,
-      "concepts": [],
+      "primary_topic": {
+        "id": "https://openalex.org/T10080",
+        "display_name": "Energy Efficient Wireless Sensor Networks",
+        "score": 0.7283999919891357,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1705",
+          "display_name": "Computer Networks and Communications"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "concepts": [
+        {
+          "id": "https://openalex.org/C77019957",
+          "wikidata": "https://www.wikidata.org/wiki/Q2689057",
+          "display_name": "Dependability",
+          "level": 2,
+          "score": 0.8112999796867371
+        },
+        {
+          "id": "https://openalex.org/C24590314",
+          "wikidata": "https://www.wikidata.org/wiki/Q336038",
+          "display_name": "Wireless sensor network",
+          "level": 2,
+          "score": 0.7357000112533569
+        },
+        {
+          "id": "https://openalex.org/C177606310",
+          "wikidata": "https://www.wikidata.org/wiki/Q5674297",
+          "display_name": "Adaptability",
+          "level": 2,
+          "score": 0.6589999794960022
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.6266999840736389
+        },
+        {
+          "id": "https://openalex.org/C50644808",
+          "wikidata": "https://www.wikidata.org/wiki/Q192776",
+          "display_name": "Artificial neural network",
+          "level": 2,
+          "score": 0.4684000015258789
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.4544999897480011
+        },
+        {
+          "id": "https://openalex.org/C81363708",
+          "wikidata": "https://www.wikidata.org/wiki/Q17084460",
+          "display_name": "Convolutional neural network",
+          "level": 2,
+          "score": 0.4505999982357025
+        },
+        {
+          "id": "https://openalex.org/C79403827",
+          "wikidata": "https://www.wikidata.org/wiki/Q3988",
+          "display_name": "Real-time computing",
+          "level": 1,
+          "score": 0.4503999948501587
+        },
+        {
+          "id": "https://openalex.org/C119857082",
+          "wikidata": "https://www.wikidata.org/wiki/Q2539",
+          "display_name": "Machine learning",
+          "level": 1,
+          "score": 0.41359999775886536
+        },
+        {
+          "id": "https://openalex.org/C2777735758",
+          "wikidata": "https://www.wikidata.org/wiki/Q817765",
+          "display_name": "Path (computing)",
+          "level": 2,
+          "score": 0.388700008392334
+        },
+        {
+          "id": "https://openalex.org/C81074085",
+          "wikidata": "https://www.wikidata.org/wiki/Q366872",
+          "display_name": "Motion planning",
+          "level": 3,
+          "score": 0.36890000104904175
+        },
+        {
+          "id": "https://openalex.org/C555944384",
+          "wikidata": "https://www.wikidata.org/wiki/Q249",
+          "display_name": "Wireless",
+          "level": 2,
+          "score": 0.364300012588501
+        },
+        {
+          "id": "https://openalex.org/C31258907",
+          "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+          "display_name": "Computer network",
+          "level": 1,
+          "score": 0.32030001282691956
+        },
+        {
+          "id": "https://openalex.org/C176563091",
+          "wikidata": "https://www.wikidata.org/wiki/Q669238",
+          "display_name": "Intelligent sensor",
+          "level": 3,
+          "score": 0.30219998955726624
+        },
+        {
+          "id": "https://openalex.org/C2780505938",
+          "wikidata": "https://www.wikidata.org/wiki/Q17093282",
+          "display_name": "Unavailability",
+          "level": 2,
+          "score": 0.3005000054836273
+        },
+        {
+          "id": "https://openalex.org/C43214815",
+          "wikidata": "https://www.wikidata.org/wiki/Q7310987",
+          "display_name": "Reliability (semiconductor)",
+          "level": 3,
+          "score": 0.28540000319480896
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.27480000257492065
+        },
+        {
+          "id": "https://openalex.org/C41971633",
+          "wikidata": "https://www.wikidata.org/wiki/Q6398155",
+          "display_name": "Key distribution in wireless sensor networks",
+          "level": 4,
+          "score": 0.27219998836517334
+        },
+        {
+          "id": "https://openalex.org/C124101348",
+          "wikidata": "https://www.wikidata.org/wiki/Q172491",
+          "display_name": "Data mining",
+          "level": 1,
+          "score": 0.2653000056743622
+        },
+        {
+          "id": "https://openalex.org/C108037233",
+          "wikidata": "https://www.wikidata.org/wiki/Q11375",
+          "display_name": "Wireless network",
+          "level": 3,
+          "score": 0.2639000117778778
+        },
+        {
+          "id": "https://openalex.org/C22019652",
+          "wikidata": "https://www.wikidata.org/wiki/Q331309",
+          "display_name": "Overfitting",
+          "level": 3,
+          "score": 0.26089999079704285
+        },
+        {
+          "id": "https://openalex.org/C2777382242",
+          "wikidata": "https://www.wikidata.org/wiki/Q6017816",
+          "display_name": "Index (typography)",
+          "level": 2,
+          "score": 0.25029999017715454
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -362,8 +625,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -631,7 +894,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-20T08:17:22.645390",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-11-06T00:00:00"
     },
     {
@@ -677,14 +940,107 @@
         "first": "1",
         "last": "6"
       },
-      "keywords": [],
-      "topics": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/smart-city",
+          "display_name": "Smart city",
+          "score": 0.6955999732017517
+        },
+        {
+          "id": "https://openalex.org/keywords/wireless-sensor-network",
+          "display_name": "Wireless sensor network",
+          "score": 0.6589000225067139
+        },
+        {
+          "id": "https://openalex.org/keywords/network-topology",
+          "display_name": "Network topology",
+          "score": 0.46299999952316284
+        },
+        {
+          "id": "https://openalex.org/keywords/sorting",
+          "display_name": "Sorting",
+          "score": 0.4560000002384186
+        },
+        {
+          "id": "https://openalex.org/keywords/smart-grid",
+          "display_name": "Smart grid",
+          "score": 0.44609999656677246
+        },
+        {
+          "id": "https://openalex.org/keywords/internet-of-things",
+          "display_name": "Internet of Things",
+          "score": 0.41819998621940613
+        },
+        {
+          "id": "https://openalex.org/keywords/intelligent-sensor",
+          "display_name": "Intelligent sensor",
+          "score": 0.3871999979019165
+        },
+        {
+          "id": "https://openalex.org/keywords/global-positioning-system",
+          "display_name": "Global Positioning System",
+          "score": 0.3707999885082245
+        }
+      ],
+      "topics": [
+        {
+          "id": "https://openalex.org/T10080",
+          "display_name": "Energy Efficient Wireless Sensor Networks",
+          "score": 0.2921999990940094,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1705",
+            "display_name": "Computer Networks and Communications"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10273",
+          "display_name": "IoT and Edge/Fog Computing",
+          "score": 0.09319999814033508,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1705",
+            "display_name": "Computer Networks and Communications"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11479",
+          "display_name": "Smart Cities and Technologies",
+          "score": 0.07970000058412552,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2214",
+            "display_name": "Media Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
       "abstract": "Wireless sensor networks (WSNs) are the backbone of the Internet of Things in smart cities, delivering the real-time insights that keep urban services adaptive and resilient. However, positioning those sensors within a dynamic urban environment is a holistic, multi-objective challenge that must consider spatial coverage, urban infrastructure and reliability, without sacrificing energy efficiency, sensing coverage, and connectivity. In order to address this issue and enhance sensors coverage in d...",
       "venue": null,
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-03-01T04:26:47.307Z",
+      "lastUpdated": "2026-04-01T04:51:33.608Z",
       "display_name": "Quality-aware Sensors Positioning in Smart Cities: Enhancing Coverage in IoT-driven Urban Scenarios",
       "publication_year": 2025,
       "publication_date": "2025-10-14",
@@ -873,10 +1229,14 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": null,
+      "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
-      "citation_normalized_percentile": null,
+      "citation_normalized_percentile": {
+        "value": 0.4051382,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -887,8 +1247,200 @@
       "is_retracted": false,
       "is_paratext": false,
       "is_xpac": false,
-      "primary_topic": null,
-      "concepts": [],
+      "primary_topic": {
+        "id": "https://openalex.org/T10080",
+        "display_name": "Energy Efficient Wireless Sensor Networks",
+        "score": 0.2921999990940094,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1705",
+          "display_name": "Computer Networks and Communications"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2777103469",
+          "wikidata": "https://www.wikidata.org/wiki/Q1231558",
+          "display_name": "Smart city",
+          "level": 3,
+          "score": 0.6955999732017517
+        },
+        {
+          "id": "https://openalex.org/C24590314",
+          "wikidata": "https://www.wikidata.org/wiki/Q336038",
+          "display_name": "Wireless sensor network",
+          "level": 2,
+          "score": 0.6589000225067139
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.574999988079071
+        },
+        {
+          "id": "https://openalex.org/C199845137",
+          "wikidata": "https://www.wikidata.org/wiki/Q145490",
+          "display_name": "Network topology",
+          "level": 2,
+          "score": 0.46299999952316284
+        },
+        {
+          "id": "https://openalex.org/C79403827",
+          "wikidata": "https://www.wikidata.org/wiki/Q3988",
+          "display_name": "Real-time computing",
+          "level": 1,
+          "score": 0.46070000529289246
+        },
+        {
+          "id": "https://openalex.org/C111696304",
+          "wikidata": "https://www.wikidata.org/wiki/Q2303697",
+          "display_name": "Sorting",
+          "level": 2,
+          "score": 0.4560000002384186
+        },
+        {
+          "id": "https://openalex.org/C10558101",
+          "wikidata": "https://www.wikidata.org/wiki/Q689855",
+          "display_name": "Smart grid",
+          "level": 2,
+          "score": 0.44609999656677246
+        },
+        {
+          "id": "https://openalex.org/C120314980",
+          "wikidata": "https://www.wikidata.org/wiki/Q180634",
+          "display_name": "Distributed computing",
+          "level": 1,
+          "score": 0.429500013589859
+        },
+        {
+          "id": "https://openalex.org/C81860439",
+          "wikidata": "https://www.wikidata.org/wiki/Q251212",
+          "display_name": "Internet of Things",
+          "level": 2,
+          "score": 0.41819998621940613
+        },
+        {
+          "id": "https://openalex.org/C176563091",
+          "wikidata": "https://www.wikidata.org/wiki/Q669238",
+          "display_name": "Intelligent sensor",
+          "level": 3,
+          "score": 0.3871999979019165
+        },
+        {
+          "id": "https://openalex.org/C60229501",
+          "wikidata": "https://www.wikidata.org/wiki/Q18822",
+          "display_name": "Global Positioning System",
+          "level": 2,
+          "score": 0.3707999885082245
+        },
+        {
+          "id": "https://openalex.org/C2742236",
+          "wikidata": "https://www.wikidata.org/wiki/Q924713",
+          "display_name": "Efficient energy use",
+          "level": 2,
+          "score": 0.36169999837875366
+        },
+        {
+          "id": "https://openalex.org/C110875604",
+          "wikidata": "https://www.wikidata.org/wiki/Q75",
+          "display_name": "The Internet",
+          "level": 2,
+          "score": 0.33480000495910645
+        },
+        {
+          "id": "https://openalex.org/C8880873",
+          "wikidata": "https://www.wikidata.org/wiki/Q187787",
+          "display_name": "Genetic algorithm",
+          "level": 2,
+          "score": 0.3215000033378601
+        },
+        {
+          "id": "https://openalex.org/C187691185",
+          "wikidata": "https://www.wikidata.org/wiki/Q2020720",
+          "display_name": "Grid",
+          "level": 2,
+          "score": 0.3174000084400177
+        },
+        {
+          "id": "https://openalex.org/C31258907",
+          "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+          "display_name": "Computer network",
+          "level": 1,
+          "score": 0.3116999864578247
+        },
+        {
+          "id": "https://openalex.org/C186370098",
+          "wikidata": "https://www.wikidata.org/wiki/Q442787",
+          "display_name": "Energy (signal processing)",
+          "level": 2,
+          "score": 0.3111000061035156
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.30169999599456787
+        },
+        {
+          "id": "https://openalex.org/C555944384",
+          "wikidata": "https://www.wikidata.org/wiki/Q249",
+          "display_name": "Wireless",
+          "level": 2,
+          "score": 0.2842999994754791
+        },
+        {
+          "id": "https://openalex.org/C30905978",
+          "wikidata": "https://www.wikidata.org/wiki/Q815598",
+          "display_name": "Metering mode",
+          "level": 2,
+          "score": 0.2759999930858612
+        },
+        {
+          "id": "https://openalex.org/C41971633",
+          "wikidata": "https://www.wikidata.org/wiki/Q6398155",
+          "display_name": "Key distribution in wireless sensor networks",
+          "level": 4,
+          "score": 0.2678999900817871
+        },
+        {
+          "id": "https://openalex.org/C2779208394",
+          "wikidata": "https://www.wikidata.org/wiki/Q7140460",
+          "display_name": "Participatory sensing",
+          "level": 2,
+          "score": 0.26589998602867126
+        },
+        {
+          "id": "https://openalex.org/C2780165032",
+          "wikidata": "https://www.wikidata.org/wiki/Q16869822",
+          "display_name": "Energy consumption",
+          "level": 2,
+          "score": 0.263700008392334
+        },
+        {
+          "id": "https://openalex.org/C2986162411",
+          "wikidata": "https://www.wikidata.org/wiki/Q702492",
+          "display_name": "Urban environment",
+          "level": 2,
+          "score": 0.25870001316070557
+        },
+        {
+          "id": "https://openalex.org/C152223200",
+          "wikidata": "https://www.wikidata.org/wiki/Q3055471",
+          "display_name": "Smart environment",
+          "level": 3,
+          "score": 0.2549999952316284
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -912,8 +1464,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -1302,7 +1854,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-20T08:17:22.645390",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-11-06T00:00:00"
     },
     {
@@ -1354,14 +1906,107 @@
         "first": "1",
         "last": "6"
       },
-      "keywords": [],
-      "topics": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/convolutional-neural-network",
+          "display_name": "Convolutional neural network",
+          "score": 0.6467000246047974
+        },
+        {
+          "id": "https://openalex.org/keywords/leverage",
+          "display_name": "Leverage (statistics)",
+          "score": 0.6092000007629395
+        },
+        {
+          "id": "https://openalex.org/keywords/classifier",
+          "display_name": "Classifier (UML)",
+          "score": 0.48350000381469727
+        },
+        {
+          "id": "https://openalex.org/keywords/inference",
+          "display_name": "Inference",
+          "score": 0.4162999987602234
+        },
+        {
+          "id": "https://openalex.org/keywords/edge-device",
+          "display_name": "Edge device",
+          "score": 0.40549999475479126
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-neural-network",
+          "display_name": "Artificial neural network",
+          "score": 0.36250001192092896
+        },
+        {
+          "id": "https://openalex.org/keywords/object-detection",
+          "display_name": "Object detection",
+          "score": 0.3034000098705292
+        },
+        {
+          "id": "https://openalex.org/keywords/enhanced-data-rates-for-gsm-evolution",
+          "display_name": "Enhanced Data Rates for GSM Evolution",
+          "score": 0.29019999504089355
+        }
+      ],
+      "topics": [
+        {
+          "id": "https://openalex.org/T12597",
+          "display_name": "Fire Detection and Safety Systems",
+          "score": 0.9884999990463257,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2213",
+            "display_name": "Safety, Risk, Reliability and Quality"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10555",
+          "display_name": "Fire effects on ecosystems",
+          "score": 0.0031999999191612005,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2306",
+            "display_name": "Global and Planetary Change"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12222",
+          "display_name": "IoT-based Smart Home Systems",
+          "score": 0.0006000000284984708,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2208",
+            "display_name": "Electrical and Electronic Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
       "abstract": "The persistence of wildfires in natural landscapes calls for innovative early detection methods that leverage cutting-edge technologies. Traditional approaches, which rely solely on visual sensors or isolated devices, while valuable, often fall short in terms of accuracy, cost, scalability, and contextual adaptability. In response to these challenges, this paper introduces a novel fire detection system that integrates a sensor-based model with a dynamically triggered visual analysis module at ed...",
       "venue": null,
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-03-01T04:26:47.308Z",
+      "lastUpdated": "2026-04-01T04:51:33.609Z",
       "display_name": "Embedded AI for Intelligent Wildfire Monitoring: A Multi-Sensor and Vision-Driven Approach",
       "publication_year": 2025,
       "publication_date": "2025-10-14",
@@ -1586,10 +2231,14 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": null,
+      "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
-      "citation_normalized_percentile": null,
+      "citation_normalized_percentile": {
+        "value": 0.42267856,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -1600,8 +2249,172 @@
       "is_retracted": false,
       "is_paratext": false,
       "is_xpac": false,
-      "primary_topic": null,
-      "concepts": [],
+      "primary_topic": {
+        "id": "https://openalex.org/T12597",
+        "display_name": "Fire Detection and Safety Systems",
+        "score": 0.9884999990463257,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2213",
+          "display_name": "Safety, Risk, Reliability and Quality"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "concepts": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.6474000215530396
+        },
+        {
+          "id": "https://openalex.org/C81363708",
+          "wikidata": "https://www.wikidata.org/wiki/Q17084460",
+          "display_name": "Convolutional neural network",
+          "level": 2,
+          "score": 0.6467000246047974
+        },
+        {
+          "id": "https://openalex.org/C153083717",
+          "wikidata": "https://www.wikidata.org/wiki/Q6535263",
+          "display_name": "Leverage (statistics)",
+          "level": 2,
+          "score": 0.6092000007629395
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.5914000272750854
+        },
+        {
+          "id": "https://openalex.org/C95623464",
+          "wikidata": "https://www.wikidata.org/wiki/Q1096149",
+          "display_name": "Classifier (UML)",
+          "level": 2,
+          "score": 0.48350000381469727
+        },
+        {
+          "id": "https://openalex.org/C2776214188",
+          "wikidata": "https://www.wikidata.org/wiki/Q408386",
+          "display_name": "Inference",
+          "level": 2,
+          "score": 0.4162999987602234
+        },
+        {
+          "id": "https://openalex.org/C31972630",
+          "wikidata": "https://www.wikidata.org/wiki/Q844240",
+          "display_name": "Computer vision",
+          "level": 1,
+          "score": 0.4065999984741211
+        },
+        {
+          "id": "https://openalex.org/C138236772",
+          "wikidata": "https://www.wikidata.org/wiki/Q25098575",
+          "display_name": "Edge device",
+          "level": 3,
+          "score": 0.40549999475479126
+        },
+        {
+          "id": "https://openalex.org/C79403827",
+          "wikidata": "https://www.wikidata.org/wiki/Q3988",
+          "display_name": "Real-time computing",
+          "level": 1,
+          "score": 0.36660000681877136
+        },
+        {
+          "id": "https://openalex.org/C50644808",
+          "wikidata": "https://www.wikidata.org/wiki/Q192776",
+          "display_name": "Artificial neural network",
+          "level": 2,
+          "score": 0.36250001192092896
+        },
+        {
+          "id": "https://openalex.org/C2776151529",
+          "wikidata": "https://www.wikidata.org/wiki/Q3045304",
+          "display_name": "Object detection",
+          "level": 3,
+          "score": 0.3034000098705292
+        },
+        {
+          "id": "https://openalex.org/C162307627",
+          "wikidata": "https://www.wikidata.org/wiki/Q204833",
+          "display_name": "Enhanced Data Rates for GSM Evolution",
+          "level": 2,
+          "score": 0.29019999504089355
+        },
+        {
+          "id": "https://openalex.org/C2777526259",
+          "wikidata": "https://www.wikidata.org/wiki/Q221836",
+          "display_name": "Flash (photography)",
+          "level": 2,
+          "score": 0.2858999967575073
+        },
+        {
+          "id": "https://openalex.org/C108583219",
+          "wikidata": "https://www.wikidata.org/wiki/Q197536",
+          "display_name": "Deep learning",
+          "level": 2,
+          "score": 0.28529998660087585
+        },
+        {
+          "id": "https://openalex.org/C119857082",
+          "wikidata": "https://www.wikidata.org/wiki/Q2539",
+          "display_name": "Machine learning",
+          "level": 1,
+          "score": 0.28189998865127563
+        },
+        {
+          "id": "https://openalex.org/C169258074",
+          "wikidata": "https://www.wikidata.org/wiki/Q245748",
+          "display_name": "Random forest",
+          "level": 2,
+          "score": 0.27639999985694885
+        },
+        {
+          "id": "https://openalex.org/C2780836893",
+          "wikidata": "https://www.wikidata.org/wiki/Q19922674",
+          "display_name": "Fire detection",
+          "level": 2,
+          "score": 0.262800008058548
+        },
+        {
+          "id": "https://openalex.org/C123657996",
+          "wikidata": "https://www.wikidata.org/wiki/Q12271",
+          "display_name": "Architecture",
+          "level": 2,
+          "score": 0.25949999690055847
+        },
+        {
+          "id": "https://openalex.org/C98025372",
+          "wikidata": "https://www.wikidata.org/wiki/Q477538",
+          "display_name": "Systems architecture",
+          "level": 3,
+          "score": 0.2542000114917755
+        },
+        {
+          "id": "https://openalex.org/C52622490",
+          "wikidata": "https://www.wikidata.org/wiki/Q1026626",
+          "display_name": "Feature extraction",
+          "level": 2,
+          "score": 0.25220000743865967
+        },
+        {
+          "id": "https://openalex.org/C153180895",
+          "wikidata": "https://www.wikidata.org/wiki/Q7148389",
+          "display_name": "Pattern recognition (psychology)",
+          "level": 2,
+          "score": 0.25099998712539673
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -1625,8 +2438,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -2110,7 +2923,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-20T08:17:22.645390",
+      "updated_date": "2026-03-07T16:01:11.037858",
       "created_date": "2025-11-06T00:00:00"
     },
     {
@@ -2142,6 +2955,7 @@
           "position": "last"
         }
       ],
+      "journal": "Research Square",
       "year": 2025,
       "month": 7,
       "date": "2025-07-24",
@@ -2289,12 +3103,25 @@
           }
         }
       ],
-      "abstract": "<title>Abstract</title> The rapid urbanization process has presented complex challenges that require innovative strategies to enhance urban living and promote sustainable growth. In this context, the concept of smart cities has quickly evolved, illustrating urban environments that utilize advanced technology to achieve greater efficiency, sustainability, and an improved quality of life for residents. The development of these smart environments relies on technologies like the Internet of Things (...",
-      "venue": null,
+      "abstract": null,
+      "venue": {
+        "id": "https://openalex.org/S4306525896",
+        "display_name": "Research Square",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
       "language": "en",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-03-01T04:26:47.308Z",
+      "lastUpdated": "2026-04-01T04:51:33.609Z",
       "display_name": "On the Role of AI in Building Generative Urban Intelligence",
       "publication_year": 2025,
       "publication_date": "2025-07-24",
@@ -2307,13 +3134,26 @@
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.21203/rs.3.rs-7131966/v1",
         "pdf_url": "https://www.researchsquare.com/article/rs-7131966/latest.pdf",
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4306525896",
+          "display_name": "Research Square",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
         "version": "acceptedVersion",
         "is_accepted": true,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "Research Square",
         "raw_type": "posted-content"
       },
       "type": "preprint",
@@ -2322,9 +3162,9 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "gold",
+        "oa_status": "green",
         "oa_url": "https://www.researchsquare.com/article/rs-7131966/latest.pdf",
-        "any_repository_has_fulltext": null
+        "any_repository_has_fulltext": true
       },
       "authorships": [
         {
@@ -2484,7 +3324,7 @@
       "apc_list": null,
       "apc_paid": null,
       "fwci": null,
-      "has_fulltext": false,
+      "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
@@ -2713,13 +3553,26 @@
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.21203/rs.3.rs-7131966/v1",
           "pdf_url": "https://www.researchsquare.com/article/rs-7131966/latest.pdf",
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4306525896",
+            "display_name": "Research Square",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
           "license": "cc-by",
           "license_id": "https://openalex.org/licenses/cc-by",
           "version": "acceptedVersion",
           "is_accepted": true,
           "is_published": false,
-          "raw_source_name": null,
+          "raw_source_name": "Research Square",
           "raw_type": "posted-content"
         }
       ],
@@ -2728,23 +3581,170 @@
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.21203/rs.3.rs-7131966/v1",
         "pdf_url": "https://www.researchsquare.com/article/rs-7131966/latest.pdf",
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4306525896",
+          "display_name": "Research Square",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
         "version": "acceptedVersion",
         "is_accepted": true,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "Research Square",
         "raw_type": "posted-content"
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.49000000953674316,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G116629194",
+          "display_name": null,
+          "funder_award_id": "88881",
+          "funder_id": "https://openalex.org/F4320321091",
+          "funder_display_name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
+        },
+        {
+          "id": "https://openalex.org/G120275728",
+          "display_name": null,
+          "funder_award_id": "Univer",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G2834638111",
+          "display_name": null,
+          "funder_award_id": "UIDP/00147/2020",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G2848865941",
+          "display_name": null,
+          "funder_award_id": "UIDB/00147/2020",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G2987173697",
+          "display_name": null,
+          "funder_award_id": "UIDP/",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G3272457656",
+          "display_name": null,
+          "funder_award_id": "UIDB/",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G3331681876",
+          "display_name": null,
+          "funder_award_id": "CAPES",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G3601516360",
+          "display_name": null,
+          "funder_award_id": "Brazil",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G3894976796",
+          "display_name": null,
+          "funder_award_id": "88881.982076/2024-01",
+          "funder_id": "https://openalex.org/F4320321091",
+          "funder_display_name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
+        },
+        {
+          "id": "https://openalex.org/G3938906640",
+          "display_name": null,
+          "funder_award_id": "(CAPES)",
+          "funder_id": "https://openalex.org/F4320321091",
+          "funder_display_name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
+        },
+        {
+          "id": "https://openalex.org/G3989083791",
+          "display_name": null,
+          "funder_award_id": "scholar",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G5079005330",
+          "display_name": null,
+          "funder_award_id": "support",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G5944051706",
+          "display_name": null,
+          "funder_award_id": "12/2020",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G6700481056",
+          "display_name": null,
+          "funder_award_id": "scholar",
+          "funder_id": "https://openalex.org/F4320321091",
+          "funder_display_name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
+        },
+        {
+          "id": "https://openalex.org/G6815844370",
+          "display_name": null,
+          "funder_award_id": "88881",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G692611148",
+          "display_name": null,
+          "funder_award_id": "Brazil",
+          "funder_id": "https://openalex.org/F4320321091",
+          "funder_display_name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
+        },
+        {
+          "id": "https://openalex.org/G8238074263",
+          "display_name": null,
+          "funder_award_id": "LA/P/0112/2020",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G8436637332",
+          "display_name": null,
+          "funder_award_id": "LA/P/",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G8464931132",
+          "display_name": null,
+          "funder_award_id": "Process",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320321091",
@@ -2768,8 +3768,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4412640748.pdf",
@@ -2789,443 +3789,9 @@
         "https://openalex.org/W2388466745",
         "https://openalex.org/W4385481870"
       ],
-      "abstract_inverted_index": {
-        "<title>Abstract</title>": [
-          0
-        ],
-        "The": [
-          1,
-          52
-        ],
-        "rapid": [
-          2
-        ],
-        "urbanization": [
-          3
-        ],
-        "process": [
-          4
-        ],
-        "has": [
-          5,
-          29
-        ],
-        "presented": [
-          6
-        ],
-        "complex": [
-          7
-        ],
-        "challenges": [
-          8
-        ],
-        "that": [
-          9,
-          35,
-          165
-        ],
-        "require": [
-          10
-        ],
-        "innovative": [
-          11
-        ],
-        "strategies": [
-          12
-        ],
-        "to": [
-          13,
-          39,
-          168
-        ],
-        "enhance": [
-          14
-        ],
-        "urban": [
-          15,
-          33,
-          92,
-          113,
-          141,
-          147,
-          170
-        ],
-        "living": [
-          16
-        ],
-        "and": [
-          17,
-          44,
-          73,
-          81,
-          116,
-          127,
-          152,
-          173
-        ],
-        "promote": [
-          18
-        ],
-        "sustainable": [
-          19
-        ],
-        "growth.": [
-          20
-        ],
-        "In": [
-          21
-        ],
-        "this": [
-          22
-        ],
-        "context,": [
-          23
-        ],
-        "the": [
-          24,
-          62,
-          84,
-          123,
-          134
-        ],
-        "concept": [
-          25
-        ],
-        "of": [
-          26,
-          48,
-          54,
-          64,
-          131,
-          136
-        ],
-        "smart": [
-          27,
-          56,
-          108,
-          137
-        ],
-        "cities": [
-          28
-        ],
-        "quickly": [
-          30
-        ],
-        "evolved,": [
-          31
-        ],
-        "illustrating": [
-          32
-        ],
-        "environments": [
-          34,
-          57
-        ],
-        "utilize": [
-          36
-        ],
-        "advanced": [
-          37,
-          78
-        ],
-        "technology": [
-          38
-        ],
-        "achieve": [
-          40
-        ],
-        "greater": [
-          41
-        ],
-        "efficiency,": [
-          42
-        ],
-        "sustainability,": [
-          43
-        ],
-        "an": [
-          45,
-          162
-        ],
-        "improved": [
-          46,
-          91
-        ],
-        "quality": [
-          47
-        ],
-        "life": [
-          49
-        ],
-        "for": [
-          50,
-          77,
-          107,
-          144
-        ],
-        "residents.": [
-          51
-        ],
-        "development": [
-          53
-        ],
-        "these": [
-          55
-        ],
-        "relies": [
-          58
-        ],
-        "on": [
-          59,
-          161
-        ],
-        "technologies": [
-          60
-        ],
-        "like": [
-          61
-        ],
-        "Internet": [
-          63
-        ],
-        "Things": [
-          65
-        ],
-        "(IoT),": [
-          66
-        ],
-        "which": [
-          67
-        ],
-        "collects": [
-          68
-        ],
-        "extensive": [
-          69
-        ],
-        "data": [
-          70,
-          79
-        ],
-        "through": [
-          71
-        ],
-        "sensors,": [
-          72
-        ],
-        "Artificial": [
-          74,
-          99
-        ],
-        "Intelligence": [
-          75,
-          100
-        ],
-        "(AI),": [
-          76
-        ],
-        "processing": [
-          80
-        ],
-        "decision-making.": [
-          82
-        ],
-        "For": [
-          83
-        ],
-        "latter,": [
-          85
-        ],
-        "while": [
-          86
-        ],
-        "traditional": [
-          87
-        ],
-        "AI": [
-          88
-        ],
-        "solutions": [
-          89
-        ],
-        "have": [
-          90
-        ],
-        "systems": [
-          93
-        ],
-        "in": [
-          94,
-          112
-        ],
-        "multiple": [
-          95
-        ],
-        "ways,": [
-          96
-        ],
-        "emerging": [
-          97
-        ],
-        "Generative": [
-          98
-        ],
-        "(GenAI)": [
-          101
-        ],
-        "models": [
-          102
-        ],
-        "signify": [
-          103
-        ],
-        "a": [
-          104,
-          158
-        ],
-        "new": [
-          105
-        ],
-        "era": [
-          106
-        ],
-        "cities,": [
-          109,
-          138
-        ],
-        "offering": [
-          110
-        ],
-        "breakthroughs": [
-          111
-        ],
-        "design,": [
-          114,
-          171
-        ],
-        "simulation,": [
-          115
-        ],
-        "personalized,": [
-          117
-        ],
-        "context-aware": [
-          118
-        ],
-        "solutions.": [
-          119
-        ],
-        "This": [
-          120
-        ],
-        "article": [
-          121
-        ],
-        "explores": [
-          122
-        ],
-        "applications,": [
-          124
-        ],
-        "impacts,": [
-          125
-        ],
-        "challenges,": [
-          126
-        ],
-        "promising": [
-          128
-        ],
-        "future": [
-          129
-        ],
-        "trends": [
-          130
-        ],
-        "GenAI": [
-          132
-        ],
-        "within": [
-          133
-        ],
-        "context": [
-          135
-        ],
-        "discussing": [
-          139
-        ],
-        "generative": [
-          140
-        ],
-        "intelligence": [
-          142
-        ],
-        "perspectives": [
-          143
-        ],
-        "simulating": [
-          145
-        ],
-        "alternative": [
-          146
-        ],
-        "scenarios,": [
-          148
-        ],
-        "co-designing": [
-          149
-        ],
-        "infrastructure": [
-          150
-        ],
-        "prototypes,": [
-          151
-        ],
-        "improving": [
-          153
-        ],
-        "service": [
-          154
-        ],
-        "delivery.": [
-          155
-        ],
-        "It": [
-          156
-        ],
-        "provides": [
-          157
-        ],
-        "pioneering": [
-          159
-        ],
-        "perspective": [
-          160
-        ],
-        "underexplored": [
-          163
-        ],
-        "field": [
-          164
-        ],
-        "is": [
-          166
-        ],
-        "expected": [
-          167
-        ],
-        "transform": [
-          169
-        ],
-        "planning,": [
-          172
-        ],
-        "management.": [
-          174
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-01-14T00:41:55.809242",
+      "updated_date": "2026-03-25T13:04:00.132906",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3335,7 +3901,7 @@
       "language": "pt",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-03-01T04:26:47.308Z",
+      "lastUpdated": "2026-04-01T04:51:33.609Z",
       "display_name": "Posicionamento de sensores para monitoramento colaborativo de emergências urbanas",
       "publication_year": 2025,
       "publication_date": "2025-06-02",
@@ -3442,10 +4008,10 @@
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
-      "has_fulltext": false,
+      "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.22797387,
+        "value": 0.19609955,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3534,8 +4100,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4411930661.pdf",
@@ -3775,7 +4341,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-10T16:38:18.471706",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3930,7 +4496,7 @@
           "cited_by_count": 8
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.308Z",
+      "lastUpdated": "2026-04-01T04:51:33.609Z",
       "display_name": "The Road to Intelligent Cities",
       "publication_year": 2025,
       "publication_date": "2025-04-29",
@@ -4165,16 +4731,16 @@
         "currency": "CHF",
         "value_usd": 1515
       },
-      "fwci": 10.6572,
+      "fwci": 10.2344,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.98251989,
+        "value": 0.98099333,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 97,
+        "min": 96,
         "max": 99
       },
       "biblio": {
@@ -4351,8 +4917,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4410069375.pdf"
@@ -4992,7 +5558,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-02-27T16:54:17.756197",
+      "updated_date": "2026-03-27T05:58:40.876381",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5039,8 +5605,101 @@
         "first": null,
         "last": null
       },
-      "keywords": [],
-      "topics": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/reliability",
+          "display_name": "Reliability (semiconductor)",
+          "score": 0.6700000166893005
+        },
+        {
+          "id": "https://openalex.org/keywords/fault-tree-analysis",
+          "display_name": "Fault tree analysis",
+          "score": 0.6100999712944031
+        },
+        {
+          "id": "https://openalex.org/keywords/markov-chain",
+          "display_name": "Markov chain",
+          "score": 0.4300999939441681
+        },
+        {
+          "id": "https://openalex.org/keywords/emergency-management",
+          "display_name": "Emergency management",
+          "score": 0.4106000065803528
+        },
+        {
+          "id": "https://openalex.org/keywords/smart-city",
+          "display_name": "Smart city",
+          "score": 0.3682999908924103
+        },
+        {
+          "id": "https://openalex.org/keywords/tree",
+          "display_name": "Tree (set theory)",
+          "score": 0.33059999346733093
+        },
+        {
+          "id": "https://openalex.org/keywords/fault-detection-and-isolation",
+          "display_name": "Fault detection and isolation",
+          "score": 0.3271999955177307
+        },
+        {
+          "id": "https://openalex.org/keywords/key",
+          "display_name": "Key (lock)",
+          "score": 0.3246000111103058
+        }
+      ],
+      "topics": [
+        {
+          "id": "https://openalex.org/T11980",
+          "display_name": "Human Mobility and Location-Based Analysis",
+          "score": 0.18039999902248383,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3313",
+            "display_name": "Transportation"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11479",
+          "display_name": "Smart Cities and Technologies",
+          "score": 0.12229999899864197,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2214",
+            "display_name": "Media Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11807",
+          "display_name": "Infrastructure Resilience and Vulnerability Analysis",
+          "score": 0.05209999904036522,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2205",
+            "display_name": "Civil and Structural Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
       "abstract": "Emergency management systems are emerging as essential components to help cities deal more effectively with these critical events. However, the reliability and detection capabilities of these systems are of paramount importance. This paper proposes a new approach to assess the reliability and detectability of these systems based on hierarchical networks. By applying fault tree and Markov chain models, the performance of these systems in extreme situations is evaluated. These analyses fill a gap ...",
       "venue": {
         "id": "https://openalex.org/S4385749598",
@@ -5061,7 +5720,7 @@
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-03-01T04:26:47.308Z",
+      "lastUpdated": "2026-04-01T04:51:33.609Z",
       "display_name": "Detectability of urban emergencies using hierarchical networks in smart cities",
       "publication_year": 2024,
       "publication_date": "2024-10-18",
@@ -5265,10 +5924,14 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": null,
-      "has_fulltext": false,
+      "fwci": 0,
+      "has_fulltext": true,
       "cited_by_count": 0,
-      "citation_normalized_percentile": null,
+      "citation_normalized_percentile": {
+        "value": 0.63551402,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -5279,8 +5942,186 @@
       "is_retracted": false,
       "is_paratext": false,
       "is_xpac": false,
-      "primary_topic": null,
-      "concepts": [],
+      "primary_topic": {
+        "id": "https://openalex.org/T11980",
+        "display_name": "Human Mobility and Location-Based Analysis",
+        "score": 0.18039999902248383,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3313",
+          "display_name": "Transportation"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "concepts": [
+        {
+          "id": "https://openalex.org/C43214815",
+          "wikidata": "https://www.wikidata.org/wiki/Q7310987",
+          "display_name": "Reliability (semiconductor)",
+          "level": 3,
+          "score": 0.6700000166893005
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.6291999816894531
+        },
+        {
+          "id": "https://openalex.org/C107094494",
+          "wikidata": "https://www.wikidata.org/wiki/Q428453",
+          "display_name": "Fault tree analysis",
+          "level": 2,
+          "score": 0.6100999712944031
+        },
+        {
+          "id": "https://openalex.org/C98763669",
+          "wikidata": "https://www.wikidata.org/wiki/Q176645",
+          "display_name": "Markov chain",
+          "level": 2,
+          "score": 0.4300999939441681
+        },
+        {
+          "id": "https://openalex.org/C62555980",
+          "wikidata": "https://www.wikidata.org/wiki/Q1460420",
+          "display_name": "Emergency management",
+          "level": 2,
+          "score": 0.4106000065803528
+        },
+        {
+          "id": "https://openalex.org/C2777103469",
+          "wikidata": "https://www.wikidata.org/wiki/Q1231558",
+          "display_name": "Smart city",
+          "level": 3,
+          "score": 0.3682999908924103
+        },
+        {
+          "id": "https://openalex.org/C112930515",
+          "wikidata": "https://www.wikidata.org/wiki/Q4389547",
+          "display_name": "Risk analysis (engineering)",
+          "level": 1,
+          "score": 0.3481000065803528
+        },
+        {
+          "id": "https://openalex.org/C113174947",
+          "wikidata": "https://www.wikidata.org/wiki/Q2859736",
+          "display_name": "Tree (set theory)",
+          "level": 2,
+          "score": 0.33059999346733093
+        },
+        {
+          "id": "https://openalex.org/C152745839",
+          "wikidata": "https://www.wikidata.org/wiki/Q5438153",
+          "display_name": "Fault detection and isolation",
+          "level": 3,
+          "score": 0.3271999955177307
+        },
+        {
+          "id": "https://openalex.org/C26517878",
+          "wikidata": "https://www.wikidata.org/wiki/Q228039",
+          "display_name": "Key (lock)",
+          "level": 2,
+          "score": 0.3246000111103058
+        },
+        {
+          "id": "https://openalex.org/C38652104",
+          "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+          "display_name": "Computer security",
+          "level": 1,
+          "score": 0.3109000027179718
+        },
+        {
+          "id": "https://openalex.org/C168167062",
+          "wikidata": "https://www.wikidata.org/wiki/Q1117970",
+          "display_name": "Component (thermodynamics)",
+          "level": 2,
+          "score": 0.3068999946117401
+        },
+        {
+          "id": "https://openalex.org/C2776544517",
+          "wikidata": "https://www.wikidata.org/wiki/Q189447",
+          "display_name": "Unexpected events",
+          "level": 2,
+          "score": 0.3019999861717224
+        },
+        {
+          "id": "https://openalex.org/C144986985",
+          "wikidata": "https://www.wikidata.org/wiki/Q871236",
+          "display_name": "Hierarchical database model",
+          "level": 2,
+          "score": 0.2896000146865845
+        },
+        {
+          "id": "https://openalex.org/C47822265",
+          "wikidata": "https://www.wikidata.org/wiki/Q854457",
+          "display_name": "Complex system",
+          "level": 2,
+          "score": 0.2824999988079071
+        },
+        {
+          "id": "https://openalex.org/C159886148",
+          "wikidata": "https://www.wikidata.org/wiki/Q176645",
+          "display_name": "Markov process",
+          "level": 2,
+          "score": 0.27129998803138733
+        },
+        {
+          "id": "https://openalex.org/C198783460",
+          "wikidata": "https://www.wikidata.org/wiki/Q629173",
+          "display_name": "Management system",
+          "level": 2,
+          "score": 0.26910001039505005
+        },
+        {
+          "id": "https://openalex.org/C108074857",
+          "wikidata": "https://www.wikidata.org/wiki/Q3067360",
+          "display_name": "Fault management",
+          "level": 3,
+          "score": 0.2685999870300293
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.2628999948501587
+        },
+        {
+          "id": "https://openalex.org/C63540848",
+          "wikidata": "https://www.wikidata.org/wiki/Q3140932",
+          "display_name": "Fault tolerance",
+          "level": 2,
+          "score": 0.2583000063896179
+        },
+        {
+          "id": "https://openalex.org/C87912763",
+          "wikidata": "https://www.wikidata.org/wiki/Q7663737",
+          "display_name": "System of systems",
+          "level": 3,
+          "score": 0.25690001249313354
+        },
+        {
+          "id": "https://openalex.org/C201995342",
+          "wikidata": "https://www.wikidata.org/wiki/Q682496",
+          "display_name": "Systems engineering",
+          "level": 1,
+          "score": 0.25380000472068787
+        },
+        {
+          "id": "https://openalex.org/C124527596",
+          "wikidata": "https://www.wikidata.org/wiki/Q17029359",
+          "display_name": "Hierarchical control system",
+          "level": 3,
+          "score": 0.25040000677108765
+        }
+      ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
@@ -5347,11 +6188,12 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4416996984.pdf"
+        "pdf": "https://content.openalex.org/works/W4416996984.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4416996984.grobid-xml"
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -5624,7 +6466,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-12-05T23:21:25.405358",
+      "updated_date": "2026-03-10T14:07:55.174380",
       "created_date": "2025-12-04T00:00:00"
     },
     {
@@ -5818,7 +6660,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.308Z",
+      "lastUpdated": "2026-04-01T04:51:33.609Z",
       "display_name": "Reliability and Detectability of Emergency Management Systems in Smart Cities under Common Cause Failures",
       "publication_year": 2024,
       "publication_date": "2024-05-06",
@@ -6049,11 +6891,11 @@
         "currency": "CHF",
         "value_usd": 2598
       },
-      "fwci": 1.637,
-      "has_fulltext": false,
+      "fwci": 1.5795,
+      "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.80859647,
+        "value": 0.80215535,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6361,16 +7203,91 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7400000095367432,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
-      "awards": [],
-      "funders": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G1299994043",
+          "display_name": null,
+          "funder_award_id": "PIDDAC",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G1614854654",
+          "display_name": null,
+          "funder_award_id": "EXPL/EEI-COM/1089/2021",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G213682523",
+          "display_name": null,
+          "funder_award_id": "FCT/MCTES",
+          "funder_id": "https://openalex.org/F4320323642",
+          "funder_display_name": "Ministério da Ciência, Tecnologia e Ensino Superior"
+        },
+        {
+          "id": "https://openalex.org/G3599811822",
+          "display_name": null,
+          "funder_award_id": "PIDDAC",
+          "funder_id": "https://openalex.org/F4320323642",
+          "funder_display_name": "Ministério da Ciência, Tecnologia e Ensino Superior"
+        },
+        {
+          "id": "https://openalex.org/G5226653915",
+          "display_name": null,
+          "funder_award_id": "FCT/MCT",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G6445582583",
+          "display_name": null,
+          "funder_award_id": "(PIDDAC)",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G738030663",
+          "display_name": null,
+          "funder_award_id": "FCT/MCTES",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G7637306894",
+          "display_name": null,
+          "funder_award_id": "EXPL/EEI-COM/1089/2021",
+          "funder_id": "https://openalex.org/F4320323642",
+          "funder_display_name": "Ministério da Ciência, Tecnologia e Ensino Superior"
+        },
+        {
+          "id": "https://openalex.org/G7882715502",
+          "display_name": null,
+          "funder_award_id": "FCT/MCTES (PIDDAC)",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320323642",
+          "display_name": "Ministério da Ciência, Tecnologia e Ensino Superior",
+          "ror": "https://ror.org/045b9pr88"
+        },
+        {
+          "id": "https://openalex.org/F4320334779",
+          "display_name": "Fundação para a Ciência e a Tecnologia",
+          "ror": "https://ror.org/00snfqn58"
+        }
+      ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4396674431.pdf"
@@ -6790,7 +7707,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-25T14:56:36.534964",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6927,7 +7844,7 @@
       "language": "pt",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-03-01T04:26:47.308Z",
+      "lastUpdated": "2026-04-01T04:51:33.609Z",
       "display_name": "Plataforma de Crowdsourcing Internet of Things (Crowd-IoT) para detecção de emergências urbanas",
       "publication_year": 2024,
       "publication_date": "2024-04-26",
@@ -7153,10 +8070,10 @@
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
-      "has_fulltext": false,
+      "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.05356472,
+        "value": 0.05632502,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7266,8 +8183,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4395681892.pdf",
@@ -7536,7 +8453,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-12-31T23:11:33.660297",
+      "updated_date": "2026-03-10T16:38:18.471706",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7580,7 +8497,7 @@
       "date": "2024-01-11",
       "doi": "https://doi.org/10.3390/su16020640",
       "url": "https://doi.org/10.3390/su16020640",
-      "citations": 58,
+      "citations": 62,
       "isOpenAccess": true,
       "oaUrl": "https://www.mdpi.com/2071-1050/16/2/640/pdf?version=1704965720",
       "volume": "16",
@@ -7735,18 +8652,18 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 8
         },
         {
           "year": 2025,
-          "cited_by_count": 34
+          "cited_by_count": 35
         },
         {
           "year": 2024,
           "cited_by_count": 19
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.308Z",
+      "lastUpdated": "2026-04-01T04:51:33.609Z",
       "display_name": "Achieving Sustainable Smart Cities through Geospatial Data-Driven Approaches",
       "publication_year": 2024,
       "publication_date": "2024-01-11",
@@ -8033,11 +8950,11 @@
         "currency": "CHF",
         "value_usd": 2382
       },
-      "fwci": 39.1908,
+      "fwci": 42.4031,
       "has_fulltext": true,
-      "cited_by_count": 58,
+      "cited_by_count": 62,
       "citation_normalized_percentile": {
-        "value": 0.99921688,
+        "value": 0.99921504,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -8293,16 +9210,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.46000000834465027,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4390751318.pdf"
@@ -8921,18 +9838,18 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 8
         },
         {
           "year": 2025,
-          "cited_by_count": 34
+          "cited_by_count": 35
         },
         {
           "year": 2024,
           "cited_by_count": 19
         }
       ],
-      "updated_date": "2026-01-24T23:23:39.755997",
+      "updated_date": "2026-03-27T05:58:40.876381",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9076,7 +9993,7 @@
           "cited_by_count": 3
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.308Z",
+      "lastUpdated": "2026-04-01T04:51:33.609Z",
       "display_name": "Urban emergency detection system using hierarchical, collaborative and configurable wireless sensor networks",
       "publication_year": 2023,
       "publication_date": "2023-11-21",
@@ -9387,16 +10304,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7799999713897705,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -10134,7 +11051,7 @@
           "cited_by_count": 1
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.309Z",
+      "lastUpdated": "2026-04-01T04:51:33.609Z",
       "display_name": "Exploiting geospatial data of connectivity and urban infrastructure for efficient positioning of emergency detection units in smart cities",
       "publication_year": 2023,
       "publication_date": "2023-11-20",
@@ -10716,9 +11633,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.6800000071525574,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [
@@ -10743,8 +11660,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -11654,7 +12571,7 @@
           "cited_by_count": 5
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.309Z",
+      "lastUpdated": "2026-04-01T04:51:33.610Z",
       "display_name": "A Secure OTA Approach For Flexible Operation of Emergency Detection Units in Smart Cities",
       "publication_year": 2023,
       "publication_date": "2023-09-24",
@@ -11916,16 +12833,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.47999998927116394,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -12710,7 +13627,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.310Z",
+      "lastUpdated": "2026-04-01T04:51:33.611Z",
       "display_name": "Dependability and Quality-Aware Connectivity in Smart Cities Applications",
       "publication_year": 2023,
       "publication_date": "2023-09-24",
@@ -13287,16 +14204,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.4300000071525574,
-          "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -13938,7 +14855,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.310Z",
+      "lastUpdated": "2026-04-01T04:51:33.611Z",
       "display_name": "A Framework for the Development of Reconfigurable Sensors-based Emergencies Detection Units in Smart Cities",
       "publication_year": 2022,
       "publication_date": "2022-09-26",
@@ -14296,16 +15213,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.4300000071525574,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -14831,7 +15748,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.310Z",
+      "lastUpdated": "2026-04-01T04:51:33.611Z",
       "display_name": "A dependability-aware approach for dynamic mobile sink repositioning in smart cities applications",
       "publication_year": 2022,
       "publication_date": "2022-09-26",
@@ -15286,9 +16203,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.8899999856948853,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -15305,8 +16222,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -15999,7 +16916,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.310Z",
+      "lastUpdated": "2026-04-01T04:51:33.611Z",
       "display_name": "A Survey on Monitoring Quality Assessment for Wireless Visual Sensor Networks",
       "publication_year": 2022,
       "publication_date": "2022-07-19",
@@ -16628,8 +17545,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4286214446.pdf",
@@ -17343,7 +18260,7 @@
       "date": "2022-01-01",
       "doi": "https://doi.org/10.1109/access.2022.3180033",
       "url": "https://doi.org/10.1109/access.2022.3180033",
-      "citations": 95,
+      "citations": 99,
       "isOpenAccess": true,
       "oaUrl": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09787492.pdf",
       "volume": "10",
@@ -17453,7 +18370,7 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -17472,7 +18389,7 @@
           "cited_by_count": 7
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.310Z",
+      "lastUpdated": "2026-04-01T04:51:33.611Z",
       "display_name": "A Survey of Emergencies Management Systems in Smart Cities",
       "publication_year": 2022,
       "publication_date": "2022-01-01",
@@ -17534,6 +18451,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I182534213",
+              "display_name": "Universidade do Porto",
+              "ror": "https://ror.org/043pwc612",
+              "country_code": "PT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I182534213"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210121509",
               "display_name": "Institute of Mechanical Engineering and Industrial Mangement",
               "ror": "https://ror.org/02pk7c879",
@@ -17542,16 +18469,6 @@
               "lineage": [
                 "https://openalex.org/I182534213",
                 "https://openalex.org/I4210121509"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I182534213",
-              "display_name": "Universidade do Porto",
-              "ror": "https://ror.org/043pwc612",
-              "country_code": "PT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I182534213"
               ]
             }
           ],
@@ -17710,6 +18627,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I182534213",
+              "display_name": "Universidade do Porto",
+              "ror": "https://ror.org/043pwc612",
+              "country_code": "PT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I182534213"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210121509",
               "display_name": "Institute of Mechanical Engineering and Industrial Mangement",
               "ror": "https://ror.org/02pk7c879",
@@ -17718,16 +18645,6 @@
               "lineage": [
                 "https://openalex.org/I182534213",
                 "https://openalex.org/I4210121509"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I182534213",
-              "display_name": "Universidade do Porto",
-              "ror": "https://ror.org/043pwc612",
-              "country_code": "PT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I182534213"
               ]
             }
           ],
@@ -17842,11 +18759,11 @@
         "currency": "USD",
         "value_usd": 1850
       },
-      "fwci": 20.6676,
+      "fwci": 23.6497,
       "has_fulltext": true,
-      "cited_by_count": 95,
+      "cited_by_count": 99,
       "citation_normalized_percentile": {
-        "value": 0.99707731,
+        "value": 0.9974698,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -18019,16 +18936,44 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7200000286102295,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [
         {
+          "id": "https://openalex.org/G1614854654",
+          "display_name": null,
+          "funder_award_id": "EXPL/EEI-COM/1089/2021",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
           "id": "https://openalex.org/G1885850072",
           "display_name": null,
           "funder_award_id": "UIDB/50022/2020",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G1886981331",
+          "display_name": null,
+          "funder_award_id": "project UID",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G3272457656",
+          "display_name": null,
+          "funder_award_id": "UIDB/",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G7990283390",
+          "display_name": null,
+          "funder_award_id": "https",
           "funder_id": "https://openalex.org/F4320334779",
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         }
@@ -18041,8 +18986,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4285123134.pdf",
@@ -18804,7 +19749,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -18823,7 +19768,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-27T14:29:43.386196",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19045,7 +19990,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.310Z",
+      "lastUpdated": "2026-04-01T04:51:33.611Z",
       "display_name": "A Comprehensive Dependability Model for QoM-Aware Industrial WSN When Performing Visual Area Coverage in Occluded Scenarios",
       "publication_year": 2020,
       "publication_date": "2020-11-16",
@@ -19358,11 +20303,11 @@
         "currency": "CHF",
         "value_usd": 2598
       },
-      "fwci": 1.0792,
+      "fwci": 1.1282,
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.79888549,
+        "value": 0.80751249,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19690,8 +20635,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -19734,12 +20679,26 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.5799999833106995,
-          "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [
+        {
+          "id": "https://openalex.org/G3215658456",
+          "display_name": null,
+          "funder_award_id": "2018-4",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G3304849250",
+          "display_name": null,
+          "funder_award_id": "1/2018",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
         {
           "id": "https://openalex.org/G3313758759",
           "display_name": null,
@@ -19748,11 +20707,60 @@
           "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
         },
         {
+          "id": "https://openalex.org/G3601516360",
+          "display_name": null,
+          "funder_award_id": "Brazil",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G3851452141",
+          "display_name": null,
+          "funder_award_id": "00003",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G3998201246",
+          "display_name": null,
+          "funder_award_id": "Social",
+          "funder_id": "https://openalex.org/F4320338080",
+          "funder_display_name": "European Social Fund"
+        },
+        {
           "id": "https://openalex.org/G4530947760",
           "display_name": null,
           "funder_award_id": "NORTE-08-5369-FSE-000003",
           "funder_id": "https://openalex.org/F4320338080",
           "funder_display_name": "European Social Fund"
+        },
+        {
+          "id": "https://openalex.org/G5079005330",
+          "display_name": null,
+          "funder_award_id": "support",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G5570850665",
+          "display_name": null,
+          "funder_award_id": "NORTE 2020",
+          "funder_id": "https://openalex.org/F4320338080",
+          "funder_display_name": "European Social Fund"
+        },
+        {
+          "id": "https://openalex.org/G7255080861",
+          "display_name": null,
+          "funder_award_id": "00000",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G7295187585",
+          "display_name": null,
+          "funder_award_id": "Grant",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
         }
       ],
       "funders": [
@@ -19768,8 +20776,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3100279757.pdf",
@@ -20176,7 +21184,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-20T23:20:44.827607",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20402,7 +21410,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.310Z",
+      "lastUpdated": "2026-04-01T04:51:33.611Z",
       "display_name": "FoV-Based Quality Assessment and Optimization for Area Coverage in Wireless Visual Sensor Networks",
       "publication_year": 2020,
       "publication_date": "2020-01-01",
@@ -20713,11 +21721,11 @@
         "currency": "USD",
         "value_usd": 1850
       },
-      "fwci": 0.4885,
+      "fwci": 0.4914,
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.65196276,
+        "value": 0.65554207,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21002,18 +22010,88 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.5299999713897705,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [
+        {
+          "id": "https://openalex.org/G3215658456",
+          "display_name": null,
+          "funder_award_id": "2018-4",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G3304849250",
+          "display_name": null,
+          "funder_award_id": "1/2018",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G3313758759",
+          "display_name": null,
+          "funder_award_id": "204691/2018-4",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G3601516360",
+          "display_name": null,
+          "funder_award_id": "Brazil",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G3851452141",
+          "display_name": null,
+          "funder_award_id": "00003",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G3998201246",
+          "display_name": null,
+          "funder_award_id": "Social",
+          "funder_id": "https://openalex.org/F4320338080",
+          "funder_display_name": "European Social Fund"
+        },
         {
           "id": "https://openalex.org/G4530947760",
           "display_name": null,
           "funder_award_id": "NORTE-08-5369-FSE-000003",
           "funder_id": "https://openalex.org/F4320338080",
           "funder_display_name": "European Social Fund"
+        },
+        {
+          "id": "https://openalex.org/G5079005330",
+          "display_name": null,
+          "funder_award_id": "support",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G5570850665",
+          "display_name": null,
+          "funder_award_id": "NORTE 2020",
+          "funder_id": "https://openalex.org/F4320338080",
+          "funder_display_name": "European Social Fund"
+        },
+        {
+          "id": "https://openalex.org/G7255080861",
+          "display_name": null,
+          "funder_award_id": "00000",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G7295187585",
+          "display_name": null,
+          "funder_award_id": "Grant",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
         }
       ],
       "funders": [
@@ -21029,8 +22107,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3035343018.pdf",
@@ -21610,7 +22688,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-14T08:43:22.919905",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21832,7 +22910,7 @@
           "cited_by_count": 4
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.310Z",
+      "lastUpdated": "2026-04-01T04:51:33.611Z",
       "display_name": "Modelling Coverage Failures Caused by Mobile Obstacles for the Selection of Faultless Visual Nodes in Wireless Sensor Networks",
       "publication_year": 2020,
       "publication_date": "2020-01-01",
@@ -22116,11 +23194,11 @@
         "currency": "USD",
         "value_usd": 1850
       },
-      "fwci": 1.696,
+      "fwci": 1.773,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.84964249,
+        "value": 0.85611025,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22398,18 +23476,46 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.8999999761581421,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [
+        {
+          "id": "https://openalex.org/G1281426596",
+          "display_name": null,
+          "funder_award_id": "UID/EEA/50008/201",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
         {
           "id": "https://openalex.org/G1354054524",
           "display_name": null,
           "funder_award_id": "SAICTPAC/0011/2015",
           "funder_id": "https://openalex.org/F4320335322",
           "funder_display_name": "European Regional Development Fund"
+        },
+        {
+          "id": "https://openalex.org/G1516346500",
+          "display_name": null,
+          "funder_award_id": "01-0145",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G160550121",
+          "display_name": null,
+          "funder_award_id": "-FEDER-",
+          "funder_id": "https://openalex.org/F4320335322",
+          "funder_display_name": "European Regional Development Fund"
+        },
+        {
+          "id": "https://openalex.org/G168538887",
+          "display_name": null,
+          "funder_award_id": "Portugal",
+          "funder_id": "https://openalex.org/F4320323642",
+          "funder_display_name": "Ministério da Ciência, Tecnologia e Ensino Superior"
         },
         {
           "id": "https://openalex.org/G1685677391",
@@ -22419,11 +23525,67 @@
           "funder_display_name": "European Social Fund"
         },
         {
+          "id": "https://openalex.org/G1716593420",
+          "display_name": null,
+          "funder_award_id": "-FEDER-",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G1763632427",
+          "display_name": null,
+          "funder_award_id": "POCI-01-0145",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G213682523",
+          "display_name": null,
+          "funder_award_id": "FCT/MCTES",
+          "funder_id": "https://openalex.org/F4320323642",
+          "funder_display_name": "Ministério da Ciência, Tecnologia e Ensino Superior"
+        },
+        {
+          "id": "https://openalex.org/G2375406851",
+          "display_name": null,
+          "funder_award_id": "NORTE 2020",
+          "funder_id": "https://openalex.org/F4320323642",
+          "funder_display_name": "Ministério da Ciência, Tecnologia e Ensino Superior"
+        },
+        {
           "id": "https://openalex.org/G2489998489",
           "display_name": null,
           "funder_award_id": "POCI-01-0145-FEDER-016426",
           "funder_id": "https://openalex.org/F4320335322",
           "funder_display_name": "European Regional Development Fund"
+        },
+        {
+          "id": "https://openalex.org/G274581676",
+          "display_name": null,
+          "funder_award_id": "POCI-01",
+          "funder_id": "https://openalex.org/F4320335322",
+          "funder_display_name": "European Regional Development Fund"
+        },
+        {
+          "id": "https://openalex.org/G3215658456",
+          "display_name": null,
+          "funder_award_id": "2018-4",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G323769159",
+          "display_name": null,
+          "funder_award_id": "PORTUGAL 2020",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G3304849250",
+          "display_name": null,
+          "funder_award_id": "1/2018",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
         },
         {
           "id": "https://openalex.org/G3313758759",
@@ -22433,9 +23595,226 @@
           "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
         },
         {
+          "id": "https://openalex.org/G3550249319",
+          "display_name": null,
+          "funder_award_id": "NORTE 2020",
+          "funder_id": "https://openalex.org/F4320335322",
+          "funder_display_name": "European Regional Development Fund"
+        },
+        {
+          "id": "https://openalex.org/G3601516360",
+          "display_name": null,
+          "funder_award_id": "Brazil",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G3850789590",
+          "display_name": null,
+          "funder_award_id": "50008",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G3851452141",
+          "display_name": null,
+          "funder_award_id": "00003",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G3933544696",
+          "display_name": null,
+          "funder_award_id": "POCI-01-0145-FEDER-016426",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G3998201246",
+          "display_name": null,
+          "funder_award_id": "Social",
+          "funder_id": "https://openalex.org/F4320338080",
+          "funder_display_name": "European Social Fund"
+        },
+        {
+          "id": "https://openalex.org/G4011576339",
+          "display_name": null,
+          "funder_award_id": "POCI-01-0145-FEDER-01642",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G4455079242",
+          "display_name": null,
+          "funder_award_id": "POCI-01-",
+          "funder_id": "https://openalex.org/F4320335322",
+          "funder_display_name": "European Regional Development Fund"
+        },
+        {
+          "id": "https://openalex.org/G4530947760",
+          "display_name": null,
+          "funder_award_id": "NORTE-08-5369-FSE-000003",
+          "funder_id": "https://openalex.org/F4320338080",
+          "funder_display_name": "European Social Fund"
+        },
+        {
+          "id": "https://openalex.org/G4636491520",
+          "display_name": null,
+          "funder_award_id": "FEDER",
+          "funder_id": "https://openalex.org/F4320338080",
+          "funder_display_name": "European Social Fund"
+        },
+        {
           "id": "https://openalex.org/G4726032871",
           "display_name": null,
           "funder_award_id": "CMUP-ERI/TIC/0010/2014",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G5079005330",
+          "display_name": null,
+          "funder_award_id": "support",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G5224927334",
+          "display_name": null,
+          "funder_award_id": "POCI-01-",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G5226653915",
+          "display_name": null,
+          "funder_award_id": "FCT/MCT",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G5348594205",
+          "display_name": null,
+          "funder_award_id": "FEDER",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G5570850665",
+          "display_name": null,
+          "funder_award_id": "NORTE 2020",
+          "funder_id": "https://openalex.org/F4320338080",
+          "funder_display_name": "European Social Fund"
+        },
+        {
+          "id": "https://openalex.org/G6021079898",
+          "display_name": null,
+          "funder_award_id": "UID/EEA/50008/2019",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G6193589897",
+          "display_name": null,
+          "funder_award_id": "POCI-01-0145",
+          "funder_id": "https://openalex.org/F4320323642",
+          "funder_display_name": "Ministério da Ciência, Tecnologia e Ensino Superior"
+        },
+        {
+          "id": "https://openalex.org/G6227228207",
+          "display_name": null,
+          "funder_award_id": "FEDER",
+          "funder_id": "https://openalex.org/F4320323642",
+          "funder_display_name": "Ministério da Ciência, Tecnologia e Ensino Superior"
+        },
+        {
+          "id": "https://openalex.org/G6339849012",
+          "display_name": null,
+          "funder_award_id": "UID/EEA/50008/2019",
+          "funder_id": "https://openalex.org/F4320335322",
+          "funder_display_name": "European Regional Development Fund"
+        },
+        {
+          "id": "https://openalex.org/G6603360721",
+          "display_name": null,
+          "funder_award_id": "PORTUGAL 2020",
+          "funder_id": "https://openalex.org/F4320335322",
+          "funder_display_name": "European Regional Development Fund"
+        },
+        {
+          "id": "https://openalex.org/G6679443276",
+          "display_name": null,
+          "funder_award_id": "UID/EEA/50008/2019",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G6779276598",
+          "display_name": null,
+          "funder_award_id": "SAICTPAC/0011/2015",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G7049410507",
+          "display_name": null,
+          "funder_award_id": "Portuguese Foundation for Science",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G7255080861",
+          "display_name": null,
+          "funder_award_id": "00000",
+          "funder_id": "https://openalex.org/F4320322025",
+          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "id": "https://openalex.org/G7374840810",
+          "display_name": null,
+          "funder_award_id": "00000",
+          "funder_id": "https://openalex.org/F4320335322",
+          "funder_display_name": "European Regional Development Fund"
+        },
+        {
+          "id": "https://openalex.org/G738030663",
+          "display_name": null,
+          "funder_award_id": "FCT/MCTES",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G8274051256",
+          "display_name": null,
+          "funder_award_id": "NORTE 2020",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G8862270368",
+          "display_name": null,
+          "funder_award_id": "POCI-01-0145-FEDER",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G8884816653",
+          "display_name": null,
+          "funder_award_id": "POCI-01-0145-FEDER",
+          "funder_id": "https://openalex.org/F4320335322",
+          "funder_display_name": "European Regional Development Fund"
+        },
+        {
+          "id": "https://openalex.org/G8922915789",
+          "display_name": null,
+          "funder_award_id": "(FEDER)",
+          "funder_id": "https://openalex.org/F4320335322",
+          "funder_display_name": "European Regional Development Fund"
+        },
+        {
+          "id": "https://openalex.org/G943999617",
+          "display_name": null,
+          "funder_award_id": "Technology",
           "funder_id": "https://openalex.org/F4320334779",
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         }
@@ -22473,8 +23852,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3008765476.pdf",
@@ -23053,7 +24432,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-16T09:10:04.655348",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23231,7 +24610,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.310Z",
+      "lastUpdated": "2026-04-01T04:51:33.611Z",
       "display_name": "An Availability Metric and Optimization Algorithms for Simultaneous Coverage of Targets and Areas by Wireless Visual Sensor Networks",
       "publication_year": 2019,
       "publication_date": "2019-07-01",
@@ -23594,16 +24973,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.5600000023841858,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -24260,7 +25639,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.311Z",
+      "lastUpdated": "2026-04-01T04:51:33.611Z",
       "display_name": "Wireless visual sensor networks redeployment based on dependability optimization",
       "publication_year": 2019,
       "publication_date": "2019-07-01",
@@ -24628,16 +26007,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.5899999737739563,
-          "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -25201,7 +26580,7 @@
       "date": "2018-08-10",
       "doi": "https://doi.org/10.3390/s18082629",
       "url": "https://doi.org/10.3390/s18082629",
-      "citations": 23,
+      "citations": 24,
       "isOpenAccess": true,
       "oaUrl": "https://www.mdpi.com/1424-8220/18/8/2629/pdf?version=1534134742",
       "volume": "18",
@@ -25350,6 +26729,10 @@
       "isRetracted": false,
       "citationsPerYear": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 1
         },
@@ -25378,7 +26761,7 @@
           "cited_by_count": 4
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.311Z",
+      "lastUpdated": "2026-04-01T04:51:33.611Z",
       "display_name": "Automated Methodology for Dependability Evaluation of Wireless Visual Sensor Networks",
       "publication_year": 2018,
       "publication_date": "2018-08-10",
@@ -25691,11 +27074,11 @@
         "currency": "CHF",
         "value_usd": 2598
       },
-      "fwci": 2.5835,
+      "fwci": 2.7311,
       "has_fulltext": true,
-      "cited_by_count": 23,
+      "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.90583268,
+        "value": 0.91097092,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -26010,8 +27393,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -26056,8 +27439,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2885871490.pdf",
@@ -26662,6 +28045,10 @@
       },
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 1
         },
@@ -26690,7 +28077,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-03-25T14:56:36.534964",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -26866,7 +28253,7 @@
           "cited_by_count": 3
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.311Z",
+      "lastUpdated": "2026-04-01T04:51:33.611Z",
       "display_name": "On the Computing of Area Coverage by Visual Sensor Networks: Assessing Performance of Approximate and Precise Algorithms",
       "publication_year": 2018,
       "publication_date": "2018-07-01",
@@ -27236,8 +28623,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -27972,7 +29359,7 @@
           "cited_by_count": 5
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.311Z",
+      "lastUpdated": "2026-04-01T04:51:33.611Z",
       "display_name": "Polynomial Time Verification of Decentralized Diagnosability of Discrete Event Systems",
       "publication_year": 2011,
       "publication_date": "2011-03-15",
@@ -28371,8 +29758,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -28888,7 +30275,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.311Z",
+      "lastUpdated": "2026-04-01T04:51:33.612Z",
       "display_name": "Polynomial time verification of decentralized diagnosability of discrete event systems",
       "publication_year": 2010,
       "publication_date": "2010-06-01",
@@ -29252,8 +30639,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -29572,10 +30959,10 @@
   ],
   "stats": {
     "totalPapers": 27,
-    "totalCitations": 467,
+    "totalCitations": 476,
     "hIndex": 11,
     "openAccessCount": 14,
-    "averageCitations": 17.3,
+    "averageCitations": 17.6,
     "publicationsByYear": {
       "2010": 1,
       "2011": 1,
@@ -29835,7 +31222,7 @@
           "cited_by_count": 5
         }
       ],
-      "lastUpdated": "2026-03-01T04:26:47.311Z",
+      "lastUpdated": "2026-04-01T04:51:33.611Z",
       "display_name": "Polynomial Time Verification of Decentralized Diagnosability of Discrete Event Systems",
       "publication_year": 2011,
       "publication_date": "2011-03-15",
@@ -30234,8 +31621,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -30579,7 +31966,7 @@
     },
     "recentPapers": 10
   },
-  "lastFetched": "2026-03-01T04:26:47.311Z",
+  "lastFetched": "2026-04-01T04:51:33.612Z",
   "totalCount": 27,
   "filteredCount": 27,
   "excludedCount": 0
