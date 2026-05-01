@@ -150,7 +150,7 @@
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-04-01T04:51:33.608Z",
+      "lastUpdated": "2026-05-01T05:47:21.928Z",
       "display_name": "Dependability-Driven Planning of Wireless Sensor Networks for Smart Cities Using Machine Learning",
       "publication_year": 2025,
       "publication_date": "2025-10-14",
@@ -415,7 +415,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.40519551,
+        "value": 0.3743214,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -623,7 +623,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320334322",
+          "display_name": "HORIZON EUROPE Framework Programme",
+          "ror": null
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -894,7 +900,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-07T16:01:11.037858",
+      "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2025-11-06T00:00:00"
     },
     {
@@ -1040,7 +1046,7 @@
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-04-01T04:51:33.608Z",
+      "lastUpdated": "2026-05-01T05:47:21.928Z",
       "display_name": "Quality-aware Sensors Positioning in Smart Cities: Enhancing Coverage in IoT-driven Urban Scenarios",
       "publication_year": 2025,
       "publication_date": "2025-10-14",
@@ -2006,7 +2012,7 @@
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-04-01T04:51:33.609Z",
+      "lastUpdated": "2026-05-01T05:47:21.928Z",
       "display_name": "Embedded AI for Intelligent Wildfire Monitoring: A Multi-Sensor and Vision-Driven Approach",
       "publication_year": 2025,
       "publication_date": "2025-10-14",
@@ -2235,7 +2241,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.42267856,
+        "value": 0.39281726,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2436,7 +2442,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320334779",
+          "display_name": "Fundação para a Ciência e a Tecnologia",
+          "ror": "https://ror.org/00snfqn58"
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -2923,7 +2935,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-07T16:01:11.037858",
+      "updated_date": "2026-04-09T08:11:56.329763",
       "created_date": "2025-11-06T00:00:00"
     },
     {
@@ -3121,7 +3133,7 @@
       "language": "en",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-04-01T04:51:33.609Z",
+      "lastUpdated": "2026-05-01T05:47:21.928Z",
       "display_name": "On the Role of AI in Building Generative Urban Intelligence",
       "publication_year": 2025,
       "publication_date": "2025-07-24",
@@ -3605,9 +3617,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.49000000953674316,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [
@@ -3617,13 +3629,6 @@
           "funder_award_id": "88881",
           "funder_id": "https://openalex.org/F4320321091",
           "funder_display_name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
-        },
-        {
-          "id": "https://openalex.org/G120275728",
-          "display_name": null,
-          "funder_award_id": "Univer",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
         },
         {
           "id": "https://openalex.org/G2834638111",
@@ -3661,13 +3666,6 @@
           "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
         },
         {
-          "id": "https://openalex.org/G3601516360",
-          "display_name": null,
-          "funder_award_id": "Brazil",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
           "id": "https://openalex.org/G3894976796",
           "display_name": null,
           "funder_award_id": "88881.982076/2024-01",
@@ -3682,20 +3680,6 @@
           "funder_display_name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
         },
         {
-          "id": "https://openalex.org/G3989083791",
-          "display_name": null,
-          "funder_award_id": "scholar",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
-          "id": "https://openalex.org/G5079005330",
-          "display_name": null,
-          "funder_award_id": "support",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
           "id": "https://openalex.org/G5944051706",
           "display_name": null,
           "funder_award_id": "12/2020",
@@ -3703,25 +3687,11 @@
           "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
         },
         {
-          "id": "https://openalex.org/G6700481056",
-          "display_name": null,
-          "funder_award_id": "scholar",
-          "funder_id": "https://openalex.org/F4320321091",
-          "funder_display_name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
-        },
-        {
           "id": "https://openalex.org/G6815844370",
           "display_name": null,
           "funder_award_id": "88881",
           "funder_id": "https://openalex.org/F4320322025",
           "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
-          "id": "https://openalex.org/G692611148",
-          "display_name": null,
-          "funder_award_id": "Brazil",
-          "funder_id": "https://openalex.org/F4320321091",
-          "funder_display_name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
         },
         {
           "id": "https://openalex.org/G8238074263",
@@ -3736,13 +3706,6 @@
           "funder_award_id": "LA/P/",
           "funder_id": "https://openalex.org/F4320334779",
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
-        {
-          "id": "https://openalex.org/G8464931132",
-          "display_name": null,
-          "funder_award_id": "Process",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
         }
       ],
       "funders": [
@@ -3791,7 +3754,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-03-25T13:04:00.132906",
+      "updated_date": "2026-04-21T08:09:41.155169",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3901,7 +3864,7 @@
       "language": "pt",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-04-01T04:51:33.609Z",
+      "lastUpdated": "2026-05-01T05:47:21.928Z",
       "display_name": "Posicionamento de sensores para monitoramento colaborativo de emergências urbanas",
       "publication_year": 2025,
       "publication_date": "2025-06-02",
@@ -4011,7 +3974,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.19609955,
+        "value": 0.17964773,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4091,7 +4054,15 @@
         "raw_type": "proceedings-article"
       },
       "sustainable_development_goals": [],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G5043551198",
+          "display_name": null,
+          "funder_award_id": "PROAP",
+          "funder_id": "https://openalex.org/F4320321091",
+          "funder_display_name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320321091",
@@ -4341,7 +4312,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-04-21T08:09:41.155169",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4379,7 +4350,7 @@
       "date": "2025-04-29",
       "doi": "https://doi.org/10.3390/smartcities8030077",
       "url": "https://doi.org/10.3390/smartcities8030077",
-      "citations": 9,
+      "citations": 10,
       "isOpenAccess": true,
       "oaUrl": "https://www.mdpi.com/2624-6511/8/3/77/pdf?version=1745908429",
       "volume": "8",
@@ -4489,14 +4460,14 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
           "cited_by_count": 8
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.609Z",
+      "lastUpdated": "2026-05-01T05:47:21.928Z",
       "display_name": "The Road to Intelligent Cities",
       "publication_year": 2025,
       "publication_date": "2025-04-29",
@@ -4588,6 +4559,7 @@
             "CETEC, Federal University of Recôncavo da Bahia, Cruz das Almas 44380-000, Brazil",
             "PDEEC, Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-4540-512X",
           "affiliations": [
             {
               "raw_affiliation_string": "CETEC, Federal University of Recôncavo da Bahia, Cruz das Almas 44380-000, Brazil",
@@ -4630,6 +4602,7 @@
           "raw_affiliation_strings": [
             "DTEC-UEFS, State University of Feira de Santana, Feira de Santana 44036-900, Brazil"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-5299-6856",
           "affiliations": [
             {
               "raw_affiliation_string": "DTEC-UEFS, State University of Feira de Santana, Feira de Santana 44036-900, Brazil",
@@ -4666,6 +4639,7 @@
           "raw_affiliation_strings": [
             "Federal Institute of Education, Science and Technology of Bahia, Feira de Santana 44079-100, Brazil"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3507-8249",
           "affiliations": [
             {
               "raw_affiliation_string": "Federal Institute of Education, Science and Technology of Bahia, Feira de Santana 44079-100, Brazil",
@@ -4702,6 +4676,7 @@
           "raw_affiliation_strings": [
             "SYSTEC-ARISE, Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3988-8476",
           "affiliations": [
             {
               "raw_affiliation_string": "SYSTEC-ARISE, Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal",
@@ -4731,16 +4706,16 @@
         "currency": "CHF",
         "value_usd": 1515
       },
-      "fwci": 10.2344,
+      "fwci": 10.2725,
       "has_fulltext": false,
-      "cited_by_count": 9,
+      "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.98099333,
+        "value": 0.98164473,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 98,
         "max": 99
       },
       "biblio": {
@@ -4901,6 +4876,27 @@
       },
       "sustainable_development_goals": [],
       "awards": [
+        {
+          "id": "https://openalex.org/G2834638111",
+          "display_name": null,
+          "funder_award_id": "UIDP/00147/2020",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G2848865941",
+          "display_name": null,
+          "funder_award_id": "UIDB/00147/2020",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+          "id": "https://openalex.org/G3680233750",
+          "display_name": null,
+          "funder_award_id": "ARISE LA/P/0112/2020",
+          "funder_id": "https://openalex.org/F4320334779",
+          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+        },
         {
           "id": "https://openalex.org/G7459556246",
           "display_name": null,
@@ -5551,7 +5547,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -5720,7 +5716,7 @@
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-04-01T04:51:33.609Z",
+      "lastUpdated": "2026-05-01T05:47:21.928Z",
       "display_name": "Detectability of urban emergencies using hierarchical networks in smart cities",
       "publication_year": 2024,
       "publication_date": "2024-10-18",
@@ -6660,7 +6656,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.609Z",
+      "lastUpdated": "2026-05-01T05:47:21.928Z",
       "display_name": "Reliability and Detectability of Emergency Management Systems in Smart Cities under Common Cause Failures",
       "publication_year": 2024,
       "publication_date": "2024-05-06",
@@ -6742,6 +6738,7 @@
           "raw_affiliation_strings": [
             "DTEC-UEFS, State University of Feira de Santana, Feira de Santana 44036-900, Brazil"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-5299-6856",
           "affiliations": [
             {
               "raw_affiliation_string": "DTEC-UEFS, State University of Feira de Santana, Feira de Santana 44036-900, Brazil",
@@ -6778,6 +6775,7 @@
           "raw_affiliation_strings": [
             "SYSTEC-ARISE, Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-6386-9753",
           "affiliations": [
             {
               "raw_affiliation_string": "SYSTEC-ARISE, Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal",
@@ -6814,6 +6812,7 @@
           "raw_affiliation_strings": [
             "SYSTEC-ARISE, Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3988-8476",
           "affiliations": [
             {
               "raw_affiliation_string": "SYSTEC-ARISE, Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal",
@@ -6861,6 +6860,7 @@
           "raw_affiliation_strings": [
             "INEGI, Faculty of Engineering, University of Porto, 4169-007 Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3115-0901",
           "affiliations": [
             {
               "raw_affiliation_string": "INEGI, Faculty of Engineering, University of Porto, 4169-007 Porto, Portugal",
@@ -6891,17 +6891,17 @@
         "currency": "CHF",
         "value_usd": 2598
       },
-      "fwci": 1.5795,
+      "fwci": 1.4974,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.80215535,
+        "value": 0.79226605,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 94,
-        "max": 99
+        "max": 98
       },
       "biblio": {
         "volume": "24",
@@ -7118,7 +7118,7 @@
             "display_name": "PubMed Central",
             "issn_l": null,
             "issn": null,
-            "is_oa": false,
+            "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
             "host_organization": "https://openalex.org/I1299303238",
@@ -7203,58 +7203,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7400000095367432,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [
         {
-          "id": "https://openalex.org/G1299994043",
-          "display_name": null,
-          "funder_award_id": "PIDDAC",
-          "funder_id": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
-        {
           "id": "https://openalex.org/G1614854654",
           "display_name": null,
           "funder_award_id": "EXPL/EEI-COM/1089/2021",
-          "funder_id": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
-        {
-          "id": "https://openalex.org/G213682523",
-          "display_name": null,
-          "funder_award_id": "FCT/MCTES",
-          "funder_id": "https://openalex.org/F4320323642",
-          "funder_display_name": "Ministério da Ciência, Tecnologia e Ensino Superior"
-        },
-        {
-          "id": "https://openalex.org/G3599811822",
-          "display_name": null,
-          "funder_award_id": "PIDDAC",
-          "funder_id": "https://openalex.org/F4320323642",
-          "funder_display_name": "Ministério da Ciência, Tecnologia e Ensino Superior"
-        },
-        {
-          "id": "https://openalex.org/G5226653915",
-          "display_name": null,
-          "funder_award_id": "FCT/MCT",
-          "funder_id": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
-        {
-          "id": "https://openalex.org/G6445582583",
-          "display_name": null,
-          "funder_award_id": "(PIDDAC)",
-          "funder_id": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
-        {
-          "id": "https://openalex.org/G738030663",
-          "display_name": null,
-          "funder_award_id": "FCT/MCTES",
           "funder_id": "https://openalex.org/F4320334779",
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         },
@@ -7264,13 +7222,6 @@
           "funder_award_id": "EXPL/EEI-COM/1089/2021",
           "funder_id": "https://openalex.org/F4320323642",
           "funder_display_name": "Ministério da Ciência, Tecnologia e Ensino Superior"
-        },
-        {
-          "id": "https://openalex.org/G7882715502",
-          "display_name": null,
-          "funder_award_id": "FCT/MCTES (PIDDAC)",
-          "funder_id": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         }
       ],
       "funders": [
@@ -7707,7 +7658,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-25T14:56:36.534964",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7844,7 +7795,7 @@
       "language": "pt",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-04-01T04:51:33.609Z",
+      "lastUpdated": "2026-05-01T05:47:21.928Z",
       "display_name": "Plataforma de Crowdsourcing Internet of Things (Crowd-IoT) para detecção de emergências urbanas",
       "publication_year": 2024,
       "publication_date": "2024-04-26",
@@ -8073,7 +8024,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.05632502,
+        "value": 0.05431336,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8174,7 +8125,15 @@
         "raw_type": "proceedings-article"
       },
       "sustainable_development_goals": [],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G5043551198",
+          "display_name": null,
+          "funder_award_id": "PROAP",
+          "funder_id": "https://openalex.org/F4320321091",
+          "funder_display_name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320321091",
@@ -8453,7 +8412,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-10T16:38:18.471706",
+      "updated_date": "2026-04-21T08:09:41.155169",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8497,7 +8456,7 @@
       "date": "2024-01-11",
       "doi": "https://doi.org/10.3390/su16020640",
       "url": "https://doi.org/10.3390/su16020640",
-      "citations": 62,
+      "citations": 69,
       "isOpenAccess": true,
       "oaUrl": "https://www.mdpi.com/2071-1050/16/2/640/pdf?version=1704965720",
       "volume": "16",
@@ -8652,18 +8611,18 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 8
+          "cited_by_count": 14
         },
         {
           "year": 2025,
-          "cited_by_count": 35
+          "cited_by_count": 36
         },
         {
           "year": 2024,
           "cited_by_count": 19
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.609Z",
+      "lastUpdated": "2026-05-01T05:47:21.929Z",
       "display_name": "Achieving Sustainable Smart Cities through Geospatial Data-Driven Approaches",
       "publication_year": 2024,
       "publication_date": "2024-01-11",
@@ -8742,6 +8701,7 @@
           "raw_affiliation_strings": [
             "SYSTEC-ARISE, Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3988-8476",
           "affiliations": [
             {
               "raw_affiliation_string": "SYSTEC-ARISE, Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal",
@@ -8790,6 +8750,7 @@
             "CETEC, Federal University of Recôncavo da Bahia, Cruz das Almas 44380-000, Brazil",
             "PDEEC, Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-4540-512X",
           "affiliations": [
             {
               "raw_affiliation_string": "CETEC, Federal University of Recôncavo da Bahia, Cruz das Almas 44380-000, Brazil",
@@ -8832,6 +8793,7 @@
           "raw_affiliation_strings": [
             "PPGM-UFBA, Federal University of Bahia, Salvador 40170-110, Brazil"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-4285-0006",
           "affiliations": [
             {
               "raw_affiliation_string": "PPGM-UFBA, Federal University of Bahia, Salvador 40170-110, Brazil",
@@ -8879,6 +8841,7 @@
             "Federal Institute of Education, Science and Technology of Bahia, Valença 40301-015, Brazil",
             "PPGM-UEFS, State University of Feira de Santana, Feira de Santana 44036-900, Brazil"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3507-8249",
           "affiliations": [
             {
               "raw_affiliation_string": "Federal Institute of Education, Science and Technology of Bahia, Valença 40301-015, Brazil",
@@ -8921,6 +8884,7 @@
           "raw_affiliation_strings": [
             "DTEC-UEFS, State University of Feira de Santana, Feira de Santana 44036-900, Brazil"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-5299-6856",
           "affiliations": [
             {
               "raw_affiliation_string": "DTEC-UEFS, State University of Feira de Santana, Feira de Santana 44036-900, Brazil",
@@ -8950,11 +8914,11 @@
         "currency": "CHF",
         "value_usd": 2382
       },
-      "fwci": 42.4031,
+      "fwci": 45.0473,
       "has_fulltext": true,
-      "cited_by_count": 62,
+      "cited_by_count": 69,
       "citation_normalized_percentile": {
-        "value": 0.99921504,
+        "value": 0.99930368,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -9110,7 +9074,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 3,
       "locations": [
         {
           "id": "doi:10.3390/su16020640",
@@ -9144,6 +9108,35 @@
           "is_published": true,
           "raw_source_name": "Sustainability",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:RePEc:gam:jsusta:v:16:y:2024:i:2:p:640-:d:1317196",
+          "is_oa": false,
+          "landing_page_url": "https://www.mdpi.com/2071-1050/16/2/640/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401271",
+            "display_name": "RePEc: Research Papers in Economics",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I77793887",
+            "host_organization_name": "Federal Reserve Bank of St. Louis",
+            "host_organization_lineage": [
+              "https://openalex.org/I77793887"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "article"
         },
         {
           "id": "pmh:oai:mdpi.com:/2071-1050/16/2/640/",
@@ -9210,9 +9203,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.46000000834465027,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -9838,18 +9831,18 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 8
+          "cited_by_count": 14
         },
         {
           "year": 2025,
-          "cited_by_count": 35
+          "cited_by_count": 36
         },
         {
           "year": 2024,
           "cited_by_count": 19
         }
       ],
-      "updated_date": "2026-03-27T05:58:40.876381",
+      "updated_date": "2026-04-25T08:17:42.794288",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9993,7 +9986,7 @@
           "cited_by_count": 3
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.609Z",
+      "lastUpdated": "2026-05-01T05:47:21.929Z",
       "display_name": "Urban emergency detection system using hierarchical, collaborative and configurable wireless sensor networks",
       "publication_year": 2023,
       "publication_date": "2023-11-21",
@@ -10304,9 +10297,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7799999713897705,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -10875,7 +10868,7 @@
       "date": "2023-11-20",
       "doi": "https://doi.org/10.1016/j.compenvurbsys.2023.102054",
       "url": "https://doi.org/10.1016/j.compenvurbsys.2023.102054",
-      "citations": 20,
+      "citations": 24,
       "isOpenAccess": true,
       "oaUrl": "https://doi.org/10.1016/j.compenvurbsys.2023.102054",
       "volume": "107",
@@ -11036,11 +11029,11 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 4
         },
         {
           "year": 2025,
-          "cited_by_count": 11
+          "cited_by_count": 12
         },
         {
           "year": 2024,
@@ -11051,7 +11044,7 @@
           "cited_by_count": 1
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.609Z",
+      "lastUpdated": "2026-05-01T05:47:21.929Z",
       "display_name": "Exploiting geospatial data of connectivity and urban infrastructure for efficient positioning of emergency detection units in smart cities",
       "publication_year": 2023,
       "publication_date": "2023-11-20",
@@ -11400,17 +11393,17 @@
         "currency": "USD",
         "value_usd": 3740
       },
-      "fwci": 7.3497,
+      "fwci": 9.1337,
       "has_fulltext": false,
-      "cited_by_count": 20,
+      "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.96897693,
+        "value": 0.97764478,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
-        "max": 99
+        "min": 90,
+        "max": 100
       },
       "biblio": {
         "volume": "107",
@@ -11633,9 +11626,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.6800000071525574,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [
@@ -12436,11 +12429,11 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 4
         },
         {
           "year": 2025,
-          "cited_by_count": 11
+          "cited_by_count": 12
         },
         {
           "year": 2024,
@@ -12451,7 +12444,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-04-23T09:07:50.710637",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12571,7 +12564,7 @@
           "cited_by_count": 5
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.610Z",
+      "lastUpdated": "2026-05-01T05:47:21.929Z",
       "display_name": "A Secure OTA Approach For Flexible Operation of Emergency Detection Units in Smart Cities",
       "publication_year": 2023,
       "publication_date": "2023-09-24",
@@ -12833,9 +12826,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.47999998927116394,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -13627,7 +13620,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.611Z",
+      "lastUpdated": "2026-05-01T05:47:21.929Z",
       "display_name": "Dependability and Quality-Aware Connectivity in Smart Cities Applications",
       "publication_year": 2023,
       "publication_date": "2023-09-24",
@@ -14204,9 +14197,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "score": 0.4300000071525574,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -14855,7 +14848,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.611Z",
+      "lastUpdated": "2026-05-01T05:47:21.930Z",
       "display_name": "A Framework for the Development of Reconfigurable Sensors-based Emergencies Detection Units in Smart Cities",
       "publication_year": 2022,
       "publication_date": "2022-09-26",
@@ -15213,9 +15206,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.4300000071525574,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -15748,7 +15741,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.611Z",
+      "lastUpdated": "2026-05-01T05:47:21.930Z",
       "display_name": "A dependability-aware approach for dynamic mobile sink repositioning in smart cities applications",
       "publication_year": 2022,
       "publication_date": "2022-09-26",
@@ -16203,9 +16196,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "score": 0.8899999856948853,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -16916,7 +16909,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.611Z",
+      "lastUpdated": "2026-05-01T05:47:21.931Z",
       "display_name": "A Survey on Monitoring Quality Assessment for Wireless Visual Sensor Networks",
       "publication_year": 2022,
       "publication_date": "2022-07-19",
@@ -16978,16 +16971,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I21606457",
-              "display_name": "Universidade Estadual de Feira de Santana",
-              "ror": "https://ror.org/04ygk5j35",
-              "country_code": "BR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I21606457"
-              ]
-            },
-            {
               "id": "https://openalex.org/I182534213",
               "display_name": "Universidade do Porto",
               "ror": "https://ror.org/043pwc612",
@@ -16995,6 +16978,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I182534213"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I21606457",
+              "display_name": "Universidade Estadual de Feira de Santana",
+              "ror": "https://ror.org/04ygk5j35",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I21606457"
               ]
             }
           ],
@@ -17008,6 +17001,7 @@
             "Department of Electrical and Computer Engineering (DEEC), Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal",
             "Department of Technology, State University of Feira de Santana (DTEC/UEFS), Feira de Santana 44036-900, Brazil"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-5299-6856",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Electrical and Computer Engineering (DEEC), Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal",
@@ -17061,6 +17055,7 @@
           "raw_affiliation_strings": [
             "INEGI, Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3988-8476",
           "affiliations": [
             {
               "raw_affiliation_string": "INEGI, Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal",
@@ -17109,6 +17104,7 @@
           "raw_affiliation_strings": [
             "INESC-TEC, Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-6386-9753",
           "affiliations": [
             {
               "raw_affiliation_string": "INESC-TEC, Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal",
@@ -17157,6 +17153,7 @@
           "raw_affiliation_strings": [
             "INEGI, Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3115-0901",
           "affiliations": [
             {
               "raw_affiliation_string": "INEGI, Faculty of Engineering, University of Porto, 4200-465 Porto, Portugal",
@@ -17190,17 +17187,17 @@
         "currency": "CHF",
         "value_usd": 1515
       },
-      "fwci": 1.9345,
+      "fwci": 1.9974,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.86334388,
+        "value": 0.86778831,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 94,
-        "max": 99
+        "max": 98
       },
       "biblio": {
         "volume": "14",
@@ -17413,7 +17410,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 3,
+      "locations_count": 4,
       "locations": [
         {
           "id": "doi:10.3390/fi14070213",
@@ -17447,6 +17444,35 @@
           "is_published": true,
           "raw_source_name": "Future Internet",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:RePEc:gam:jftint:v:14:y:2022:i:7:p:213-:d:866616",
+          "is_oa": false,
+          "landing_page_url": "https://www.mdpi.com/1999-5903/14/7/213/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401271",
+            "display_name": "RePEc: Research Papers in Economics",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I77793887",
+            "host_organization_name": "Federal Reserve Bank of St. Louis",
+            "host_organization_lineage": [
+              "https://openalex.org/I77793887"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "article"
         },
         {
           "id": "pmh:oai:doaj.org/article:69780a9c7dcd484783089d2ef9ece8c1",
@@ -18260,7 +18286,7 @@
       "date": "2022-01-01",
       "doi": "https://doi.org/10.1109/access.2022.3180033",
       "url": "https://doi.org/10.1109/access.2022.3180033",
-      "citations": 99,
+      "citations": 102,
       "isOpenAccess": true,
       "oaUrl": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09787492.pdf",
       "volume": "10",
@@ -18370,7 +18396,7 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 6
+          "cited_by_count": 9
         },
         {
           "year": 2025,
@@ -18389,7 +18415,7 @@
           "cited_by_count": 7
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.611Z",
+      "lastUpdated": "2026-05-01T05:47:21.931Z",
       "display_name": "A Survey of Emergencies Management Systems in Smart Cities",
       "publication_year": 2022,
       "publication_date": "2022-01-01",
@@ -18480,6 +18506,7 @@
           "raw_affiliation_strings": [
             "INEGI, Faculty of Engineering, University of Porto, Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3988-8476",
           "affiliations": [
             {
               "raw_affiliation_string": "INEGI, Faculty of Engineering, University of Porto, Porto, Portugal",
@@ -18517,6 +18544,7 @@
           "raw_affiliation_strings": [
             "PPGM, State University of Feira de Santana, Feira de Santana, Brazil"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3507-8249",
           "affiliations": [
             {
               "raw_affiliation_string": "PPGM, State University of Feira de Santana, Feira de Santana, Brazil",
@@ -18553,6 +18581,7 @@
           "raw_affiliation_strings": [
             "Department of Technology, State University of Feira de Santana, Feira de Santana, Brazil"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-5299-6856",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Technology, State University of Feira de Santana, Feira de Santana, Brazil",
@@ -18601,6 +18630,7 @@
             "INESC-TEC, Faculty of Engineering, University of Porto, Porto, Portugal",
             "INESC-TEC, University of Porto, Faculty of Engineering, Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-6386-9753",
           "affiliations": [
             {
               "raw_affiliation_string": "INESC-TEC, Faculty of Engineering, University of Porto, Porto, Portugal",
@@ -18656,6 +18686,7 @@
           "raw_affiliation_strings": [
             "INEGI, Faculty of Engineering, University of Porto, Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3115-0901",
           "affiliations": [
             {
               "raw_affiliation_string": "INEGI, Faculty of Engineering, University of Porto, Porto, Portugal",
@@ -18693,6 +18724,7 @@
           "raw_affiliation_strings": [
             "Computer Science Department, Federal University of Bahia, Salvador, Brazil"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3155-7023",
           "affiliations": [
             {
               "raw_affiliation_string": "Computer Science Department, Federal University of Bahia, Salvador, Brazil",
@@ -18729,6 +18761,7 @@
           "raw_affiliation_strings": [
             "Computer Science Department, Federal University of Bahia, Salvador, Brazil"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-4851-5228",
           "affiliations": [
             {
               "raw_affiliation_string": "Computer Science Department, Federal University of Bahia, Salvador, Brazil",
@@ -18759,11 +18792,11 @@
         "currency": "USD",
         "value_usd": 1850
       },
-      "fwci": 23.6497,
+      "fwci": 23.8638,
       "has_fulltext": true,
-      "cited_by_count": 99,
+      "cited_by_count": 102,
       "citation_normalized_percentile": {
-        "value": 0.9974698,
+        "value": 0.99749504,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -18936,9 +18969,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7200000286102295,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [
@@ -18953,27 +18986,6 @@
           "id": "https://openalex.org/G1885850072",
           "display_name": null,
           "funder_award_id": "UIDB/50022/2020",
-          "funder_id": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
-        {
-          "id": "https://openalex.org/G1886981331",
-          "display_name": null,
-          "funder_award_id": "project UID",
-          "funder_id": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
-        {
-          "id": "https://openalex.org/G3272457656",
-          "display_name": null,
-          "funder_award_id": "UIDB/",
-          "funder_id": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
-        {
-          "id": "https://openalex.org/G7990283390",
-          "display_name": null,
-          "funder_award_id": "https",
           "funder_id": "https://openalex.org/F4320334779",
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         }
@@ -19749,7 +19761,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 6
+          "cited_by_count": 9
         },
         {
           "year": 2025,
@@ -19768,7 +19780,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-03-27T14:29:43.386196",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19990,7 +20002,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.611Z",
+      "lastUpdated": "2026-05-01T05:47:21.931Z",
       "display_name": "A Comprehensive Dependability Model for QoM-Aware Industrial WSN When Performing Visual Area Coverage in Occluded Scenarios",
       "publication_year": 2020,
       "publication_date": "2020-11-16",
@@ -20107,6 +20119,7 @@
             "Departmnet of Technology, State University of Feira de Santana (DTEC/UEFS), Feira de Santana 44036-900, Brazil",
             "INEGI/INESC-TEC—Faculty of Engineering, University of Porto (FEUP), 4200-465 Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-5299-6856",
           "affiliations": [
             {
               "raw_affiliation_string": "Departmnet of Technology, State University of Feira de Santana (DTEC/UEFS), Feira de Santana 44036-900, Brazil",
@@ -20133,6 +20146,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I182534213",
+              "display_name": "Universidade do Porto",
+              "ror": "https://ror.org/043pwc612",
+              "country_code": "PT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I182534213"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210121509",
               "display_name": "Institute of Mechanical Engineering and Industrial Mangement",
               "ror": "https://ror.org/02pk7c879",
@@ -20153,16 +20176,6 @@
                 "https://openalex.org/I4210125590",
                 "https://openalex.org/I4210166615"
               ]
-            },
-            {
-              "id": "https://openalex.org/I182534213",
-              "display_name": "Universidade do Porto",
-              "ror": "https://ror.org/043pwc612",
-              "country_code": "PT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I182534213"
-              ]
             }
           ],
           "countries": [
@@ -20173,6 +20186,7 @@
           "raw_affiliation_strings": [
             "INEGI/INESC-TEC—Faculty of Engineering, University of Porto (FEUP), 4200-465 Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-6386-9753",
           "affiliations": [
             {
               "raw_affiliation_string": "INEGI/INESC-TEC—Faculty of Engineering, University of Porto (FEUP), 4200-465 Porto, Portugal",
@@ -20211,6 +20225,7 @@
           "raw_affiliation_strings": [
             "Departmnet of Technology, State University of Feira de Santana (DTEC/UEFS), Feira de Santana 44036-900, Brazil"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3988-8476",
           "affiliations": [
             {
               "raw_affiliation_string": "Departmnet of Technology, State University of Feira de Santana (DTEC/UEFS), Feira de Santana 44036-900, Brazil",
@@ -20269,6 +20284,7 @@
           "raw_affiliation_strings": [
             "INEGI/INESC-TEC—Faculty of Engineering, University of Porto (FEUP), 4200-465 Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3115-0901",
           "affiliations": [
             {
               "raw_affiliation_string": "INEGI/INESC-TEC—Faculty of Engineering, University of Porto (FEUP), 4200-465 Porto, Portugal",
@@ -20303,11 +20319,11 @@
         "currency": "CHF",
         "value_usd": 2598
       },
-      "fwci": 1.1282,
+      "fwci": 1.133,
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.80751249,
+        "value": 0.80830778,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20624,7 +20640,7 @@
             "display_name": "PubMed Central",
             "issn_l": null,
             "issn": null,
-            "is_oa": false,
+            "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
             "host_organization": "https://openalex.org/I1299303238",
@@ -20679,9 +20695,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "score": 0.5799999833106995,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [
@@ -20693,39 +20709,11 @@
           "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
         },
         {
-          "id": "https://openalex.org/G3304849250",
-          "display_name": null,
-          "funder_award_id": "1/2018",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
           "id": "https://openalex.org/G3313758759",
           "display_name": null,
           "funder_award_id": "204691/2018-4",
           "funder_id": "https://openalex.org/F4320322025",
           "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
-          "id": "https://openalex.org/G3601516360",
-          "display_name": null,
-          "funder_award_id": "Brazil",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
-          "id": "https://openalex.org/G3851452141",
-          "display_name": null,
-          "funder_award_id": "00003",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
-          "id": "https://openalex.org/G3998201246",
-          "display_name": null,
-          "funder_award_id": "Social",
-          "funder_id": "https://openalex.org/F4320338080",
-          "funder_display_name": "European Social Fund"
         },
         {
           "id": "https://openalex.org/G4530947760",
@@ -20735,32 +20723,11 @@
           "funder_display_name": "European Social Fund"
         },
         {
-          "id": "https://openalex.org/G5079005330",
-          "display_name": null,
-          "funder_award_id": "support",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
           "id": "https://openalex.org/G5570850665",
           "display_name": null,
           "funder_award_id": "NORTE 2020",
           "funder_id": "https://openalex.org/F4320338080",
           "funder_display_name": "European Social Fund"
-        },
-        {
-          "id": "https://openalex.org/G7255080861",
-          "display_name": null,
-          "funder_award_id": "00000",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
-          "id": "https://openalex.org/G7295187585",
-          "display_name": null,
-          "funder_award_id": "Grant",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
         }
       ],
       "funders": [
@@ -21184,7 +21151,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-20T23:20:44.827607",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21222,7 +21189,7 @@
       "date": "2020-01-01",
       "doi": "https://doi.org/10.1109/access.2020.3002206",
       "url": "https://doi.org/10.1109/access.2020.3002206",
-      "citations": 12,
+      "citations": 13,
       "isOpenAccess": true,
       "oaUrl": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09116946.pdf",
       "volume": "8",
@@ -21391,7 +21358,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2024,
@@ -21410,7 +21377,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.611Z",
+      "lastUpdated": "2026-05-01T05:47:21.931Z",
       "display_name": "FoV-Based Quality Assessment and Optimization for Area Coverage in Wireless Visual Sensor Networks",
       "publication_year": 2020,
       "publication_date": "2020-01-01",
@@ -21525,6 +21492,7 @@
             "Department of Technology, State University of Feira de Santana, Feira de Santana, Brazil",
             "Faculty of Engineering, INEGI/INESC-TEC, University of Porto, Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-5299-6856",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Technology, State University of Feira de Santana, Feira de Santana, Brazil",
@@ -21569,6 +21537,7 @@
           "raw_affiliation_strings": [
             "Department of Technology, State University of Feira de Santana, Feira de Santana, Brazil"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3988-8476",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Technology, State University of Feira de Santana, Feira de Santana, Brazil",
@@ -21587,6 +21556,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I182534213",
+              "display_name": "Universidade do Porto",
+              "ror": "https://ror.org/043pwc612",
+              "country_code": "PT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I182534213"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210121509",
               "display_name": "Institute of Mechanical Engineering and Industrial Mangement",
               "ror": "https://ror.org/02pk7c879",
@@ -21595,16 +21574,6 @@
               "lineage": [
                 "https://openalex.org/I182534213",
                 "https://openalex.org/I4210121509"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I182534213",
-              "display_name": "Universidade do Porto",
-              "ror": "https://ror.org/043pwc612",
-              "country_code": "PT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I182534213"
               ]
             },
             {
@@ -21627,6 +21596,7 @@
           "raw_affiliation_strings": [
             "Faculty of Engineering, INEGI/INESC-TEC, University of Porto, Porto, Portugal"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Engineering, INEGI/INESC-TEC, University of Porto, Porto, Portugal",
@@ -21646,6 +21616,16 @@
             "orcid": "https://orcid.org/0000-0003-3115-0901"
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I182534213",
+              "display_name": "Universidade do Porto",
+              "ror": "https://ror.org/043pwc612",
+              "country_code": "PT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I182534213"
+              ]
+            },
             {
               "id": "https://openalex.org/I4210121509",
               "display_name": "Institute of Mechanical Engineering and Industrial Mangement",
@@ -21667,16 +21647,6 @@
                 "https://openalex.org/I4210125590",
                 "https://openalex.org/I4210166615"
               ]
-            },
-            {
-              "id": "https://openalex.org/I182534213",
-              "display_name": "Universidade do Porto",
-              "ror": "https://ror.org/043pwc612",
-              "country_code": "PT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I182534213"
-              ]
             }
           ],
           "countries": [
@@ -21687,6 +21657,7 @@
           "raw_affiliation_strings": [
             "Faculty of Engineering, INEGI/INESC-TEC, University of Porto, Porto, Portugal"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Engineering, INEGI/INESC-TEC, University of Porto, Porto, Portugal",
@@ -21721,17 +21692,17 @@
         "currency": "USD",
         "value_usd": 1850
       },
-      "fwci": 0.4914,
+      "fwci": 0.4906,
       "has_fulltext": true,
-      "cited_by_count": 12,
+      "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.65554207,
+        "value": 0.65596193,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
-        "max": 99
+        "min": 90,
+        "max": 98
       },
       "biblio": {
         "volume": "8",
@@ -22010,9 +21981,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.5299999713897705,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [
@@ -22024,39 +21995,11 @@
           "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
         },
         {
-          "id": "https://openalex.org/G3304849250",
-          "display_name": null,
-          "funder_award_id": "1/2018",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
           "id": "https://openalex.org/G3313758759",
           "display_name": null,
           "funder_award_id": "204691/2018-4",
           "funder_id": "https://openalex.org/F4320322025",
           "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
-          "id": "https://openalex.org/G3601516360",
-          "display_name": null,
-          "funder_award_id": "Brazil",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
-          "id": "https://openalex.org/G3851452141",
-          "display_name": null,
-          "funder_award_id": "00003",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
-          "id": "https://openalex.org/G3998201246",
-          "display_name": null,
-          "funder_award_id": "Social",
-          "funder_id": "https://openalex.org/F4320338080",
-          "funder_display_name": "European Social Fund"
         },
         {
           "id": "https://openalex.org/G4530947760",
@@ -22066,32 +22009,11 @@
           "funder_display_name": "European Social Fund"
         },
         {
-          "id": "https://openalex.org/G5079005330",
-          "display_name": null,
-          "funder_award_id": "support",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
           "id": "https://openalex.org/G5570850665",
           "display_name": null,
           "funder_award_id": "NORTE 2020",
           "funder_id": "https://openalex.org/F4320338080",
           "funder_display_name": "European Social Fund"
-        },
-        {
-          "id": "https://openalex.org/G7255080861",
-          "display_name": null,
-          "funder_award_id": "00000",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
-          "id": "https://openalex.org/G7295187585",
-          "display_name": null,
-          "funder_award_id": "Grant",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
         }
       ],
       "funders": [
@@ -22669,7 +22591,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2024,
@@ -22688,7 +22610,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-03-14T08:43:22.919905",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22910,7 +22832,7 @@
           "cited_by_count": 4
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.611Z",
+      "lastUpdated": "2026-05-01T05:47:21.931Z",
       "display_name": "Modelling Coverage Failures Caused by Mobile Obstacles for the Selection of Faultless Visual Nodes in Wireless Sensor Networks",
       "publication_year": 2020,
       "publication_date": "2020-01-01",
@@ -23003,6 +22925,7 @@
             "Department of Technology, State University of Feira de Santana, Feira de Santana, Brazil",
             "Faculty of Engineering, University of Porto, Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-5299-6856",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Technology, State University of Feira de Santana, Feira de Santana, Brazil",
@@ -23045,6 +22968,7 @@
           "raw_affiliation_strings": [
             "Department of Technology, State University of Feira de Santana, Feira de Santana, Brazil"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3988-8476",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Technology, State University of Feira de Santana, Feira de Santana, Brazil",
@@ -23081,6 +23005,7 @@
           "raw_affiliation_strings": [
             "Faculty of Engineering, University of Porto, Porto, Portugal"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Engineering, University of Porto, Porto, Portugal",
@@ -23117,6 +23042,7 @@
           "raw_affiliation_strings": [
             "Faculty of Engineering, University of Porto, Porto, Portugal"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Engineering, University of Porto, Porto, Portugal",
@@ -23163,6 +23089,7 @@
           "raw_affiliation_strings": [
             "Instituto de Telecomunicações (IT), University of Porto, Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0002-6020-8087",
           "affiliations": [
             {
               "raw_affiliation_string": "Instituto de Telecomunicações (IT), University of Porto, Porto, Portugal",
@@ -23194,11 +23121,11 @@
         "currency": "USD",
         "value_usd": 1850
       },
-      "fwci": 1.773,
+      "fwci": 1.7812,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.85611025,
+        "value": 0.85683027,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23476,19 +23403,12 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "score": 0.8999999761581421,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [
-        {
-          "id": "https://openalex.org/G1281426596",
-          "display_name": null,
-          "funder_award_id": "UID/EEA/50008/201",
-          "funder_id": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
         {
           "id": "https://openalex.org/G1354054524",
           "display_name": null,
@@ -23504,20 +23424,6 @@
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         },
         {
-          "id": "https://openalex.org/G160550121",
-          "display_name": null,
-          "funder_award_id": "-FEDER-",
-          "funder_id": "https://openalex.org/F4320335322",
-          "funder_display_name": "European Regional Development Fund"
-        },
-        {
-          "id": "https://openalex.org/G168538887",
-          "display_name": null,
-          "funder_award_id": "Portugal",
-          "funder_id": "https://openalex.org/F4320323642",
-          "funder_display_name": "Ministério da Ciência, Tecnologia e Ensino Superior"
-        },
-        {
           "id": "https://openalex.org/G1685677391",
           "display_name": null,
           "funder_award_id": "NORTE-08-5369-FSE-00003",
@@ -23525,25 +23431,11 @@
           "funder_display_name": "European Social Fund"
         },
         {
-          "id": "https://openalex.org/G1716593420",
-          "display_name": null,
-          "funder_award_id": "-FEDER-",
-          "funder_id": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
-        {
           "id": "https://openalex.org/G1763632427",
           "display_name": null,
           "funder_award_id": "POCI-01-0145",
           "funder_id": "https://openalex.org/F4320334779",
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
-        {
-          "id": "https://openalex.org/G213682523",
-          "display_name": null,
-          "funder_award_id": "FCT/MCTES",
-          "funder_id": "https://openalex.org/F4320323642",
-          "funder_display_name": "Ministério da Ciência, Tecnologia e Ensino Superior"
         },
         {
           "id": "https://openalex.org/G2375406851",
@@ -23581,13 +23473,6 @@
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         },
         {
-          "id": "https://openalex.org/G3304849250",
-          "display_name": null,
-          "funder_award_id": "1/2018",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
           "id": "https://openalex.org/G3313758759",
           "display_name": null,
           "funder_award_id": "204691/2018-4",
@@ -23602,13 +23487,6 @@
           "funder_display_name": "European Regional Development Fund"
         },
         {
-          "id": "https://openalex.org/G3601516360",
-          "display_name": null,
-          "funder_award_id": "Brazil",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
           "id": "https://openalex.org/G3850789590",
           "display_name": null,
           "funder_award_id": "50008",
@@ -23616,30 +23494,9 @@
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         },
         {
-          "id": "https://openalex.org/G3851452141",
-          "display_name": null,
-          "funder_award_id": "00003",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
           "id": "https://openalex.org/G3933544696",
           "display_name": null,
           "funder_award_id": "POCI-01-0145-FEDER-016426",
-          "funder_id": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
-        {
-          "id": "https://openalex.org/G3998201246",
-          "display_name": null,
-          "funder_award_id": "Social",
-          "funder_id": "https://openalex.org/F4320338080",
-          "funder_display_name": "European Social Fund"
-        },
-        {
-          "id": "https://openalex.org/G4011576339",
-          "display_name": null,
-          "funder_award_id": "POCI-01-0145-FEDER-01642",
           "funder_id": "https://openalex.org/F4320334779",
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         },
@@ -23658,13 +23515,6 @@
           "funder_display_name": "European Social Fund"
         },
         {
-          "id": "https://openalex.org/G4636491520",
-          "display_name": null,
-          "funder_award_id": "FEDER",
-          "funder_id": "https://openalex.org/F4320338080",
-          "funder_display_name": "European Social Fund"
-        },
-        {
           "id": "https://openalex.org/G4726032871",
           "display_name": null,
           "funder_award_id": "CMUP-ERI/TIC/0010/2014",
@@ -23672,30 +23522,9 @@
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         },
         {
-          "id": "https://openalex.org/G5079005330",
-          "display_name": null,
-          "funder_award_id": "support",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
           "id": "https://openalex.org/G5224927334",
           "display_name": null,
           "funder_award_id": "POCI-01-",
-          "funder_id": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
-        {
-          "id": "https://openalex.org/G5226653915",
-          "display_name": null,
-          "funder_award_id": "FCT/MCT",
-          "funder_id": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
-        {
-          "id": "https://openalex.org/G5348594205",
-          "display_name": null,
-          "funder_award_id": "FEDER",
           "funder_id": "https://openalex.org/F4320334779",
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         },
@@ -23717,13 +23546,6 @@
           "id": "https://openalex.org/G6193589897",
           "display_name": null,
           "funder_award_id": "POCI-01-0145",
-          "funder_id": "https://openalex.org/F4320323642",
-          "funder_display_name": "Ministério da Ciência, Tecnologia e Ensino Superior"
-        },
-        {
-          "id": "https://openalex.org/G6227228207",
-          "display_name": null,
-          "funder_award_id": "FEDER",
           "funder_id": "https://openalex.org/F4320323642",
           "funder_display_name": "Ministério da Ciência, Tecnologia e Ensino Superior"
         },
@@ -23756,34 +23578,6 @@
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         },
         {
-          "id": "https://openalex.org/G7049410507",
-          "display_name": null,
-          "funder_award_id": "Portuguese Foundation for Science",
-          "funder_id": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
-        {
-          "id": "https://openalex.org/G7255080861",
-          "display_name": null,
-          "funder_award_id": "00000",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
-          "id": "https://openalex.org/G7374840810",
-          "display_name": null,
-          "funder_award_id": "00000",
-          "funder_id": "https://openalex.org/F4320335322",
-          "funder_display_name": "European Regional Development Fund"
-        },
-        {
-          "id": "https://openalex.org/G738030663",
-          "display_name": null,
-          "funder_award_id": "FCT/MCTES",
-          "funder_id": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
-        {
           "id": "https://openalex.org/G8274051256",
           "display_name": null,
           "funder_award_id": "NORTE 2020",
@@ -23803,20 +23597,6 @@
           "funder_award_id": "POCI-01-0145-FEDER",
           "funder_id": "https://openalex.org/F4320335322",
           "funder_display_name": "European Regional Development Fund"
-        },
-        {
-          "id": "https://openalex.org/G8922915789",
-          "display_name": null,
-          "funder_award_id": "(FEDER)",
-          "funder_id": "https://openalex.org/F4320335322",
-          "funder_display_name": "European Regional Development Fund"
-        },
-        {
-          "id": "https://openalex.org/G943999617",
-          "display_name": null,
-          "funder_award_id": "Technology",
-          "funder_id": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         }
       ],
       "funders": [
@@ -24432,7 +24212,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-03-16T09:10:04.655348",
+      "updated_date": "2026-04-30T09:15:22.047038",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24610,7 +24390,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.611Z",
+      "lastUpdated": "2026-05-01T05:47:21.931Z",
       "display_name": "An Availability Metric and Optimization Algorithms for Simultaneous Coverage of Targets and Areas by Wireless Visual Sensor Networks",
       "publication_year": 2019,
       "publication_date": "2019-07-01",
@@ -24973,9 +24753,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.5600000023841858,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -25639,7 +25419,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.611Z",
+      "lastUpdated": "2026-05-01T05:47:21.931Z",
       "display_name": "Wireless visual sensor networks redeployment based on dependability optimization",
       "publication_year": 2019,
       "publication_date": "2019-07-01",
@@ -26007,9 +25787,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "score": 0.5899999737739563,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -26580,7 +26360,7 @@
       "date": "2018-08-10",
       "doi": "https://doi.org/10.3390/s18082629",
       "url": "https://doi.org/10.3390/s18082629",
-      "citations": 24,
+      "citations": 25,
       "isOpenAccess": true,
       "oaUrl": "https://www.mdpi.com/1424-8220/18/8/2629/pdf?version=1534134742",
       "volume": "18",
@@ -26730,7 +26510,7 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -26761,7 +26541,7 @@
           "cited_by_count": 4
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.611Z",
+      "lastUpdated": "2026-05-01T05:47:21.931Z",
       "display_name": "Automated Methodology for Dependability Evaluation of Wireless Visual Sensor Networks",
       "publication_year": 2018,
       "publication_date": "2018-08-10",
@@ -26826,6 +26606,26 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I182534213",
+              "display_name": "Universidade do Porto",
+              "ror": "https://ror.org/043pwc612",
+              "country_code": "PT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I182534213"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I21606457",
+              "display_name": "Universidade Estadual de Feira de Santana",
+              "ror": "https://ror.org/04ygk5j35",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I21606457"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210121509",
               "display_name": "Institute of Mechanical Engineering and Industrial Mangement",
               "ror": "https://ror.org/02pk7c879",
@@ -26837,16 +26637,6 @@
               ]
             },
             {
-              "id": "https://openalex.org/I182534213",
-              "display_name": "Universidade do Porto",
-              "ror": "https://ror.org/043pwc612",
-              "country_code": "PT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I182534213"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210166615",
               "display_name": "INESC TEC",
               "ror": "https://ror.org/05fa8ka61",
@@ -26855,16 +26645,6 @@
               "lineage": [
                 "https://openalex.org/I4210125590",
                 "https://openalex.org/I4210166615"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I21606457",
-              "display_name": "Universidade Estadual de Feira de Santana",
-              "ror": "https://ror.org/04ygk5j35",
-              "country_code": "BR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I21606457"
               ]
             }
           ],
@@ -26878,6 +26658,7 @@
             "Department of Technology, State University of Feira de Santana (DTEC/UEFS), 44036-900 Feira de Santana, Brazil",
             "INEGI/INESC-TEC—Faculty of Engineering, University of Porto (FEUP), 4200-465 Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0001-5299-6856",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Technology, State University of Feira de Santana (DTEC/UEFS), 44036-900 Feira de Santana, Brazil",
@@ -26904,17 +26685,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210166615",
-              "display_name": "INESC TEC",
-              "ror": "https://ror.org/05fa8ka61",
-              "country_code": "PT",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210125590",
-                "https://openalex.org/I4210166615"
-              ]
-            },
-            {
               "id": "https://openalex.org/I182534213",
               "display_name": "Universidade do Porto",
               "ror": "https://ror.org/043pwc612",
@@ -26934,6 +26704,17 @@
                 "https://openalex.org/I182534213",
                 "https://openalex.org/I4210121509"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210166615",
+              "display_name": "INESC TEC",
+              "ror": "https://ror.org/05fa8ka61",
+              "country_code": "PT",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210125590",
+                "https://openalex.org/I4210166615"
+              ]
             }
           ],
           "countries": [
@@ -26944,6 +26725,7 @@
           "raw_affiliation_strings": [
             "INEGI/INESC-TEC—Faculty of Engineering, University of Porto (FEUP), 4200-465 Porto, Portugal"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "INEGI/INESC-TEC—Faculty of Engineering, University of Porto (FEUP), 4200-465 Porto, Portugal",
@@ -26964,6 +26746,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I182534213",
+              "display_name": "Universidade do Porto",
+              "ror": "https://ror.org/043pwc612",
+              "country_code": "PT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I182534213"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210121509",
               "display_name": "Institute of Mechanical Engineering and Industrial Mangement",
               "ror": "https://ror.org/02pk7c879",
@@ -26984,16 +26776,6 @@
                 "https://openalex.org/I4210125590",
                 "https://openalex.org/I4210166615"
               ]
-            },
-            {
-              "id": "https://openalex.org/I182534213",
-              "display_name": "Universidade do Porto",
-              "ror": "https://ror.org/043pwc612",
-              "country_code": "PT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I182534213"
-              ]
             }
           ],
           "countries": [
@@ -27004,6 +26786,7 @@
           "raw_affiliation_strings": [
             "INEGI/INESC-TEC—Faculty of Engineering, University of Porto (FEUP), 4200-465 Porto, Portugal"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3115-0901",
           "affiliations": [
             {
               "raw_affiliation_string": "INEGI/INESC-TEC—Faculty of Engineering, University of Porto (FEUP), 4200-465 Porto, Portugal",
@@ -27042,6 +26825,7 @@
           "raw_affiliation_strings": [
             "Department of Technology, State University of Feira de Santana (DTEC/UEFS), 44036-900 Feira de Santana, Brazil"
           ],
+          "raw_orcid": "https://orcid.org/0000-0003-3988-8476",
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Technology, State University of Feira de Santana (DTEC/UEFS), 44036-900 Feira de Santana, Brazil",
@@ -27074,11 +26858,11 @@
         "currency": "CHF",
         "value_usd": 2598
       },
-      "fwci": 2.7311,
+      "fwci": 2.7358,
       "has_fulltext": true,
-      "cited_by_count": 24,
+      "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.91097092,
+        "value": 0.911056,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -27382,7 +27166,7 @@
             "display_name": "PubMed Central",
             "issn_l": null,
             "issn": null,
-            "is_oa": false,
+            "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
             "host_organization": "https://openalex.org/I1299303238",
@@ -28046,7 +27830,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -28077,7 +27861,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-03-25T14:56:36.534964",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28253,7 +28037,7 @@
           "cited_by_count": 3
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.611Z",
+      "lastUpdated": "2026-05-01T05:47:21.931Z",
       "display_name": "On the Computing of Area Coverage by Visual Sensor Networks: Assessing Performance of Approximate and Precise Algorithms",
       "publication_year": 2018,
       "publication_date": "2018-07-01",
@@ -29143,7 +28927,7 @@
       "date": "2011-03-15",
       "doi": "https://doi.org/10.1109/tac.2011.2124950",
       "url": "https://doi.org/10.1109/tac.2011.2124950",
-      "citations": 148,
+      "citations": 149,
       "isOpenAccess": false,
       "oaUrl": null,
       "volume": "56",
@@ -29300,7 +29084,7 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -29359,7 +29143,7 @@
           "cited_by_count": 5
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.611Z",
+      "lastUpdated": "2026-05-01T05:47:21.931Z",
       "display_name": "Polynomial Time Verification of Decentralized Diagnosability of Discrete Event Systems",
       "publication_year": 2011,
       "publication_date": "2011-03-15",
@@ -29555,16 +29339,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.9631,
+      "fwci": 6.1394,
       "has_fulltext": false,
-      "cited_by_count": 148,
+      "cited_by_count": 149,
       "citation_normalized_percentile": {
-        "value": 0.96850937,
+        "value": 0.96920151,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 97,
+        "min": 98,
         "max": 100
       },
       "biblio": {
@@ -30039,7 +29823,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -30098,7 +29882,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-02-17T06:05:46.635709",
+      "updated_date": "2026-04-20T07:46:08.049788",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30275,7 +30059,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.612Z",
+      "lastUpdated": "2026-05-01T05:47:21.931Z",
       "display_name": "Polynomial time verification of decentralized diagnosability of discrete event systems",
       "publication_year": 2010,
       "publication_date": "2010-06-01",
@@ -30959,10 +30743,10 @@
   ],
   "stats": {
     "totalPapers": 27,
-    "totalCitations": 476,
+    "totalCitations": 494,
     "hIndex": 11,
     "openAccessCount": 14,
-    "averageCitations": 17.6,
+    "averageCitations": 18.3,
     "publicationsByYear": {
       "2010": 1,
       "2011": 1,
@@ -31006,7 +30790,7 @@
       "date": "2011-03-15",
       "doi": "https://doi.org/10.1109/tac.2011.2124950",
       "url": "https://doi.org/10.1109/tac.2011.2124950",
-      "citations": 148,
+      "citations": 149,
       "isOpenAccess": false,
       "oaUrl": null,
       "volume": "56",
@@ -31163,7 +30947,7 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -31222,7 +31006,7 @@
           "cited_by_count": 5
         }
       ],
-      "lastUpdated": "2026-04-01T04:51:33.611Z",
+      "lastUpdated": "2026-05-01T05:47:21.931Z",
       "display_name": "Polynomial Time Verification of Decentralized Diagnosability of Discrete Event Systems",
       "publication_year": 2011,
       "publication_date": "2011-03-15",
@@ -31418,16 +31202,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.9631,
+      "fwci": 6.1394,
       "has_fulltext": false,
-      "cited_by_count": 148,
+      "cited_by_count": 149,
       "citation_normalized_percentile": {
-        "value": 0.96850937,
+        "value": 0.96920151,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 97,
+        "min": 98,
         "max": 100
       },
       "biblio": {
@@ -31902,7 +31686,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -31961,12 +31745,12 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-02-17T06:05:46.635709",
+      "updated_date": "2026-04-20T07:46:08.049788",
       "created_date": "2025-10-10T00:00:00"
     },
     "recentPapers": 10
   },
-  "lastFetched": "2026-04-01T04:51:33.612Z",
+  "lastFetched": "2026-05-01T05:47:21.931Z",
   "totalCount": 27,
   "filteredCount": 27,
   "excludedCount": 0
