@@ -1,6 +1,2336 @@
 {
   "results": [
     {
+      "id": "https://openalex.org/W7118482098",
+      "title": "On the role of AI in building generative urban intelligence",
+      "authors": [
+        {
+          "name": "João Carlos N. Bittencourt",
+          "orcid": "https://orcid.org/0000-0002-4540-512X",
+          "isCorresponding": true,
+          "position": "first"
+        },
+        {
+          "name": "Thommas K. S. Flores",
+          "orcid": null,
+          "isCorresponding": false,
+          "position": "middle"
+        },
+        {
+          "name": "Thiago C. Jesus",
+          "orcid": "https://orcid.org/0000-0001-5299-6856",
+          "isCorresponding": false,
+          "position": "middle"
+        },
+        {
+          "name": "D. M. Costa",
+          "orcid": null,
+          "isCorresponding": false,
+          "position": "last"
+        }
+      ],
+      "journal": "Artificial Intelligence Review",
+      "year": 2026,
+      "month": 1,
+      "date": "2026-01-07",
+      "doi": "https://doi.org/10.1007/s10462-025-11469-3",
+      "url": "https://doi.org/10.1007/s10462-025-11469-3",
+      "citations": 3,
+      "isOpenAccess": true,
+      "oaUrl": "https://doi.org/10.1007/s10462-025-11469-3",
+      "volume": "59",
+      "issue": "2",
+      "pages": {
+        "first": null,
+        "last": null
+      },
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/smart-city",
+          "display_name": "Smart city",
+          "score": 0.64410001039505
+        },
+        {
+          "id": "https://openalex.org/keywords/generative-grammar",
+          "display_name": "Generative grammar",
+          "score": 0.616100013256073
+        },
+        {
+          "id": "https://openalex.org/keywords/field",
+          "display_name": "Field (mathematics)",
+          "score": 0.5519999861717224
+        },
+        {
+          "id": "https://openalex.org/keywords/process",
+          "display_name": "Process (computing)",
+          "score": 0.5353999733924866
+        },
+        {
+          "id": "https://openalex.org/keywords/context",
+          "display_name": "Context (archaeology)",
+          "score": 0.5324000120162964
+        },
+        {
+          "id": "https://openalex.org/keywords/urbanization",
+          "display_name": "Urbanization",
+          "score": 0.5058000087738037
+        },
+        {
+          "id": "https://openalex.org/keywords/urban-computing",
+          "display_name": "Urban computing",
+          "score": 0.5034000277519226
+        },
+        {
+          "id": "https://openalex.org/keywords/ambient-intelligence",
+          "display_name": "Ambient intelligence",
+          "score": 0.4156000018119812
+        },
+        {
+          "id": "https://openalex.org/keywords/urban-planning",
+          "display_name": "Urban planning",
+          "score": 0.4120999872684479
+        }
+      ],
+      "topics": [
+        {
+          "id": "https://openalex.org/T11479",
+          "display_name": "Smart Cities and Technologies",
+          "score": 0.7684999704360962,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2214",
+            "display_name": "Media Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14260",
+          "display_name": "Impact of AI and Big Data on Business and Society",
+          "score": 0.008999999612569809,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1803",
+            "display_name": "Management Science and Operations Research"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/18",
+            "display_name": "Decision Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11980",
+          "display_name": "Human Mobility and Location-Based Analysis",
+          "score": 0.007199999876320362,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3313",
+            "display_name": "Transportation"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "abstract": "Abstract The rapid urbanization process has presented complex challenges that require innovative strategies to enhance urban living and promote sustainable growth. In this context, the concept of smart cities has quickly evolved, illustrating urban environments that utilize advanced technology to achieve greater efficiency, sustainability, and an improved quality of life for residents. The development of these smart environments relies on technologies like the Internet of Things (IoT), which col...",
+      "venue": {
+        "id": "https://openalex.org/S122814990",
+        "display_name": "Artificial Intelligence Review",
+        "issn_l": "0269-2821",
+        "issn": [
+          "0269-2821",
+          "1573-7462"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "language": "en",
+      "isRetracted": false,
+      "citationsPerYear": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        }
+      ],
+      "lastUpdated": "2026-06-01T07:08:43.252Z",
+      "display_name": "On the role of AI in building generative urban intelligence",
+      "publication_year": 2026,
+      "publication_date": "2026-01-07",
+      "ids": {
+        "openalex": "https://openalex.org/W7118482098",
+        "doi": "https://doi.org/10.1007/s10462-025-11469-3"
+      },
+      "primary_location": {
+        "id": "doi:10.1007/s10462-025-11469-3",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s10462-025-11469-3",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S122814990",
+          "display_name": "Artificial Intelligence Review",
+          "issn_l": "0269-2821",
+          "issn": [
+            "0269-2821",
+            "1573-7462"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Artificial Intelligence Review",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1007/s10462-025-11469-3",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5040609024",
+            "display_name": "João Carlos N. Bittencourt",
+            "orcid": "https://orcid.org/0000-0002-4540-512X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I129192303",
+              "display_name": "Universidade Federal do Recôncavo da Bahia",
+              "ror": "https://ror.org/057mvv518",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I129192303"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I182534213",
+              "display_name": "Universidade do Porto",
+              "ror": "https://ror.org/043pwc612",
+              "country_code": "PT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I182534213"
+              ]
+            }
+          ],
+          "countries": [
+            "BR",
+            "PT"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "João Carlos N. Bittencourt",
+          "raw_affiliation_strings": [
+            "CETEC, Federal University of Recôncavo da Bahia, Rua Ruy Barbosa, 710, Cruz das Almas, Bahia, 44380-000, Brazil",
+            "SYSTEC-ARISE, Faculty of Engineering, University of Porto, Rua Dr. Roberto Frias s/n, Porto, 4200-465, Portugal"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "CETEC, Federal University of Recôncavo da Bahia, Rua Ruy Barbosa, 710, Cruz das Almas, Bahia, 44380-000, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I129192303"
+              ]
+            },
+            {
+              "raw_affiliation_string": "SYSTEC-ARISE, Faculty of Engineering, University of Porto, Rua Dr. Roberto Frias s/n, Porto, 4200-465, Portugal",
+              "institution_ids": [
+                "https://openalex.org/I182534213"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5122092833",
+            "display_name": "Thommas K. S. Flores",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I35046152",
+              "display_name": "Universidade Federal do Rio Grande do Norte",
+              "ror": "https://ror.org/04wn09761",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I35046152"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Thommas K. S. Flores",
+          "raw_affiliation_strings": [
+            "PPgEEC-UFRN, Federal University of Rio Grande do Norte, Campus Universitário Lagoa Nova, Natal, Rio Grande do Norte, 59078-970, Brazil"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "PPgEEC-UFRN, Federal University of Rio Grande do Norte, Campus Universitário Lagoa Nova, Natal, Rio Grande do Norte, 59078-970, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I35046152"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5011761859",
+            "display_name": "Thiago C. Jesus",
+            "orcid": "https://orcid.org/0000-0001-5299-6856"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I21606457",
+              "display_name": "Universidade Estadual de Feira de Santana",
+              "ror": "https://ror.org/04ygk5j35",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I21606457"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Thiago C. Jesus",
+          "raw_affiliation_strings": [
+            "DTEC, State University of Feira de Santana, Avenida Transnordestina s/n, Feira de Santana, Bahia, 44036-900, Brazil"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "DTEC, State University of Feira de Santana, Avenida Transnordestina s/n, Feira de Santana, Bahia, 44036-900, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I21606457"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5103572550",
+            "display_name": "D. M. Costa",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I182534213",
+              "display_name": "Universidade do Porto",
+              "ror": "https://ror.org/043pwc612",
+              "country_code": "PT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I182534213"
+              ]
+            }
+          ],
+          "countries": [
+            "PT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Daniel G. Costa",
+          "raw_affiliation_strings": [
+            "SYSTEC-ARISE, Faculty of Engineering, University of Porto, Rua Dr. Roberto Frias s/n, Porto, 4200-465, Portugal"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "SYSTEC-ARISE, Faculty of Engineering, University of Porto, Rua Dr. Roberto Frias s/n, Porto, 4200-465, Portugal",
+              "institution_ids": [
+                "https://openalex.org/I182534213"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5040609024"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I129192303",
+        "https://openalex.org/I182534213"
+      ],
+      "apc_list": {
+        "value": 2490,
+        "currency": "EUR",
+        "value_usd": 3090
+      },
+      "apc_paid": {
+        "value": 2490,
+        "currency": "EUR",
+        "value_usd": 3090
+      },
+      "fwci": 46.1514,
+      "has_fulltext": false,
+      "cited_by_count": 3,
+      "citation_normalized_percentile": {
+        "value": 0.99653452,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 98,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "59",
+        "issue": "2",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11479",
+        "display_name": "Smart Cities and Technologies",
+        "score": 0.7684999704360962,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2214",
+          "display_name": "Media Technology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "concepts": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.6901000142097473
+        },
+        {
+          "id": "https://openalex.org/C2777103469",
+          "wikidata": "https://www.wikidata.org/wiki/Q1231558",
+          "display_name": "Smart city",
+          "level": 3,
+          "score": 0.64410001039505
+        },
+        {
+          "id": "https://openalex.org/C39890363",
+          "wikidata": "https://www.wikidata.org/wiki/Q36108",
+          "display_name": "Generative grammar",
+          "level": 2,
+          "score": 0.616100013256073
+        },
+        {
+          "id": "https://openalex.org/C9652623",
+          "wikidata": "https://www.wikidata.org/wiki/Q190109",
+          "display_name": "Field (mathematics)",
+          "level": 2,
+          "score": 0.5519999861717224
+        },
+        {
+          "id": "https://openalex.org/C98045186",
+          "wikidata": "https://www.wikidata.org/wiki/Q205663",
+          "display_name": "Process (computing)",
+          "level": 2,
+          "score": 0.5353999733924866
+        },
+        {
+          "id": "https://openalex.org/C2779343474",
+          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+          "display_name": "Context (archaeology)",
+          "level": 2,
+          "score": 0.5324000120162964
+        },
+        {
+          "id": "https://openalex.org/C39853841",
+          "wikidata": "https://www.wikidata.org/wiki/Q161078",
+          "display_name": "Urbanization",
+          "level": 2,
+          "score": 0.5058000087738037
+        },
+        {
+          "id": "https://openalex.org/C2778459138",
+          "wikidata": "https://www.wikidata.org/wiki/Q7900107",
+          "display_name": "Urban computing",
+          "level": 2,
+          "score": 0.5034000277519226
+        },
+        {
+          "id": "https://openalex.org/C2522767166",
+          "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+          "display_name": "Data science",
+          "level": 1,
+          "score": 0.48190000653266907
+        },
+        {
+          "id": "https://openalex.org/C201638289",
+          "wikidata": "https://www.wikidata.org/wiki/Q457396",
+          "display_name": "Ambient intelligence",
+          "level": 2,
+          "score": 0.4156000018119812
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.41530001163482666
+        },
+        {
+          "id": "https://openalex.org/C49545453",
+          "wikidata": "https://www.wikidata.org/wiki/Q69883",
+          "display_name": "Urban planning",
+          "level": 2,
+          "score": 0.4120999872684479
+        },
+        {
+          "id": "https://openalex.org/C2781368080",
+          "wikidata": "https://www.wikidata.org/wiki/Q501688",
+          "display_name": "Context awareness",
+          "level": 3,
+          "score": 0.37459999322891235
+        },
+        {
+          "id": "https://openalex.org/C12713177",
+          "wikidata": "https://www.wikidata.org/wiki/Q1900281",
+          "display_name": "Perspective (graphical)",
+          "level": 2,
+          "score": 0.3603000044822693
+        },
+        {
+          "id": "https://openalex.org/C56739046",
+          "wikidata": "https://www.wikidata.org/wiki/Q192060",
+          "display_name": "Knowledge management",
+          "level": 1,
+          "score": 0.3571999967098236
+        },
+        {
+          "id": "https://openalex.org/C2780378061",
+          "wikidata": "https://www.wikidata.org/wiki/Q25351891",
+          "display_name": "Service (business)",
+          "level": 2,
+          "score": 0.34860000014305115
+        },
+        {
+          "id": "https://openalex.org/C75684735",
+          "wikidata": "https://www.wikidata.org/wiki/Q858810",
+          "display_name": "Big data",
+          "level": 2,
+          "score": 0.3391999900341034
+        },
+        {
+          "id": "https://openalex.org/C207267971",
+          "wikidata": "https://www.wikidata.org/wiki/Q120208",
+          "display_name": "Emerging technologies",
+          "level": 2,
+          "score": 0.3231000006198883
+        },
+        {
+          "id": "https://openalex.org/C81860439",
+          "wikidata": "https://www.wikidata.org/wiki/Q251212",
+          "display_name": "Internet of Things",
+          "level": 2,
+          "score": 0.3077000081539154
+        },
+        {
+          "id": "https://openalex.org/C2779530757",
+          "wikidata": "https://www.wikidata.org/wiki/Q1207505",
+          "display_name": "Quality (philosophy)",
+          "level": 2,
+          "score": 0.3052000105381012
+        },
+        {
+          "id": "https://openalex.org/C167966045",
+          "wikidata": "https://www.wikidata.org/wiki/Q5532625",
+          "display_name": "Generative model",
+          "level": 3,
+          "score": 0.30059999227523804
+        },
+        {
+          "id": "https://openalex.org/C539667460",
+          "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+          "display_name": "Management science",
+          "level": 1,
+          "score": 0.2989000082015991
+        },
+        {
+          "id": "https://openalex.org/C89057211",
+          "wikidata": "https://www.wikidata.org/wiki/Q432197",
+          "display_name": "Collective intelligence",
+          "level": 2,
+          "score": 0.28850001096725464
+        },
+        {
+          "id": "https://openalex.org/C172195944",
+          "wikidata": "https://www.wikidata.org/wiki/Q541265",
+          "display_name": "Ubiquitous computing",
+          "level": 2,
+          "score": 0.28619998693466187
+        },
+        {
+          "id": "https://openalex.org/C152223200",
+          "wikidata": "https://www.wikidata.org/wiki/Q3055471",
+          "display_name": "Smart environment",
+          "level": 3,
+          "score": 0.2808000147342682
+        },
+        {
+          "id": "https://openalex.org/C552854447",
+          "wikidata": "https://www.wikidata.org/wiki/Q131201",
+          "display_name": "Sustainable development",
+          "level": 2,
+          "score": 0.271699994802475
+        },
+        {
+          "id": "https://openalex.org/C157170001",
+          "wikidata": "https://www.wikidata.org/wiki/Q4781507",
+          "display_name": "Applications of artificial intelligence",
+          "level": 2,
+          "score": 0.26570001244544983
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/s10462-025-11469-3",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1007/s10462-025-11469-3",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S122814990",
+            "display_name": "Artificial Intelligence Review",
+            "issn_l": "0269-2821",
+            "issn": [
+              "0269-2821",
+              "1573-7462"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Artificial Intelligence Review",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1007/s10462-025-11469-3",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s10462-025-11469-3",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S122814990",
+          "display_name": "Artificial Intelligence Review",
+          "issn_l": "0269-2821",
+          "issn": [
+            "0269-2821",
+            "1573-7462"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Artificial Intelligence Review",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.5111441016197205,
+          "display_name": "Sustainable cities and communities"
+        }
+      ],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324086",
+          "display_name": "Universidade do Porto",
+          "ror": "https://ror.org/043pwc612"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 174,
+      "referenced_works": [
+        "https://openalex.org/W40911477",
+        "https://openalex.org/W2081942550",
+        "https://openalex.org/W2106950427",
+        "https://openalex.org/W2292929445",
+        "https://openalex.org/W2560316343",
+        "https://openalex.org/W2738428139",
+        "https://openalex.org/W2791256869",
+        "https://openalex.org/W2883861872",
+        "https://openalex.org/W2904105652",
+        "https://openalex.org/W2910453440",
+        "https://openalex.org/W2912275277",
+        "https://openalex.org/W2912325838",
+        "https://openalex.org/W2943201207",
+        "https://openalex.org/W2952957939",
+        "https://openalex.org/W3003910048",
+        "https://openalex.org/W3007281183",
+        "https://openalex.org/W3009311085",
+        "https://openalex.org/W3011648816",
+        "https://openalex.org/W3029404970",
+        "https://openalex.org/W3033187248",
+        "https://openalex.org/W3037510835",
+        "https://openalex.org/W3086811561",
+        "https://openalex.org/W3088822655",
+        "https://openalex.org/W3092843175",
+        "https://openalex.org/W3096831136",
+        "https://openalex.org/W3137164673",
+        "https://openalex.org/W3138924974",
+        "https://openalex.org/W3167464041",
+        "https://openalex.org/W3170870985",
+        "https://openalex.org/W3193819136",
+        "https://openalex.org/W3211686893",
+        "https://openalex.org/W3213246036",
+        "https://openalex.org/W3213963952",
+        "https://openalex.org/W4206707323",
+        "https://openalex.org/W4206808607",
+        "https://openalex.org/W4206926697",
+        "https://openalex.org/W4210516792",
+        "https://openalex.org/W4214599906",
+        "https://openalex.org/W4229016946",
+        "https://openalex.org/W4229336790",
+        "https://openalex.org/W4284883467",
+        "https://openalex.org/W4285170326",
+        "https://openalex.org/W4287887617",
+        "https://openalex.org/W4288253152",
+        "https://openalex.org/W4292117317",
+        "https://openalex.org/W4294051933",
+        "https://openalex.org/W4300427683",
+        "https://openalex.org/W4307939003",
+        "https://openalex.org/W4311415873",
+        "https://openalex.org/W4311620310",
+        "https://openalex.org/W4313002037",
+        "https://openalex.org/W4313595416",
+        "https://openalex.org/W4317931226",
+        "https://openalex.org/W4321351832",
+        "https://openalex.org/W4321377319",
+        "https://openalex.org/W4360770777",
+        "https://openalex.org/W4366506272",
+        "https://openalex.org/W4367052863",
+        "https://openalex.org/W4380760997",
+        "https://openalex.org/W4381248616",
+        "https://openalex.org/W4384067905",
+        "https://openalex.org/W4384405237",
+        "https://openalex.org/W4385245566",
+        "https://openalex.org/W4385568051",
+        "https://openalex.org/W4385811608",
+        "https://openalex.org/W4386053119",
+        "https://openalex.org/W4386914624",
+        "https://openalex.org/W4387376803",
+        "https://openalex.org/W4387767134",
+        "https://openalex.org/W4388119564",
+        "https://openalex.org/W4388729531",
+        "https://openalex.org/W4388977121",
+        "https://openalex.org/W4389249471",
+        "https://openalex.org/W4389359039",
+        "https://openalex.org/W4389513614",
+        "https://openalex.org/W4389523490",
+        "https://openalex.org/W4390041908",
+        "https://openalex.org/W4390100419",
+        "https://openalex.org/W4390489793",
+        "https://openalex.org/W4391129224",
+        "https://openalex.org/W4391432233",
+        "https://openalex.org/W4391591658",
+        "https://openalex.org/W4391768897",
+        "https://openalex.org/W4391811503",
+        "https://openalex.org/W4391884123",
+        "https://openalex.org/W4391933019",
+        "https://openalex.org/W4392014897",
+        "https://openalex.org/W4392270888",
+        "https://openalex.org/W4392402296",
+        "https://openalex.org/W4392462757",
+        "https://openalex.org/W4392518374",
+        "https://openalex.org/W4392636660",
+        "https://openalex.org/W4392681052",
+        "https://openalex.org/W4393141438",
+        "https://openalex.org/W4393142949",
+        "https://openalex.org/W4393396161",
+        "https://openalex.org/W4393904951",
+        "https://openalex.org/W4394846650",
+        "https://openalex.org/W4396608392",
+        "https://openalex.org/W4396941492",
+        "https://openalex.org/W4398218849",
+        "https://openalex.org/W4399039294",
+        "https://openalex.org/W4399208836",
+        "https://openalex.org/W4399267045",
+        "https://openalex.org/W4399741313",
+        "https://openalex.org/W4399746124",
+        "https://openalex.org/W4400276938",
+        "https://openalex.org/W4400396884",
+        "https://openalex.org/W4400445695",
+        "https://openalex.org/W4400648045",
+        "https://openalex.org/W4400728347",
+        "https://openalex.org/W4400975104",
+        "https://openalex.org/W4401010390",
+        "https://openalex.org/W4401046855",
+        "https://openalex.org/W4401092812",
+        "https://openalex.org/W4401253958",
+        "https://openalex.org/W4401415206",
+        "https://openalex.org/W4401635135",
+        "https://openalex.org/W4401863560",
+        "https://openalex.org/W4401863622",
+        "https://openalex.org/W4402263942",
+        "https://openalex.org/W4402345099",
+        "https://openalex.org/W4402507654",
+        "https://openalex.org/W4402753984",
+        "https://openalex.org/W4403265197",
+        "https://openalex.org/W4403371192",
+        "https://openalex.org/W4403439589",
+        "https://openalex.org/W4403714226",
+        "https://openalex.org/W4403941512",
+        "https://openalex.org/W4404148142",
+        "https://openalex.org/W4404179478",
+        "https://openalex.org/W4404538195",
+        "https://openalex.org/W4404611709",
+        "https://openalex.org/W4404644662",
+        "https://openalex.org/W4404665724",
+        "https://openalex.org/W4404726096",
+        "https://openalex.org/W4405235079",
+        "https://openalex.org/W4405282870",
+        "https://openalex.org/W4405366589",
+        "https://openalex.org/W4405430242",
+        "https://openalex.org/W4405601902",
+        "https://openalex.org/W4405657257",
+        "https://openalex.org/W4405744125",
+        "https://openalex.org/W4405832271",
+        "https://openalex.org/W4405923978",
+        "https://openalex.org/W4406201714",
+        "https://openalex.org/W4406356664",
+        "https://openalex.org/W4406370042",
+        "https://openalex.org/W4406754736",
+        "https://openalex.org/W4406842332",
+        "https://openalex.org/W4407214968",
+        "https://openalex.org/W4407354156",
+        "https://openalex.org/W4407637095",
+        "https://openalex.org/W4407865204",
+        "https://openalex.org/W4407902214",
+        "https://openalex.org/W4407937406",
+        "https://openalex.org/W4408123665",
+        "https://openalex.org/W4408252681",
+        "https://openalex.org/W4408276749",
+        "https://openalex.org/W4408593759",
+        "https://openalex.org/W4408694243",
+        "https://openalex.org/W4408750423",
+        "https://openalex.org/W4408806545",
+        "https://openalex.org/W4408967836",
+        "https://openalex.org/W4409081320",
+        "https://openalex.org/W4409084089",
+        "https://openalex.org/W4409199105",
+        "https://openalex.org/W4409260317",
+        "https://openalex.org/W4410069375",
+        "https://openalex.org/W4410914856",
+        "https://openalex.org/W4413442784",
+        "https://openalex.org/W4414203706",
+        "https://openalex.org/W4414444156",
+        "https://openalex.org/W4416086767"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "The": [
+          1,
+          52
+        ],
+        "rapid": [
+          2
+        ],
+        "urbanization": [
+          3
+        ],
+        "process": [
+          4
+        ],
+        "has": [
+          5,
+          29
+        ],
+        "presented": [
+          6
+        ],
+        "complex": [
+          7
+        ],
+        "challenges": [
+          8
+        ],
+        "that": [
+          9,
+          35,
+          165
+        ],
+        "require": [
+          10
+        ],
+        "innovative": [
+          11
+        ],
+        "strategies": [
+          12
+        ],
+        "to": [
+          13,
+          39,
+          168
+        ],
+        "enhance": [
+          14
+        ],
+        "urban": [
+          15,
+          33,
+          92,
+          113,
+          141,
+          147,
+          170
+        ],
+        "living": [
+          16
+        ],
+        "and": [
+          17,
+          44,
+          73,
+          81,
+          116,
+          127,
+          152,
+          173
+        ],
+        "promote": [
+          18
+        ],
+        "sustainable": [
+          19
+        ],
+        "growth.": [
+          20
+        ],
+        "In": [
+          21
+        ],
+        "this": [
+          22
+        ],
+        "context,": [
+          23
+        ],
+        "the": [
+          24,
+          62,
+          84,
+          123,
+          134
+        ],
+        "concept": [
+          25
+        ],
+        "of": [
+          26,
+          48,
+          54,
+          64,
+          131,
+          136
+        ],
+        "smart": [
+          27,
+          56,
+          108,
+          137
+        ],
+        "cities": [
+          28
+        ],
+        "quickly": [
+          30
+        ],
+        "evolved,": [
+          31
+        ],
+        "illustrating": [
+          32
+        ],
+        "environments": [
+          34,
+          57
+        ],
+        "utilize": [
+          36
+        ],
+        "advanced": [
+          37,
+          78
+        ],
+        "technology": [
+          38
+        ],
+        "achieve": [
+          40
+        ],
+        "greater": [
+          41
+        ],
+        "efficiency,": [
+          42
+        ],
+        "sustainability,": [
+          43
+        ],
+        "an": [
+          45,
+          162
+        ],
+        "improved": [
+          46,
+          91
+        ],
+        "quality": [
+          47
+        ],
+        "life": [
+          49
+        ],
+        "for": [
+          50,
+          77,
+          107,
+          144
+        ],
+        "residents.": [
+          51
+        ],
+        "development": [
+          53
+        ],
+        "these": [
+          55
+        ],
+        "relies": [
+          58
+        ],
+        "on": [
+          59,
+          161
+        ],
+        "technologies": [
+          60
+        ],
+        "like": [
+          61
+        ],
+        "Internet": [
+          63
+        ],
+        "Things": [
+          65
+        ],
+        "(IoT),": [
+          66
+        ],
+        "which": [
+          67
+        ],
+        "collects": [
+          68
+        ],
+        "extensive": [
+          69
+        ],
+        "data": [
+          70,
+          79
+        ],
+        "through": [
+          71
+        ],
+        "sensors,": [
+          72
+        ],
+        "Artificial": [
+          74,
+          99
+        ],
+        "Intelligence": [
+          75,
+          100
+        ],
+        "(AI),": [
+          76
+        ],
+        "processing": [
+          80
+        ],
+        "decision-making.": [
+          82
+        ],
+        "For": [
+          83
+        ],
+        "latter,": [
+          85
+        ],
+        "while": [
+          86
+        ],
+        "traditional": [
+          87
+        ],
+        "AI": [
+          88
+        ],
+        "solutions": [
+          89
+        ],
+        "have": [
+          90
+        ],
+        "systems": [
+          93
+        ],
+        "in": [
+          94,
+          112
+        ],
+        "multiple": [
+          95
+        ],
+        "ways,": [
+          96
+        ],
+        "emerging": [
+          97
+        ],
+        "Generative": [
+          98
+        ],
+        "(GenAI)": [
+          101
+        ],
+        "models": [
+          102
+        ],
+        "signify": [
+          103
+        ],
+        "a": [
+          104,
+          158
+        ],
+        "new": [
+          105
+        ],
+        "era": [
+          106
+        ],
+        "cities,": [
+          109,
+          138
+        ],
+        "offering": [
+          110
+        ],
+        "breakthroughs": [
+          111
+        ],
+        "design,": [
+          114,
+          171
+        ],
+        "simulation,": [
+          115
+        ],
+        "personalized,": [
+          117
+        ],
+        "context-aware": [
+          118
+        ],
+        "solutions.": [
+          119
+        ],
+        "This": [
+          120
+        ],
+        "article": [
+          121
+        ],
+        "explores": [
+          122
+        ],
+        "applications,": [
+          124
+        ],
+        "impacts,": [
+          125
+        ],
+        "challenges,": [
+          126
+        ],
+        "promising": [
+          128
+        ],
+        "future": [
+          129
+        ],
+        "trends": [
+          130
+        ],
+        "GenAI": [
+          132
+        ],
+        "within": [
+          133
+        ],
+        "context": [
+          135
+        ],
+        "discussing": [
+          139
+        ],
+        "generative": [
+          140
+        ],
+        "intelligence": [
+          142
+        ],
+        "perspectives": [
+          143
+        ],
+        "simulating": [
+          145
+        ],
+        "alternative": [
+          146
+        ],
+        "scenarios,": [
+          148
+        ],
+        "co-designing": [
+          149
+        ],
+        "infrastructure": [
+          150
+        ],
+        "prototypes,": [
+          151
+        ],
+        "improving": [
+          153
+        ],
+        "service": [
+          154
+        ],
+        "delivery.": [
+          155
+        ],
+        "It": [
+          156
+        ],
+        "provides": [
+          157
+        ],
+        "pioneering": [
+          159
+        ],
+        "perspective": [
+          160
+        ],
+        "underexplored": [
+          163
+        ],
+        "field": [
+          164
+        ],
+        "is": [
+          166
+        ],
+        "expected": [
+          167
+        ],
+        "transform": [
+          169
+        ],
+        "planning,": [
+          172
+        ],
+        "management.": [
+          174
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-05-30T09:04:40.226872",
+      "created_date": "2026-01-08T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7117340808",
+      "title": "Data-Driven Framework for Consumer-Centric Microgrid Positioning in Smart Cities and Communities Towards Digital Urban Transformation",
+      "authors": [
+        {
+          "name": "Thiago C. Jesus",
+          "orcid": "https://orcid.org/0000-0001-5299-6856",
+          "isCorresponding": true,
+          "position": "first"
+        },
+        {
+          "name": "Sérgio F. Santos",
+          "orcid": null,
+          "isCorresponding": false,
+          "position": "middle"
+        },
+        {
+          "name": "D. M. Costa",
+          "orcid": null,
+          "isCorresponding": false,
+          "position": "middle"
+        },
+        {
+          "name": "João Catalão",
+          "orcid": "https://orcid.org/0000-0003-1028-4644",
+          "isCorresponding": false,
+          "position": "last"
+        }
+      ],
+      "journal": "ScholarSpace (University of Hawaii at Manoa)",
+      "year": 2025,
+      "month": 12,
+      "date": "2025-12-23",
+      "doi": null,
+      "url": "https://hdl.handle.net/10125/111696",
+      "citations": 0,
+      "isOpenAccess": false,
+      "oaUrl": null,
+      "volume": null,
+      "issue": null,
+      "pages": {
+        "first": null,
+        "last": null
+      },
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/microgrid",
+          "display_name": "Microgrid",
+          "score": 0.6585000157356262
+        },
+        {
+          "id": "https://openalex.org/keywords/software-deployment",
+          "display_name": "Software deployment",
+          "score": 0.6054999828338623
+        },
+        {
+          "id": "https://openalex.org/keywords/smart-city",
+          "display_name": "Smart city",
+          "score": 0.536300003528595
+        },
+        {
+          "id": "https://openalex.org/keywords/resilience",
+          "display_name": "Resilience (materials science)",
+          "score": 0.5105000138282776
+        },
+        {
+          "id": "https://openalex.org/keywords/metropolitan-area",
+          "display_name": "Metropolitan area",
+          "score": 0.5092999935150146
+        },
+        {
+          "id": "https://openalex.org/keywords/smart-grid",
+          "display_name": "Smart grid",
+          "score": 0.48500001430511475
+        },
+        {
+          "id": "https://openalex.org/keywords/renewable-energy",
+          "display_name": "Renewable energy",
+          "score": 0.4645000100135803
+        },
+        {
+          "id": "https://openalex.org/keywords/urbanization",
+          "display_name": "Urbanization",
+          "score": 0.45829999446868896
+        },
+        {
+          "id": "https://openalex.org/keywords/sustainable-development",
+          "display_name": "Sustainable development",
+          "score": 0.43970000743865967
+        }
+      ],
+      "topics": [
+        {
+          "id": "https://openalex.org/T11479",
+          "display_name": "Smart Cities and Technologies",
+          "score": 0.25619998574256897,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2214",
+            "display_name": "Media Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10603",
+          "display_name": "Smart Grid Energy Management",
+          "score": 0.2515999972820282,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2208",
+            "display_name": "Electrical and Electronic Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11185",
+          "display_name": "Integrated Energy Systems Optimization",
+          "score": 0.04659999907016754,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2208",
+            "display_name": "Electrical and Electronic Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "abstract": "Rapid urbanization and the pressing global pursuit of resilience and decarbonization have positioned data-driven energy services as essential catalysts for achieving the United Nations' Sustainable Development Goals in smart cities and communities. Yet, while microgrids offer a promising neighborhood-scale solution, existing positioning methodologies often privilege techno-economic or ecological-centric criteria instead of consumer equity and local demand patterns. To fill this gap, this paper i...",
+      "venue": {
+        "id": "https://openalex.org/S4306401722",
+        "display_name": "ScholarSpace (University of Hawaii at Manoa)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I117965899",
+        "host_organization_name": "University of Hawaiʻi at Mānoa",
+        "host_organization_lineage": [
+          "https://openalex.org/I117965899"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "language": "en",
+      "isRetracted": false,
+      "citationsPerYear": [],
+      "lastUpdated": "2026-06-01T07:08:43.252Z",
+      "display_name": "Data-Driven Framework for Consumer-Centric Microgrid Positioning in Smart Cities and Communities Towards Digital Urban Transformation",
+      "publication_year": 2025,
+      "publication_date": "2025-12-23",
+      "ids": {
+        "openalex": "https://openalex.org/W7117340808"
+      },
+      "primary_location": {
+        "id": "pmh:oai:scholarspace.manoa.hawaii.edu:10125/111696",
+        "is_oa": false,
+        "landing_page_url": "https://hdl.handle.net/10125/111696",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401722",
+          "display_name": "ScholarSpace (University of Hawaii at Manoa)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I117965899",
+          "host_organization_name": "University of Hawaiʻi at Mānoa",
+          "host_organization_lineage": [
+            "https://openalex.org/I117965899"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "Text"
+      },
+      "type": "article",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5011761859",
+            "display_name": "Thiago C. Jesus",
+            "orcid": "https://orcid.org/0000-0001-5299-6856"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Jesus, Thiago C.",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5121317517",
+            "display_name": "Sérgio F. Santos",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Santos, Sérgio F.",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5103572550",
+            "display_name": "D. M. Costa",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Costa, Daniel G.",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5023008746",
+            "display_name": "João Catalão",
+            "orcid": "https://orcid.org/0000-0003-1028-4644"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Catalão, João",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5011761859"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.6453476,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11479",
+        "display_name": "Smart Cities and Technologies",
+        "score": 0.25619998574256897,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2214",
+          "display_name": "Media Technology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2776784348",
+          "wikidata": "https://www.wikidata.org/wiki/Q5762595",
+          "display_name": "Microgrid",
+          "level": 3,
+          "score": 0.6585000157356262
+        },
+        {
+          "id": "https://openalex.org/C105339364",
+          "wikidata": "https://www.wikidata.org/wiki/Q2297740",
+          "display_name": "Software deployment",
+          "level": 2,
+          "score": 0.6054999828338623
+        },
+        {
+          "id": "https://openalex.org/C2777103469",
+          "wikidata": "https://www.wikidata.org/wiki/Q1231558",
+          "display_name": "Smart city",
+          "level": 3,
+          "score": 0.536300003528595
+        },
+        {
+          "id": "https://openalex.org/C2779585090",
+          "wikidata": "https://www.wikidata.org/wiki/Q3457762",
+          "display_name": "Resilience (materials science)",
+          "level": 2,
+          "score": 0.5105000138282776
+        },
+        {
+          "id": "https://openalex.org/C158739034",
+          "wikidata": "https://www.wikidata.org/wiki/Q1907114",
+          "display_name": "Metropolitan area",
+          "level": 2,
+          "score": 0.5092999935150146
+        },
+        {
+          "id": "https://openalex.org/C134560507",
+          "wikidata": "https://www.wikidata.org/wiki/Q753291",
+          "display_name": "Environmental economics",
+          "level": 1,
+          "score": 0.4961000084877014
+        },
+        {
+          "id": "https://openalex.org/C10558101",
+          "wikidata": "https://www.wikidata.org/wiki/Q689855",
+          "display_name": "Smart grid",
+          "level": 2,
+          "score": 0.48500001430511475
+        },
+        {
+          "id": "https://openalex.org/C188573790",
+          "wikidata": "https://www.wikidata.org/wiki/Q12705",
+          "display_name": "Renewable energy",
+          "level": 2,
+          "score": 0.4645000100135803
+        },
+        {
+          "id": "https://openalex.org/C39853841",
+          "wikidata": "https://www.wikidata.org/wiki/Q161078",
+          "display_name": "Urbanization",
+          "level": 2,
+          "score": 0.45829999446868896
+        },
+        {
+          "id": "https://openalex.org/C552854447",
+          "wikidata": "https://www.wikidata.org/wiki/Q131201",
+          "display_name": "Sustainable development",
+          "level": 2,
+          "score": 0.43970000743865967
+        },
+        {
+          "id": "https://openalex.org/C2779438525",
+          "wikidata": "https://www.wikidata.org/wiki/Q5255048",
+          "display_name": "Demand response",
+          "level": 3,
+          "score": 0.3716999888420105
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.36959999799728394
+        },
+        {
+          "id": "https://openalex.org/C199728807",
+          "wikidata": "https://www.wikidata.org/wiki/Q2578557",
+          "display_name": "Equity (law)",
+          "level": 2,
+          "score": 0.3619999885559082
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.349700003862381
+        },
+        {
+          "id": "https://openalex.org/C206658404",
+          "wikidata": "https://www.wikidata.org/wiki/Q12725",
+          "display_name": "Electricity",
+          "level": 2,
+          "score": 0.3490999937057495
+        },
+        {
+          "id": "https://openalex.org/C26517878",
+          "wikidata": "https://www.wikidata.org/wiki/Q228039",
+          "display_name": "Key (lock)",
+          "level": 2,
+          "score": 0.3465000092983246
+        },
+        {
+          "id": "https://openalex.org/C206345919",
+          "wikidata": "https://www.wikidata.org/wiki/Q20380951",
+          "display_name": "Resource (disambiguation)",
+          "level": 2,
+          "score": 0.32499998807907104
+        },
+        {
+          "id": "https://openalex.org/C187691185",
+          "wikidata": "https://www.wikidata.org/wiki/Q2020720",
+          "display_name": "Grid",
+          "level": 2,
+          "score": 0.3240000009536743
+        },
+        {
+          "id": "https://openalex.org/C2780165032",
+          "wikidata": "https://www.wikidata.org/wiki/Q16869822",
+          "display_name": "Energy consumption",
+          "level": 2,
+          "score": 0.3181000053882599
+        },
+        {
+          "id": "https://openalex.org/C22607594",
+          "wikidata": "https://www.wikidata.org/wiki/Q5375150",
+          "display_name": "Enabling",
+          "level": 2,
+          "score": 0.3163999915122986
+        },
+        {
+          "id": "https://openalex.org/C112930515",
+          "wikidata": "https://www.wikidata.org/wiki/Q4389547",
+          "display_name": "Risk analysis (engineering)",
+          "level": 1,
+          "score": 0.30869999527931213
+        },
+        {
+          "id": "https://openalex.org/C66204764",
+          "wikidata": "https://www.wikidata.org/wiki/Q219416",
+          "display_name": "Sustainability",
+          "level": 2,
+          "score": 0.2962000072002411
+        },
+        {
+          "id": "https://openalex.org/C544738498",
+          "wikidata": "https://www.wikidata.org/wiki/Q861135",
+          "display_name": "Distributed generation",
+          "level": 3,
+          "score": 0.27799999713897705
+        },
+        {
+          "id": "https://openalex.org/C2742236",
+          "wikidata": "https://www.wikidata.org/wiki/Q924713",
+          "display_name": "Efficient energy use",
+          "level": 2,
+          "score": 0.27230000495910645
+        },
+        {
+          "id": "https://openalex.org/C2164484",
+          "wikidata": "https://www.wikidata.org/wiki/Q5170150",
+          "display_name": "Core (optical fiber)",
+          "level": 2,
+          "score": 0.26589998602867126
+        },
+        {
+          "id": "https://openalex.org/C520301825",
+          "wikidata": "https://www.wikidata.org/wiki/Q380170",
+          "display_name": "Energy conservation",
+          "level": 2,
+          "score": 0.26499998569488525
+        },
+        {
+          "id": "https://openalex.org/C22212356",
+          "wikidata": "https://www.wikidata.org/wiki/Q775325",
+          "display_name": "Transport engineering",
+          "level": 1,
+          "score": 0.257999986410141
+        },
+        {
+          "id": "https://openalex.org/C49545453",
+          "wikidata": "https://www.wikidata.org/wiki/Q69883",
+          "display_name": "Urban planning",
+          "level": 2,
+          "score": 0.2565000057220459
+        },
+        {
+          "id": "https://openalex.org/C130631938",
+          "wikidata": "https://www.wikidata.org/wiki/Q144894",
+          "display_name": "Intellectualization",
+          "level": 2,
+          "score": 0.25209999084472656
+        },
+        {
+          "id": "https://openalex.org/C2779530757",
+          "wikidata": "https://www.wikidata.org/wiki/Q1207505",
+          "display_name": "Quality (philosophy)",
+          "level": 2,
+          "score": 0.25189998745918274
+        },
+        {
+          "id": "https://openalex.org/C2982926626",
+          "wikidata": "https://www.wikidata.org/wiki/Q1962383",
+          "display_name": "Sustainable energy",
+          "level": 3,
+          "score": 0.25099998712539673
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "pmh:oai:scholarspace.manoa.hawaii.edu:10125/111696",
+          "is_oa": false,
+          "landing_page_url": "https://hdl.handle.net/10125/111696",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401722",
+            "display_name": "ScholarSpace (University of Hawaii at Manoa)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I117965899",
+            "host_organization_name": "University of Hawaiʻi at Mānoa",
+            "host_organization_lineage": [
+              "https://openalex.org/I117965899"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Text"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.461779922246933,
+          "display_name": "Sustainable cities and communities"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "Rapid": [
+          0
+        ],
+        "urbanization": [
+          1
+        ],
+        "and": [
+          2,
+          9,
+          30,
+          53,
+          111,
+          125,
+          140
+        ],
+        "the": [
+          3,
+          21,
+          80,
+          93,
+          119,
+          126
+        ],
+        "pressing": [
+          4
+        ],
+        "global": [
+          5
+        ],
+        "pursuit": [
+          6
+        ],
+        "of": [
+          7,
+          50,
+          97,
+          122
+        ],
+        "resilience": [
+          8
+        ],
+        "decarbonization": [
+          10,
+          141
+        ],
+        "have": [
+          11
+        ],
+        "positioned": [
+          12
+        ],
+        "data-driven": [
+          13,
+          65
+        ],
+        "energy": [
+          14
+        ],
+        "services": [
+          15
+        ],
+        "as": [
+          16
+        ],
+        "essential": [
+          17
+        ],
+        "catalysts": [
+          18
+        ],
+        "for": [
+          19
+        ],
+        "achieving": [
+          20
+        ],
+        "United": [
+          22
+        ],
+        "Nations'": [
+          23
+        ],
+        "Sustainable": [
+          24
+        ],
+        "Development": [
+          25
+        ],
+        "Goals": [
+          26
+        ],
+        "in": [
+          27,
+          73
+        ],
+        "smart": [
+          28,
+          74
+        ],
+        "cities": [
+          29
+        ],
+        "communities.": [
+          31
+        ],
+        "Yet,": [
+          32
+        ],
+        "while": [
+          33
+        ],
+        "microgrids": [
+          34
+        ],
+        "offer": [
+          35
+        ],
+        "a": [
+          36,
+          64,
+          86
+        ],
+        "promising": [
+          37
+        ],
+        "neighborhood-scale": [
+          38
+        ],
+        "solution,": [
+          39
+        ],
+        "existing": [
+          40
+        ],
+        "positioning": [
+          41
+        ],
+        "methodologies": [
+          42
+        ],
+        "often": [
+          43
+        ],
+        "privilege": [
+          44
+        ],
+        "techno-economic": [
+          45
+        ],
+        "or": [
+          46
+        ],
+        "ecological-centric": [
+          47
+        ],
+        "criteria": [
+          48
+        ],
+        "instead": [
+          49
+        ],
+        "consumer": [
+          51
+        ],
+        "equity": [
+          52
+        ],
+        "local": [
+          54,
+          108
+        ],
+        "demand": [
+          55
+        ],
+        "patterns.": [
+          56
+        ],
+        "To": [
+          57
+        ],
+        "fill": [
+          58
+        ],
+        "this": [
+          59,
+          61
+        ],
+        "gap,": [
+          60
+        ],
+        "paper": [
+          62
+        ],
+        "introduces": [
+          63
+        ],
+        "framework": [
+          66,
+          115
+        ],
+        "to": [
+          67,
+          118
+        ],
+        "support": [
+          68
+        ],
+        "consumer-centric": [
+          69
+        ],
+        "microgrid": [
+          70,
+          135
+        ],
+        "site": [
+          71
+        ],
+        "selection": [
+          72
+        ],
+        "cities.": [
+          75
+        ],
+        "At": [
+          76
+        ],
+        "its": [
+          77
+        ],
+        "core": [
+          78
+        ],
+        "lies": [
+          79
+        ],
+        "Urban": [
+          81
+        ],
+        "Neighborhood": [
+          82
+        ],
+        "Energy": [
+          83
+        ],
+        "Demand": [
+          84
+        ],
+        "(UNEED),": [
+          85
+        ],
+        "proposed": [
+          87
+        ],
+        "numerical": [
+          88
+        ],
+        "quality": [
+          89
+        ],
+        "index": [
+          90
+        ],
+        "that": [
+          91,
+          129
+        ],
+        "combines": [
+          92
+        ],
+        "city's": [
+          94
+        ],
+        "geo-referenced": [
+          95
+        ],
+        "indicators": [
+          96
+        ],
+        "renewable": [
+          98
+        ],
+        "potential,": [
+          99
+        ],
+        "emergency": [
+          100
+        ],
+        "vulnerability,": [
+          101
+        ],
+        "critical": [
+          102
+        ],
+        "infrastructure": [
+          103,
+          106
+        ],
+        "coverage,": [
+          104
+        ],
+        "heating-support": [
+          105
+        ],
+        "availability,": [
+          107
+        ],
+        "heating": [
+          109
+        ],
+        "demand,": [
+          110
+        ],
+        "socio-economic": [
+          112
+        ],
+        "context.": [
+          113
+        ],
+        "This": [
+          114
+        ],
+        "is": [
+          116
+        ],
+        "applied": [
+          117
+        ],
+        "metropolitan": [
+          120
+        ],
+        "area": [
+          121
+        ],
+        "Porto,": [
+          123
+        ],
+        "Portugal,": [
+          124
+        ],
+        "results": [
+          127
+        ],
+        "demonstrate": [
+          128
+        ],
+        "UNEED": [
+          130
+        ],
+        "reliably": [
+          131
+        ],
+        "highlights": [
+          132
+        ],
+        "locations": [
+          133
+        ],
+        "where": [
+          134
+        ],
+        "deployment": [
+          136
+        ],
+        "maximizes": [
+          137
+        ],
+        "resilience,": [
+          138
+        ],
+        "equity,": [
+          139
+        ],
+        "benefits.": [
+          142
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-05-05T08:41:31.759640",
+      "created_date": "2025-12-26T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4415969055",
       "title": "Dependability-Driven Planning of Wireless Sensor Networks for Smart Cities Using Machine Learning",
       "authors": [
@@ -150,7 +2480,7 @@
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-05-01T05:47:21.928Z",
+      "lastUpdated": "2026-06-01T07:08:43.252Z",
       "display_name": "Dependability-Driven Planning of Wireless Sensor Networks for Smart Cities Using Machine Learning",
       "publication_year": 2025,
       "publication_date": "2025-10-14",
@@ -1046,7 +3376,7 @@
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-05-01T05:47:21.928Z",
+      "lastUpdated": "2026-06-01T07:08:43.252Z",
       "display_name": "Quality-aware Sensors Positioning in Smart Cities: Enhancing Coverage in IoT-driven Urban Scenarios",
       "publication_year": 2025,
       "publication_date": "2025-10-14",
@@ -2012,7 +4342,7 @@
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-05-01T05:47:21.928Z",
+      "lastUpdated": "2026-06-01T07:08:43.252Z",
       "display_name": "Embedded AI for Intelligent Wildfire Monitoring: A Multi-Sensor and Vision-Driven Approach",
       "publication_year": 2025,
       "publication_date": "2025-10-14",
@@ -2939,6 +5269,1127 @@
       "created_date": "2025-11-06T00:00:00"
     },
     {
+      "id": "https://openalex.org/W7116972433",
+      "title": "Urban Emergencies in the Age of 15-Minute Cities: Assessing Response Capability to Critical Situations",
+      "authors": [
+        {
+          "name": "João Paulo J. Peixoto",
+          "orcid": null,
+          "isCorresponding": true,
+          "position": "first"
+        },
+        {
+          "name": "João Carlos N. Bittencourt",
+          "orcid": "https://orcid.org/0000-0002-4540-512X",
+          "isCorresponding": false,
+          "position": "middle"
+        },
+        {
+          "name": "Thiago C. Jesus",
+          "orcid": "https://orcid.org/0000-0001-5299-6856",
+          "isCorresponding": false,
+          "position": "middle"
+        },
+        {
+          "name": "D. M. Costa",
+          "orcid": null,
+          "isCorresponding": false,
+          "position": "last"
+        }
+      ],
+      "year": 2025,
+      "month": 10,
+      "date": "2025-10-06",
+      "doi": "https://doi.org/10.1109/isc266238.2025.11293334",
+      "url": "https://doi.org/10.1109/isc266238.2025.11293334",
+      "citations": 0,
+      "isOpenAccess": false,
+      "oaUrl": null,
+      "volume": null,
+      "issue": null,
+      "pages": {
+        "first": "1",
+        "last": "6"
+      },
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/resilience",
+          "display_name": "Resilience (materials science)",
+          "score": 0.6919999718666077
+        },
+        {
+          "id": "https://openalex.org/keywords/geospatial-analysis",
+          "display_name": "Geospatial analysis",
+          "score": 0.6504999995231628
+        },
+        {
+          "id": "https://openalex.org/keywords/urban-resilience",
+          "display_name": "Urban resilience",
+          "score": 0.6452999711036682
+        },
+        {
+          "id": "https://openalex.org/keywords/vulnerability",
+          "display_name": "Vulnerability (computing)",
+          "score": 0.5888000130653381
+        },
+        {
+          "id": "https://openalex.org/keywords/emergency-management",
+          "display_name": "Emergency management",
+          "score": 0.5512999892234802
+        },
+        {
+          "id": "https://openalex.org/keywords/service",
+          "display_name": "Service (business)",
+          "score": 0.47450000047683716
+        },
+        {
+          "id": "https://openalex.org/keywords/urban-planning",
+          "display_name": "Urban planning",
+          "score": 0.462799996137619
+        },
+        {
+          "id": "https://openalex.org/keywords/preparedness",
+          "display_name": "Preparedness",
+          "score": 0.4593999981880188
+        },
+        {
+          "id": "https://openalex.org/keywords/vulnerability-assessment",
+          "display_name": "Vulnerability assessment",
+          "score": 0.4147999882698059
+        }
+      ],
+      "topics": [
+        {
+          "id": "https://openalex.org/T11500",
+          "display_name": "Evacuation and Crowd Dynamics",
+          "score": 0.21250000596046448,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10747",
+          "display_name": "Disaster Management and Resilience",
+          "score": 0.2087000012397766,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10930",
+          "display_name": "Flood Risk Assessment and Management",
+          "score": 0.08959999680519104,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2306",
+            "display_name": "Global and Planetary Change"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "abstract": "Urban planning to enhance emergency preparedness and resilience has been at the center stage, with new approaches emerging to assess spatial inequalities and strengthen emergency service coverage. In recent years, the advent of disruptive smart city design based on space-time compression, such as the now popular 15-minute city (15MC) concept, has opened new possibilities for more sustainable and accessibility-focused urban living. Nevertheless, while urban mobility has mostly benefited from this...",
+      "venue": null,
+      "language": null,
+      "isRetracted": false,
+      "citationsPerYear": [],
+      "lastUpdated": "2026-06-01T07:08:43.253Z",
+      "display_name": "Urban Emergencies in the Age of 15-Minute Cities: Assessing Response Capability to Critical Situations",
+      "publication_year": 2025,
+      "publication_date": "2025-10-06",
+      "ids": {
+        "openalex": "https://openalex.org/W7116972433",
+        "doi": "https://doi.org/10.1109/isc266238.2025.11293334"
+      },
+      "primary_location": {
+        "id": "doi:10.1109/isc266238.2025.11293334",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/isc266238.2025.11293334",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2025 IEEE International Smart Cities Conference (ISC2)",
+        "raw_type": "proceedings-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5121042998",
+            "display_name": "João Paulo J. Peixoto",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I130913789",
+              "display_name": "Instituto Federal da Bahia",
+              "ror": "https://ror.org/01tzdej37",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I130913789"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I21606457",
+              "display_name": "Universidade Estadual de Feira de Santana",
+              "ror": "https://ror.org/04ygk5j35",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I21606457"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "João Paulo J. Peixoto",
+          "raw_affiliation_strings": [
+            "LAPSID, Federal Institute of Education,Science and Technology of Bahia, Feira de Santana,Brazil"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LAPSID, Federal Institute of Education,Science and Technology of Bahia, Feira de Santana,Brazil",
+              "institution_ids": [
+                "https://openalex.org/I130913789",
+                "https://openalex.org/I21606457"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040609024",
+            "display_name": "João Carlos N. Bittencourt",
+            "orcid": "https://orcid.org/0000-0002-4540-512X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I126158947",
+              "display_name": "Universidade Federal da Bahia",
+              "ror": "https://ror.org/03k3p7647",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I126158947"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "João Carlos N. Bittencourt",
+          "raw_affiliation_strings": [
+            "CETEC, Federal University of Rec&#x00F4;ncavo da Bahia,Brazil"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "CETEC, Federal University of Rec&#x00F4;ncavo da Bahia,Brazil",
+              "institution_ids": [
+                "https://openalex.org/I126158947"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5011761859",
+            "display_name": "Thiago C. Jesus",
+            "orcid": "https://orcid.org/0000-0001-5299-6856"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I21606457",
+              "display_name": "Universidade Estadual de Feira de Santana",
+              "ror": "https://ror.org/04ygk5j35",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I21606457"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Thiago C. Jesus",
+          "raw_affiliation_strings": [
+            "DTEC, State University of Feira de Santana,Brazil"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "DTEC, State University of Feira de Santana,Brazil",
+              "institution_ids": [
+                "https://openalex.org/I21606457"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5103572550",
+            "display_name": "D. M. Costa",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I182534213",
+              "display_name": "Universidade do Porto",
+              "ror": "https://ror.org/043pwc612",
+              "country_code": "PT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I182534213"
+              ]
+            }
+          ],
+          "countries": [
+            "PT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Daniel G. Costa",
+          "raw_affiliation_strings": [
+            "Faculty of Engineering, University of Porto,Porto,Portugal"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculty of Engineering, University of Porto,Porto,Portugal",
+              "institution_ids": [
+                "https://openalex.org/I182534213"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5121042998"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I130913789",
+        "https://openalex.org/I21606457"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.59878528,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "1",
+        "last_page": "6"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11500",
+        "display_name": "Evacuation and Crowd Dynamics",
+        "score": 0.21250000596046448,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2212",
+          "display_name": "Ocean Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779585090",
+          "wikidata": "https://www.wikidata.org/wiki/Q3457762",
+          "display_name": "Resilience (materials science)",
+          "level": 2,
+          "score": 0.6919999718666077
+        },
+        {
+          "id": "https://openalex.org/C9770341",
+          "wikidata": "https://www.wikidata.org/wiki/Q1938983",
+          "display_name": "Geospatial analysis",
+          "level": 2,
+          "score": 0.6504999995231628
+        },
+        {
+          "id": "https://openalex.org/C2780039742",
+          "wikidata": "https://www.wikidata.org/wiki/Q7900159",
+          "display_name": "Urban resilience",
+          "level": 3,
+          "score": 0.6452999711036682
+        },
+        {
+          "id": "https://openalex.org/C95713431",
+          "wikidata": "https://www.wikidata.org/wiki/Q631425",
+          "display_name": "Vulnerability (computing)",
+          "level": 2,
+          "score": 0.5888000130653381
+        },
+        {
+          "id": "https://openalex.org/C62555980",
+          "wikidata": "https://www.wikidata.org/wiki/Q1460420",
+          "display_name": "Emergency management",
+          "level": 2,
+          "score": 0.5512999892234802
+        },
+        {
+          "id": "https://openalex.org/C91375879",
+          "wikidata": "https://www.wikidata.org/wiki/Q15473274",
+          "display_name": "Environmental planning",
+          "level": 1,
+          "score": 0.49160000681877136
+        },
+        {
+          "id": "https://openalex.org/C2780378061",
+          "wikidata": "https://www.wikidata.org/wiki/Q25351891",
+          "display_name": "Service (business)",
+          "level": 2,
+          "score": 0.47450000047683716
+        },
+        {
+          "id": "https://openalex.org/C49545453",
+          "wikidata": "https://www.wikidata.org/wiki/Q69883",
+          "display_name": "Urban planning",
+          "level": 2,
+          "score": 0.462799996137619
+        },
+        {
+          "id": "https://openalex.org/C2777042776",
+          "wikidata": "https://www.wikidata.org/wiki/Q4583103",
+          "display_name": "Preparedness",
+          "level": 2,
+          "score": 0.4593999981880188
+        },
+        {
+          "id": "https://openalex.org/C167063184",
+          "wikidata": "https://www.wikidata.org/wiki/Q1400839",
+          "display_name": "Vulnerability assessment",
+          "level": 3,
+          "score": 0.4147999882698059
+        },
+        {
+          "id": "https://openalex.org/C3020699826",
+          "wikidata": "https://www.wikidata.org/wiki/Q1460420",
+          "display_name": "Disaster preparedness",
+          "level": 3,
+          "score": 0.39169999957084656
+        },
+        {
+          "id": "https://openalex.org/C22212356",
+          "wikidata": "https://www.wikidata.org/wiki/Q775325",
+          "display_name": "Transport engineering",
+          "level": 1,
+          "score": 0.37130001187324524
+        },
+        {
+          "id": "https://openalex.org/C12780434",
+          "wikidata": "https://www.wikidata.org/wiki/Q619798",
+          "display_name": "Geomatics",
+          "level": 2,
+          "score": 0.365200012922287
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.34139999747276306
+        },
+        {
+          "id": "https://openalex.org/C205300905",
+          "wikidata": "https://www.wikidata.org/wiki/Q63100",
+          "display_name": "Urban design",
+          "level": 3,
+          "score": 0.3276999890804291
+        },
+        {
+          "id": "https://openalex.org/C29852176",
+          "wikidata": "https://www.wikidata.org/wiki/Q373338",
+          "display_name": "Critical infrastructure",
+          "level": 2,
+          "score": 0.32510000467300415
+        },
+        {
+          "id": "https://openalex.org/C41856607",
+          "wikidata": "https://www.wikidata.org/wiki/Q483130",
+          "display_name": "Geographic information system",
+          "level": 2,
+          "score": 0.31850001215934753
+        },
+        {
+          "id": "https://openalex.org/C112930515",
+          "wikidata": "https://www.wikidata.org/wiki/Q4389547",
+          "display_name": "Risk analysis (engineering)",
+          "level": 1,
+          "score": 0.3165000081062317
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.3140999972820282
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.31380000710487366
+        },
+        {
+          "id": "https://openalex.org/C3017997152",
+          "wikidata": "https://www.wikidata.org/wiki/Q814610",
+          "display_name": "Emergency response",
+          "level": 2,
+          "score": 0.31310001015663147
+        },
+        {
+          "id": "https://openalex.org/C12713177",
+          "wikidata": "https://www.wikidata.org/wiki/Q1900281",
+          "display_name": "Perspective (graphical)",
+          "level": 2,
+          "score": 0.3059999942779541
+        },
+        {
+          "id": "https://openalex.org/C38652104",
+          "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+          "display_name": "Computer security",
+          "level": 1,
+          "score": 0.30090001225471497
+        },
+        {
+          "id": "https://openalex.org/C552854447",
+          "wikidata": "https://www.wikidata.org/wiki/Q131201",
+          "display_name": "Sustainable development",
+          "level": 2,
+          "score": 0.30000001192092896
+        },
+        {
+          "id": "https://openalex.org/C3017944768",
+          "wikidata": "https://www.wikidata.org/wiki/Q1450463",
+          "display_name": "Poison control",
+          "level": 2,
+          "score": 0.29750001430511475
+        },
+        {
+          "id": "https://openalex.org/C2779488668",
+          "wikidata": "https://www.wikidata.org/wiki/Q3457767",
+          "display_name": "Community resilience",
+          "level": 3,
+          "score": 0.29109999537467957
+        },
+        {
+          "id": "https://openalex.org/C2778368647",
+          "wikidata": "https://www.wikidata.org/wiki/Q702492",
+          "display_name": "Urban area",
+          "level": 2,
+          "score": 0.2842999994754791
+        },
+        {
+          "id": "https://openalex.org/C3018653863",
+          "wikidata": "https://www.wikidata.org/wiki/Q5281355",
+          "display_name": "Disaster response",
+          "level": 3,
+          "score": 0.25189998745918274
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1109/isc266238.2025.11293334",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1109/isc266238.2025.11293334",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "2025 IEEE International Smart Cities Conference (ISC2)",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.5988869071006775,
+          "display_name": "Sustainable cities and communities"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 22,
+      "referenced_works": [
+        "https://openalex.org/W2166162996",
+        "https://openalex.org/W2220987254",
+        "https://openalex.org/W2415575434",
+        "https://openalex.org/W2766179191",
+        "https://openalex.org/W3120694366",
+        "https://openalex.org/W3157433837",
+        "https://openalex.org/W3211819999",
+        "https://openalex.org/W4205617008",
+        "https://openalex.org/W4220696646",
+        "https://openalex.org/W4225787819",
+        "https://openalex.org/W4309675422",
+        "https://openalex.org/W4309683219",
+        "https://openalex.org/W4312099132",
+        "https://openalex.org/W4385429935",
+        "https://openalex.org/W4388842249",
+        "https://openalex.org/W4391309350",
+        "https://openalex.org/W4391884244",
+        "https://openalex.org/W4396677387",
+        "https://openalex.org/W4402784259",
+        "https://openalex.org/W4408550104",
+        "https://openalex.org/W4408837961",
+        "https://openalex.org/W4410069375"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "5": [
+          106
+        ],
+        "15": [
+          129
+        ],
+        "Urban": [
+          0
+        ],
+        "planning": [
+          1
+        ],
+        "to": [
+          2,
+          18,
+          95,
+          116,
+          169,
+          180
+        ],
+        "enhance": [
+          3
+        ],
+        "emergency": [
+          4,
+          24,
+          72,
+          97,
+          117,
+          162,
+          185
+        ],
+        "preparedness": [
+          5,
+          73,
+          163
+        ],
+        "and": [
+          6,
+          22,
+          57,
+          74,
+          124,
+          161,
+          174,
+          188
+        ],
+        "resilience": [
+          7,
+          75,
+          98,
+          160
+        ],
+        "has": [
+          8,
+          50,
+          65
+        ],
+        "been": [
+          9,
+          80
+        ],
+        "at": [
+          10,
+          82
+        ],
+        "the": [
+          11,
+          30,
+          43,
+          100,
+          133,
+          170,
+          177
+        ],
+        "center": [
+          12
+        ],
+        "stage,": [
+          13
+        ],
+        "with": [
+          14
+        ],
+        "new": [
+          15,
+          52,
+          70
+        ],
+        "approaches": [
+          16
+        ],
+        "emerging": [
+          17
+        ],
+        "assess": [
+          19
+        ],
+        "spatial": [
+          20,
+          134,
+          182
+        ],
+        "inequalities": [
+          21
+        ],
+        "strengthen": [
+          23
+        ],
+        "service": [
+          25,
+          142,
+          186
+        ],
+        "coverage.": [
+          26
+        ],
+        "In": [
+          27,
+          85,
+          147
+        ],
+        "recent": [
+          28
+        ],
+        "years,": [
+          29
+        ],
+        "advent": [
+          31
+        ],
+        "of": [
+          32,
+          102,
+          136,
+          172
+        ],
+        "disruptive": [
+          33
+        ],
+        "smart": [
+          34
+        ],
+        "city": [
+          35,
+          47
+        ],
+        "design": [
+          36
+        ],
+        "based": [
+          37,
+          139
+        ],
+        "on": [
+          38,
+          140
+        ],
+        "space-time": [
+          39
+        ],
+        "compression,": [
+          40
+        ],
+        "such": [
+          41,
+          120
+        ],
+        "as": [
+          42,
+          121
+        ],
+        "now": [
+          44
+        ],
+        "popular": [
+          45
+        ],
+        "15-minute": [
+          46
+        ],
+        "(15MC)": [
+          48
+        ],
+        "concept,": [
+          49,
+          71
+        ],
+        "opened": [
+          51
+        ],
+        "possibilities": [
+          53
+        ],
+        "for": [
+          54
+        ],
+        "more": [
+          55
+        ],
+        "sustainable": [
+          56
+        ],
+        "accessibility-focused": [
+          58
+        ],
+        "urban": [
+          59,
+          63,
+          137,
+          152,
+          159,
+          198
+        ],
+        "living.": [
+          60
+        ],
+        "Nevertheless,": [
+          61
+        ],
+        "while": [
+          62
+        ],
+        "mobility": [
+          64
+        ],
+        "mostly": [
+          66
+        ],
+        "benefited": [
+          67
+        ],
+        "from": [
+          68
+        ],
+        "this": [
+          69,
+          86,
+          88,
+          150
+        ],
+        "after": [
+          76
+        ],
+        "disasters": [
+          77
+        ],
+        "have": [
+          78
+        ],
+        "not": [
+          79
+        ],
+        "considered": [
+          81
+        ],
+        "its": [
+          83
+        ],
+        "core.": [
+          84
+        ],
+        "context,": [
+          87
+        ],
+        "paper": [
+          89
+        ],
+        "presents": [
+          90
+        ],
+        "a": [
+          91,
+          128
+        ],
+        "geospatial": [
+          92
+        ],
+        "analytical": [
+          93
+        ],
+        "approach": [
+          94,
+          166
+        ],
+        "evaluate": [
+          96
+        ],
+        "through": [
+          99,
+          144
+        ],
+        "lens": [
+          101
+        ],
+        "<tex": [
+          103
+        ],
+        "xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"": [
+          104
+        ],
+        "xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\mathbf{1": [
+          105
+        ],
+        "M": [
+          107
+        ],
+        "C}$</tex>": [
+          108
+        ],
+        "principles.": [
+          109
+        ],
+        "The": [
+          110
+        ],
+        "proposed": [
+          111
+        ],
+        "method": [
+          112
+        ],
+        "measures": [
+          113
+        ],
+        "travel-time": [
+          114
+        ],
+        "accessibility": [
+          115,
+          157,
+          194
+        ],
+        "mitigation": [
+          118
+        ],
+        "units,": [
+          119
+        ],
+        "fire": [
+          122
+        ],
+        "stations": [
+          123
+        ],
+        "medical": [
+          125
+        ],
+        "facilities,": [
+          126
+        ],
+        "using": [
+          127
+        ],
+        "-minute": [
+          130
+        ],
+        "threshold,": [
+          131
+        ],
+        "enabling": [
+          132
+        ],
+        "classification": [
+          135
+        ],
+        "zones": [
+          138
+        ],
+        "their": [
+          141
+        ],
+        "coverage": [
+          143
+        ],
+        "isochronous": [
+          145
+        ],
+        "maps.": [
+          146
+        ],
+        "doing": [
+          148
+        ],
+        "so,": [
+          149
+        ],
+        "innovative": [
+          151
+        ],
+        "vulnerability": [
+          153
+        ],
+        "perspective": [
+          154
+        ],
+        "integrates": [
+          155
+        ],
+        "localized": [
+          156,
+          193
+        ],
+        "into": [
+          158,
+          191
+        ],
+        "strategies.": [
+          164
+        ],
+        "This": [
+          165
+        ],
+        "is": [
+          167
+        ],
+        "applied": [
+          168
+        ],
+        "cities": [
+          171
+        ],
+        "Paris": [
+          173
+        ],
+        "Copenhagen,": [
+          175
+        ],
+        "revealing": [
+          176
+        ],
+        "method's": [
+          178
+        ],
+        "capacity": [
+          179
+        ],
+        "identify": [
+          181
+        ],
+        "disparities": [
+          183
+        ],
+        "in": [
+          184
+        ],
+        "distribution": [
+          187
+        ],
+        "offering": [
+          189
+        ],
+        "insights": [
+          190
+        ],
+        "how": [
+          192
+        ],
+        "can": [
+          195
+        ],
+        "inform": [
+          196
+        ],
+        "resilience-oriented": [
+          197
+        ],
+        "planning.": [
+          199
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-05-05T08:41:31.759640",
+      "created_date": "2025-12-23T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4412640748",
       "title": "On the Role of AI in Building Generative Urban Intelligence",
       "authors": [
@@ -3133,7 +6584,7 @@
       "language": "en",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-05-01T05:47:21.928Z",
+      "lastUpdated": "2026-06-01T07:08:43.253Z",
       "display_name": "On the Role of AI in Building Generative Urban Intelligence",
       "publication_year": 2025,
       "publication_date": "2025-07-24",
@@ -3206,6 +6657,7 @@
           "raw_affiliation_strings": [
             "Federal University of Recôncavo da Bahia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Federal University of Recôncavo da Bahia",
@@ -3242,6 +6694,7 @@
           "raw_affiliation_strings": [
             "Federal University of Rio Grande do Norte"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Federal University of Rio Grande do Norte",
@@ -3278,6 +6731,7 @@
           "raw_affiliation_strings": [
             "State University of Feira de Santana"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "State University of Feira de Santana",
@@ -3314,6 +6768,7 @@
           "raw_affiliation_strings": [
             "University of Porto"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Porto",
@@ -3617,9 +7072,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.49000000953674316,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [
@@ -3632,59 +7087,17 @@
         },
         {
           "id": "https://openalex.org/G2834638111",
-          "display_name": null,
+          "display_name": "Research Center for Systems and Technologies",
           "funder_award_id": "UIDP/00147/2020",
           "funder_id": "https://openalex.org/F4320334779",
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         },
         {
           "id": "https://openalex.org/G2848865941",
-          "display_name": null,
+          "display_name": "Research Center for Systems and Technologies",
           "funder_award_id": "UIDB/00147/2020",
           "funder_id": "https://openalex.org/F4320334779",
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
-        {
-          "id": "https://openalex.org/G2987173697",
-          "display_name": null,
-          "funder_award_id": "UIDP/",
-          "funder_id": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
-        {
-          "id": "https://openalex.org/G3272457656",
-          "display_name": null,
-          "funder_award_id": "UIDB/",
-          "funder_id": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
-        {
-          "id": "https://openalex.org/G3331681876",
-          "display_name": null,
-          "funder_award_id": "CAPES",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
-        },
-        {
-          "id": "https://openalex.org/G3894976796",
-          "display_name": null,
-          "funder_award_id": "88881.982076/2024-01",
-          "funder_id": "https://openalex.org/F4320321091",
-          "funder_display_name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
-        },
-        {
-          "id": "https://openalex.org/G3938906640",
-          "display_name": null,
-          "funder_award_id": "(CAPES)",
-          "funder_id": "https://openalex.org/F4320321091",
-          "funder_display_name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
-        },
-        {
-          "id": "https://openalex.org/G5944051706",
-          "display_name": null,
-          "funder_award_id": "12/2020",
-          "funder_id": "https://openalex.org/F4320322025",
-          "funder_display_name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
         },
         {
           "id": "https://openalex.org/G6815844370",
@@ -3695,15 +7108,8 @@
         },
         {
           "id": "https://openalex.org/G8238074263",
-          "display_name": null,
+          "display_name": "Advanced Production and Intelligent Systems",
           "funder_award_id": "LA/P/0112/2020",
-          "funder_id": "https://openalex.org/F4320334779",
-          "funder_display_name": "Fundação para a Ciência e a Tecnologia"
-        },
-        {
-          "id": "https://openalex.org/G8436637332",
-          "display_name": null,
-          "funder_award_id": "LA/P/",
           "funder_id": "https://openalex.org/F4320334779",
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         }
@@ -3754,7 +7160,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2026-05-21T06:26:12.895304",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3864,7 +7270,7 @@
       "language": "pt",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-05-01T05:47:21.928Z",
+      "lastUpdated": "2026-06-01T07:08:43.253Z",
       "display_name": "Posicionamento de sensores para monitoramento colaborativo de emergências urbanas",
       "publication_year": 2025,
       "publication_date": "2025-06-02",
@@ -3911,6 +7317,7 @@
           "raw_affiliation_strings": [
             "UEFS"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "UEFS",
@@ -3932,6 +7339,7 @@
           "raw_affiliation_strings": [
             "UEFS"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "UEFS",
@@ -3953,6 +7361,7 @@
           "raw_affiliation_strings": [
             "UEFS"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "UEFS",
@@ -3974,7 +7383,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.17964773,
+        "value": 0.17072182,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4054,15 +7463,7 @@
         "raw_type": "proceedings-article"
       },
       "sustainable_development_goals": [],
-      "awards": [
-        {
-          "id": "https://openalex.org/G5043551198",
-          "display_name": null,
-          "funder_award_id": "PROAP",
-          "funder_id": "https://openalex.org/F4320321091",
-          "funder_display_name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
-        }
-      ],
+      "awards": [],
       "funders": [
         {
           "id": "https://openalex.org/F4320321091",
@@ -4312,7 +7713,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2026-05-21T06:26:12.895304",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4350,7 +7751,7 @@
       "date": "2025-04-29",
       "doi": "https://doi.org/10.3390/smartcities8030077",
       "url": "https://doi.org/10.3390/smartcities8030077",
-      "citations": 10,
+      "citations": 11,
       "isOpenAccess": true,
       "oaUrl": "https://www.mdpi.com/2624-6511/8/3/77/pdf?version=1745908429",
       "volume": "8",
@@ -4460,14 +7861,14 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
           "cited_by_count": 8
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.928Z",
+      "lastUpdated": "2026-06-01T07:08:43.253Z",
       "display_name": "The Road to Intelligent Cities",
       "publication_year": 2025,
       "publication_date": "2025-04-29",
@@ -4706,11 +8107,11 @@
         "currency": "CHF",
         "value_usd": 1515
       },
-      "fwci": 10.2725,
+      "fwci": 10.0235,
       "has_fulltext": false,
-      "cited_by_count": 10,
+      "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.98164473,
+        "value": 0.98139319,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4816,24 +8217,21 @@
           "landing_page_url": "https://doaj.org/article/640a65826afa4df1a542e990ba289b95",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -4878,14 +8276,14 @@
       "awards": [
         {
           "id": "https://openalex.org/G2834638111",
-          "display_name": null,
+          "display_name": "Research Center for Systems and Technologies",
           "funder_award_id": "UIDP/00147/2020",
           "funder_id": "https://openalex.org/F4320334779",
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         },
         {
           "id": "https://openalex.org/G2848865941",
-          "display_name": null,
+          "display_name": "Research Center for Systems and Technologies",
           "funder_award_id": "UIDB/00147/2020",
           "funder_id": "https://openalex.org/F4320334779",
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
@@ -5547,14 +8945,816 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-03-27T05:58:40.876381",
+      "updated_date": "2026-05-28T09:10:13.091523",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4406127492",
+      "title": "The Sacred Cave of Kamukuwaká",
+      "authors": [
+        {
+          "name": "Thiago C. Jesus",
+          "orcid": "https://orcid.org/0000-0001-5299-6856",
+          "isCorresponding": true,
+          "position": "first"
+        }
+      ],
+      "year": 2025,
+      "month": 1,
+      "date": "2025-01-07",
+      "doi": "https://doi.org/10.4324/9781003382713-15",
+      "url": "https://doi.org/10.4324/9781003382713-15",
+      "citations": 0,
+      "isOpenAccess": true,
+      "oaUrl": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.4324/9781003382713-15&type=chapterpdf",
+      "volume": null,
+      "issue": null,
+      "pages": {
+        "first": "163",
+        "last": "178"
+      },
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/cave",
+          "display_name": "Cave",
+          "score": 0.8833630084991455
+        },
+        {
+          "id": "https://openalex.org/keywords/archaeology",
+          "display_name": "Archaeology",
+          "score": 0.4586290419101715
+        },
+        {
+          "id": "https://openalex.org/keywords/art",
+          "display_name": "Art",
+          "score": 0.44599229097366333
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.3779744505882263
+        }
+      ],
+      "topics": [
+        {
+          "id": "https://openalex.org/T13005",
+          "display_name": "Religious Studies and Spiritual Practices",
+          "score": 0.5304999947547913,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1211",
+            "display_name": "Philosophy"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13621",
+          "display_name": "Ancient and Medieval Archaeology Studies",
+          "score": 0.47510001063346863,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1204",
+            "display_name": "Archeology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12798",
+          "display_name": "Religious Tourism and Spaces",
+          "score": 0.4749000072479248,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3305",
+            "display_name": "Geography, Planning and Development"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "abstract": "How can museums enact a profoundly participatory exchange with Indigenous peoples as partners rather than subjects? The Xingu, one of the world’s most ethnically and linguistically diverse Indigenous territories, stands as the largest remaining island of tropical forest in the Brazilian Amazon’s deforestation arc. In September 2018, an expedition found the ancient rock art panels of the Kamukuwaká cave, the most important cultural heritage site for the Upper Xingu communities, systematically des...",
+      "venue": null,
+      "language": "en",
+      "isRetracted": false,
+      "citationsPerYear": [],
+      "lastUpdated": "2026-06-01T07:08:43.253Z",
+      "display_name": "The Sacred Cave of Kamukuwaká",
+      "publication_year": 2025,
+      "publication_date": "2025-01-07",
+      "ids": {
+        "openalex": "https://openalex.org/W4406127492",
+        "doi": "https://doi.org/10.4324/9781003382713-15"
+      },
+      "primary_location": {
+        "id": "doi:10.4324/9781003382713-15",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.4324/9781003382713-15",
+        "pdf_url": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.4324/9781003382713-15&type=chapterpdf",
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Museum Accessibility Spectrum",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.4324/9781003382713-15&type=chapterpdf",
+        "any_repository_has_fulltext": null
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5011761859",
+            "display_name": "Thiago C. Jesus",
+            "orcid": "https://orcid.org/0000-0001-5299-6856"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Thiago Jesus",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5011761859"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": true,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.01268054,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "163",
+        "last_page": "178"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13005",
+        "display_name": "Religious Studies and Spiritual Practices",
+        "score": 0.5304999947547913,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1211",
+          "display_name": "Philosophy"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "concepts": [
+        {
+          "id": "https://openalex.org/C171878925",
+          "wikidata": "https://www.wikidata.org/wiki/Q35509",
+          "display_name": "Cave",
+          "level": 2,
+          "score": 0.8833630084991455
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.4586290419101715
+        },
+        {
+          "id": "https://openalex.org/C142362112",
+          "wikidata": "https://www.wikidata.org/wiki/Q735",
+          "display_name": "Art",
+          "level": 0,
+          "score": 0.44599229097366333
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.3779744505882263
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.4324/9781003382713-15",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.4324/9781003382713-15",
+          "pdf_url": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.4324/9781003382713-15&type=chapterpdf",
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "The Museum Accessibility Spectrum",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.4324/9781003382713-15",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.4324/9781003382713-15",
+        "pdf_url": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.4324/9781003382713-15&type=chapterpdf",
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Museum Accessibility Spectrum",
+        "raw_type": "book-chapter"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320310260",
+          "display_name": "University of Notre Dame",
+          "ror": "https://ror.org/00mkhxb43"
+        },
+        {
+          "id": "https://openalex.org/F4320311061",
+          "display_name": "Queen Mary University of London",
+          "ror": "https://ror.org/026zzn846"
+        },
+        {
+          "id": "https://openalex.org/F4320312420",
+          "display_name": "Newton Fund",
+          "ror": "https://ror.org/009twqt47"
+        },
+        {
+          "id": "https://openalex.org/F4320334609",
+          "display_name": "Arts and Humanities Research Council",
+          "ror": "https://ror.org/0505m1554"
+        },
+        {
+          "id": "https://openalex.org/F4320334627",
+          "display_name": "Engineering and Physical Sciences Research Council",
+          "ror": "https://ror.org/0439y7842"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4406127492.pdf"
+      },
+      "referenced_works_count": 5,
+      "referenced_works": [
+        "https://openalex.org/W2172216503",
+        "https://openalex.org/W3048450790",
+        "https://openalex.org/W4247834271",
+        "https://openalex.org/W6812870734",
+        "https://openalex.org/W7002219807"
+      ],
+      "related_works": [
+        "https://openalex.org/W3183948672",
+        "https://openalex.org/W3173606202",
+        "https://openalex.org/W3110381201",
+        "https://openalex.org/W2948807893",
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2778153218",
+        "https://openalex.org/W2758277628",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W1531601525",
+        "https://openalex.org/W2332432432"
+      ],
+      "abstract_inverted_index": {
+        "How": [
+          0
+        ],
+        "can": [
+          1
+        ],
+        "museums": [
+          2
+        ],
+        "enact": [
+          3
+        ],
+        "a": [
+          4,
+          77,
+          113,
+          123,
+          140
+        ],
+        "profoundly": [
+          5
+        ],
+        "participatory": [
+          6
+        ],
+        "exchange": [
+          7
+        ],
+        "with": [
+          8,
+          82,
+          116,
+          172
+        ],
+        "Indigenous": [
+          9,
+          27,
+          173
+        ],
+        "peoples": [
+          10
+        ],
+        "as": [
+          11,
+          30
+        ],
+        "partners": [
+          12
+        ],
+        "rather": [
+          13
+        ],
+        "than": [
+          14
+        ],
+        "subjects?": [
+          15
+        ],
+        "The": [
+          16,
+          92,
+          159
+        ],
+        "Xingu,": [
+          17
+        ],
+        "one": [
+          18
+        ],
+        "of": [
+          19,
+          35,
+          55,
+          79,
+          88,
+          101,
+          107,
+          126,
+          135,
+          143,
+          162,
+          182,
+          197
+        ],
+        "the": [
+          20,
+          31,
+          39,
+          50,
+          56,
+          59,
+          66,
+          86,
+          89,
+          98,
+          109,
+          133,
+          144,
+          163,
+          180,
+          194
+        ],
+        "world’s": [
+          21
+        ],
+        "most": [
+          22,
+          60
+        ],
+        "ethnically": [
+          23
+        ],
+        "and": [
+          24,
+          119,
+          147,
+          188,
+          193
+        ],
+        "linguistically": [
+          25
+        ],
+        "diverse": [
+          26
+        ],
+        "territories,": [
+          28
+        ],
+        "stands": [
+          29
+        ],
+        "largest": [
+          32
+        ],
+        "remaining": [
+          33
+        ],
+        "island": [
+          34
+        ],
+        "tropical": [
+          36
+        ],
+        "forest": [
+          37
+        ],
+        "in": [
+          38,
+          85,
+          156,
+          185
+        ],
+        "Brazilian": [
+          40
+        ],
+        "Amazon’s": [
+          41
+        ],
+        "deforestation": [
+          42
+        ],
+        "arc.": [
+          43
+        ],
+        "In": [
+          44,
+          104
+        ],
+        "September": [
+          45
+        ],
+        "2018,": [
+          46
+        ],
+        "an": [
+          47,
+          73,
+          95,
+          105,
+          148
+        ],
+        "expedition": [
+          48
+        ],
+        "found": [
+          49
+        ],
+        "ancient": [
+          51
+        ],
+        "rock": [
+          52
+        ],
+        "art": [
+          53
+        ],
+        "panels": [
+          54
+        ],
+        "Kamukuwaká": [
+          57,
+          164
+        ],
+        "cave,": [
+          58
+        ],
+        "important": [
+          61
+        ],
+        "cultural": [
+          62,
+          99,
+          183
+        ],
+        "heritage": [
+          63
+        ],
+        "site": [
+          64
+        ],
+        "for": [
+          65,
+          153
+        ],
+        "Upper": [
+          67
+        ],
+        "Xingu": [
+          68
+        ],
+        "communities,": [
+          69
+        ],
+        "systematically": [
+          70
+        ],
+        "destroyed": [
+          71
+        ],
+        "by": [
+          72
+        ],
+        "unknown": [
+          74
+        ],
+        "assailant": [
+          75
+        ],
+        "at": [
+          76
+        ],
+        "time": [
+          78
+        ],
+        "heightened": [
+          80
+        ],
+        "tensions": [
+          81
+        ],
+        "farming": [
+          83
+        ],
+        "communities": [
+          84
+        ],
+        "borders": [
+          87
+        ],
+        "protected": [
+          90
+        ],
+        "area.": [
+          91
+        ],
+        "vandalism": [
+          93
+        ],
+        "was": [
+          94
+        ],
+        "attack": [
+          96
+        ],
+        "on": [
+          97,
+          179
+        ],
+        "integrity": [
+          100
+        ],
+        "these": [
+          102
+        ],
+        "communities.": [
+          103,
+          174
+        ],
+        "act": [
+          106
+        ],
+        "resistance,": [
+          108
+        ],
+        "Wauja": [
+          110
+        ],
+        "people": [
+          111,
+          187
+        ],
+        "led": [
+          112
+        ],
+        "cross-cultural": [
+          114
+        ],
+        "collaboration": [
+          115
+        ],
+        "scholars,": [
+          117
+        ],
+        "artists,": [
+          118
+        ],
+        "technologists": [
+          120
+        ],
+        "to": [
+          121
+        ],
+        "undertake": [
+          122
+        ],
+        "3D": [
+          124
+        ],
+        "restoration": [
+          125
+        ],
+        "their": [
+          127,
+          136
+        ],
+        "mythological": [
+          128
+        ],
+        "engravings.": [
+          129
+        ],
+        "This": [
+          130
+        ],
+        "effort": [
+          131
+        ],
+        "enabled": [
+          132
+        ],
+        "preservation": [
+          134
+        ],
+        "collective": [
+          137
+        ],
+        "memory": [
+          138
+        ],
+        "through": [
+          139
+        ],
+        "1:1": [
+          141
+        ],
+        "facsimile": [
+          142
+        ],
+        "restored": [
+          145
+        ],
+        "cave": [
+          146
+        ],
+        "educational": [
+          149
+        ],
+        "virtual": [
+          150
+        ],
+        "reality": [
+          151
+        ],
+        "experience": [
+          152
+        ],
+        "younger": [
+          154
+        ],
+        "generations": [
+          155
+        ],
+        "local": [
+          157
+        ],
+        "schools.": [
+          158
+        ],
+        "collaborative": [
+          160
+        ],
+        "resurrection": [
+          161
+        ],
+        "offers": [
+          165
+        ],
+        "museum": [
+          166
+        ],
+        "practitioners": [
+          167
+        ],
+        "insights": [
+          168
+        ],
+        "into": [
+          169
+        ],
+        "establishing": [
+          170
+        ],
+        "partnerships": [
+          171
+        ],
+        "Furthermore,": [
+          175
+        ],
+        "it": [
+          176
+        ],
+        "sheds": [
+          177
+        ],
+        "light": [
+          178
+        ],
+        "importance": [
+          181
+        ],
+        "practices": [
+          184
+        ],
+        "protecting": [
+          186
+        ],
+        "places": [
+          189
+        ],
+        "from": [
+          190
+        ],
+        "climate": [
+          191
+        ],
+        "change": [
+          192
+        ],
+        "destructive": [
+          195
+        ],
+        "impacts": [
+          196
+        ],
+        "human": [
+          198
+        ],
+        "activities.": [
+          199
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-05-05T08:41:31.759640",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5716,7 +9916,7 @@
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-05-01T05:47:21.928Z",
+      "lastUpdated": "2026-06-01T07:08:43.253Z",
       "display_name": "Detectability of urban emergencies using hierarchical networks in smart cities",
       "publication_year": 2024,
       "publication_date": "2024-10-18",
@@ -5791,6 +9991,7 @@
           "raw_affiliation_strings": [
             "PGCC, Universidade Estadual de Feira de Santana"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "PGCC, Universidade Estadual de Feira de Santana",
@@ -5827,6 +10028,7 @@
           "raw_affiliation_strings": [
             "DTEC, Universidade Estadual de Feira de Santana"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "DTEC, Universidade Estadual de Feira de Santana",
@@ -5863,6 +10065,7 @@
           "raw_affiliation_strings": [
             "PGCC, Universidade Estadual de Feira de Santana"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "PGCC, Universidade Estadual de Feira de Santana",
@@ -5899,6 +10102,7 @@
           "raw_affiliation_strings": [
             "DTEC, Universidade Estadual de Feira de Santana"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "DTEC, Universidade Estadual de Feira de Santana",
@@ -5924,7 +10128,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63551402,
+        "value": 0.60747664,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6462,7 +10666,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-03-10T14:07:55.174380",
+      "updated_date": "2026-05-21T06:26:12.895304",
       "created_date": "2025-12-04T00:00:00"
     },
     {
@@ -6656,7 +10860,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.928Z",
+      "lastUpdated": "2026-06-01T07:08:43.255Z",
       "display_name": "Reliability and Detectability of Emergency Management Systems in Smart Cities under Common Cause Failures",
       "publication_year": 2024,
       "publication_date": "2024-05-06",
@@ -6891,11 +11095,11 @@
         "currency": "CHF",
         "value_usd": 2598
       },
-      "fwci": 1.4974,
+      "fwci": 1.4239,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.79226605,
+        "value": 0.78262196,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7139,28 +11343,25 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:a71a99950d784f5b90061e7f613dc561",
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/a71a99950d784f5b90061e7f613dc561",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -7203,15 +11404,15 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7400000095367432,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [
         {
           "id": "https://openalex.org/G1614854654",
-          "display_name": null,
+          "display_name": "Creating safer and more resilient cities through the detection and management of urban emergencies based on optimized sensor networks",
           "funder_award_id": "EXPL/EEI-COM/1089/2021",
           "funder_id": "https://openalex.org/F4320334779",
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
@@ -7658,7 +11859,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T06:26:12.895304",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7795,7 +11996,7 @@
       "language": "pt",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-05-01T05:47:21.928Z",
+      "lastUpdated": "2026-06-01T07:08:43.255Z",
       "display_name": "Plataforma de Crowdsourcing Internet of Things (Crowd-IoT) para detecção de emergências urbanas",
       "publication_year": 2024,
       "publication_date": "2024-04-26",
@@ -7855,6 +12056,7 @@
           "raw_affiliation_strings": [
             "Universidade Estadual de Feira de Santana (UEFS)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Universidade Estadual de Feira de Santana (UEFS)",
@@ -7891,6 +12093,7 @@
           "raw_affiliation_strings": [
             "Universidade Estadual de Feira de Santana (UEFS)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Universidade Estadual de Feira de Santana (UEFS)",
@@ -7927,6 +12130,7 @@
           "raw_affiliation_strings": [
             "Universidade Estadual de Feira de Santana (UEFS)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Universidade Estadual de Feira de Santana (UEFS)",
@@ -7963,6 +12167,7 @@
           "raw_affiliation_strings": [
             "Universidade Estadual de Feira de Santana (UEFS)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Universidade Estadual de Feira de Santana (UEFS)",
@@ -7999,6 +12204,7 @@
           "raw_affiliation_strings": [
             "Universidade do Porto (UP)"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Universidade do Porto (UP)",
@@ -8024,7 +12230,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.05431336,
+        "value": 0.05331308,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8125,15 +12331,7 @@
         "raw_type": "proceedings-article"
       },
       "sustainable_development_goals": [],
-      "awards": [
-        {
-          "id": "https://openalex.org/G5043551198",
-          "display_name": null,
-          "funder_award_id": "PROAP",
-          "funder_id": "https://openalex.org/F4320321091",
-          "funder_display_name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
-        }
-      ],
+      "awards": [],
       "funders": [
         {
           "id": "https://openalex.org/F4320321091",
@@ -8412,7 +12610,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2026-05-21T06:26:12.895304",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8456,7 +12654,7 @@
       "date": "2024-01-11",
       "doi": "https://doi.org/10.3390/su16020640",
       "url": "https://doi.org/10.3390/su16020640",
-      "citations": 69,
+      "citations": 71,
       "isOpenAccess": true,
       "oaUrl": "https://www.mdpi.com/2071-1050/16/2/640/pdf?version=1704965720",
       "volume": "16",
@@ -8611,7 +12809,7 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 14
+          "cited_by_count": 16
         },
         {
           "year": 2025,
@@ -8622,7 +12820,7 @@
           "cited_by_count": 19
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.929Z",
+      "lastUpdated": "2026-06-01T07:08:43.255Z",
       "display_name": "Achieving Sustainable Smart Cities through Geospatial Data-Driven Approaches",
       "publication_year": 2024,
       "publication_date": "2024-01-11",
@@ -8914,11 +13112,11 @@
         "currency": "CHF",
         "value_usd": 2382
       },
-      "fwci": 45.0473,
+      "fwci": 43.7143,
       "has_fulltext": true,
-      "cited_by_count": 69,
+      "cited_by_count": 71,
       "citation_normalized_percentile": {
-        "value": 0.99930368,
+        "value": 0.99926323,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -9203,9 +13401,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.46000000834465027,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -9831,7 +14029,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 14
+          "cited_by_count": 16
         },
         {
           "year": 2025,
@@ -9842,7 +14040,7 @@
           "cited_by_count": 19
         }
       ],
-      "updated_date": "2026-04-25T08:17:42.794288",
+      "updated_date": "2026-05-26T13:28:51.108037",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9986,7 +14184,7 @@
           "cited_by_count": 3
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.929Z",
+      "lastUpdated": "2026-06-01T07:08:43.255Z",
       "display_name": "Urban emergency detection system using hierarchical, collaborative and configurable wireless sensor networks",
       "publication_year": 2023,
       "publication_date": "2023-11-21",
@@ -10297,9 +14495,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7799999713897705,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -10868,7 +15066,7 @@
       "date": "2023-11-20",
       "doi": "https://doi.org/10.1016/j.compenvurbsys.2023.102054",
       "url": "https://doi.org/10.1016/j.compenvurbsys.2023.102054",
-      "citations": 24,
+      "citations": 25,
       "isOpenAccess": true,
       "oaUrl": "https://doi.org/10.1016/j.compenvurbsys.2023.102054",
       "volume": "107",
@@ -11029,7 +15227,7 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2025,
@@ -11044,7 +15242,7 @@
           "cited_by_count": 1
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.929Z",
+      "lastUpdated": "2026-06-01T07:08:43.256Z",
       "display_name": "Exploiting geospatial data of connectivity and urban infrastructure for efficient positioning of emergency detection units in smart cities",
       "publication_year": 2023,
       "publication_date": "2023-11-20",
@@ -11135,6 +15333,7 @@
             "IFBA, Federal Institute of Education, Science and Technology of Bahia, Valença, Brazil",
             "PPGM-UEFS, State University of Feira de Santana, Feira de Santana, Brazil"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "IFBA, Federal Institute of Education, Science and Technology of Bahia, Valença, Brazil",
@@ -11189,6 +15388,7 @@
             "CETEC, Federal University of Recôncavo da Bahia, Cruz das Almas, Brazil",
             "PDEEC, Faculty of Engineering, University of Porto, Porto, Portugal"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "CETEC, Federal University of Recôncavo da Bahia, Cruz das Almas, Brazil",
@@ -11231,6 +15431,7 @@
           "raw_affiliation_strings": [
             "DTEC-UEFS, State University of Feira de Santana, Feira de Santana, Brazil"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "DTEC-UEFS, State University of Feira de Santana, Feira de Santana, Brazil",
@@ -11278,6 +15479,7 @@
           "raw_affiliation_strings": [
             "INEGI, Faculty of Engineering, University of Porto, Porto, Portugal"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "INEGI, Faculty of Engineering, University of Porto, Porto, Portugal",
@@ -11315,6 +15517,7 @@
           "raw_affiliation_strings": [
             "SYSTEC-ARISE, Faculty of Engineering, University of Porto, Porto, Portugal"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "SYSTEC-ARISE, Faculty of Engineering, University of Porto, Porto, Portugal",
@@ -11362,6 +15565,7 @@
           "raw_affiliation_strings": [
             "INEGI, Faculty of Engineering, University of Porto, Porto, Portugal"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "INEGI, Faculty of Engineering, University of Porto, Porto, Portugal",
@@ -11393,11 +15597,11 @@
         "currency": "USD",
         "value_usd": 3740
       },
-      "fwci": 9.1337,
+      "fwci": 9.2435,
       "has_fulltext": false,
-      "cited_by_count": 24,
+      "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.97764478,
+        "value": 0.97773279,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11626,15 +15830,15 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.6800000071525574,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [
         {
           "id": "https://openalex.org/G1614854654",
-          "display_name": null,
+          "display_name": "Creating safer and more resilient cities through the detection and management of urban emergencies based on optimized sensor networks",
           "funder_award_id": "EXPL/EEI-COM/1089/2021",
           "funder_id": "https://openalex.org/F4320334779",
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
@@ -12429,7 +16633,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2025,
@@ -12444,7 +16648,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-23T09:07:50.710637",
+      "updated_date": "2026-05-20T08:49:12.498775",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12564,7 +16768,7 @@
           "cited_by_count": 5
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.929Z",
+      "lastUpdated": "2026-06-01T07:08:43.256Z",
       "display_name": "A Secure OTA Approach For Flexible Operation of Emergency Detection Units in Smart Cities",
       "publication_year": 2023,
       "publication_date": "2023-09-24",
@@ -12826,9 +17030,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.47999998927116394,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -13620,7 +17824,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.929Z",
+      "lastUpdated": "2026-06-01T07:08:43.256Z",
       "display_name": "Dependability and Quality-Aware Connectivity in Smart Cities Applications",
       "publication_year": 2023,
       "publication_date": "2023-09-24",
@@ -14197,9 +18401,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.4300000071525574,
-          "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -14848,7 +19052,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.930Z",
+      "lastUpdated": "2026-06-01T07:08:43.256Z",
       "display_name": "A Framework for the Development of Reconfigurable Sensors-based Emergencies Detection Units in Smart Cities",
       "publication_year": 2022,
       "publication_date": "2022-09-26",
@@ -15206,9 +19410,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.4300000071525574,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -15741,7 +19945,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.930Z",
+      "lastUpdated": "2026-06-01T07:08:43.256Z",
       "display_name": "A dependability-aware approach for dynamic mobile sink repositioning in smart cities applications",
       "publication_year": 2022,
       "publication_date": "2022-09-26",
@@ -16196,9 +20400,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.8899999856948853,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -16909,7 +21113,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.931Z",
+      "lastUpdated": "2026-06-01T07:08:43.256Z",
       "display_name": "A Survey on Monitoring Quality Assessment for Wireless Visual Sensor Networks",
       "publication_year": 2022,
       "publication_date": "2022-07-19",
@@ -17187,11 +21391,11 @@
         "currency": "CHF",
         "value_usd": 1515
       },
-      "fwci": 1.9974,
+      "fwci": 1.9944,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.86778831,
+        "value": 0.86772299,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17480,24 +21684,21 @@
           "landing_page_url": "https://doaj.org/article/69780a9c7dcd484783089d2ef9ece8c1",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -17571,12 +21772,11 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
+        "grobid_xml": false,
         "pdf": true
       },
       "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4286214446.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W4286214446.grobid-xml"
+        "pdf": "https://content.openalex.org/works/W4286214446.pdf"
       },
       "referenced_works_count": 97,
       "referenced_works": [
@@ -18230,7 +22430,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-22T06:13:13.366637",
       "created_date": "2022-07-21T00:00:00"
     },
     {
@@ -18286,7 +22486,7 @@
       "date": "2022-01-01",
       "doi": "https://doi.org/10.1109/access.2022.3180033",
       "url": "https://doi.org/10.1109/access.2022.3180033",
-      "citations": 102,
+      "citations": 104,
       "isOpenAccess": true,
       "oaUrl": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09787492.pdf",
       "volume": "10",
@@ -18396,7 +22596,7 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 9
+          "cited_by_count": 11
         },
         {
           "year": 2025,
@@ -18415,7 +22615,7 @@
           "cited_by_count": 7
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.931Z",
+      "lastUpdated": "2026-06-01T07:08:43.256Z",
       "display_name": "A Survey of Emergencies Management Systems in Smart Cities",
       "publication_year": 2022,
       "publication_date": "2022-01-01",
@@ -18792,11 +22992,11 @@
         "currency": "USD",
         "value_usd": 1850
       },
-      "fwci": 23.8638,
+      "fwci": 23.9056,
       "has_fulltext": true,
-      "cited_by_count": 102,
+      "cited_by_count": 104,
       "citation_normalized_percentile": {
-        "value": 0.99749504,
+        "value": 0.99744862,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -18909,24 +23109,21 @@
           "landing_page_url": "https://doaj.org/article/9b702ddb1d604ad39a45d747a31086f1",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -18969,22 +23166,22 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7200000286102295,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [
         {
           "id": "https://openalex.org/G1614854654",
-          "display_name": null,
+          "display_name": "Creating safer and more resilient cities through the detection and management of urban emergencies based on optimized sensor networks",
           "funder_award_id": "EXPL/EEI-COM/1089/2021",
           "funder_id": "https://openalex.org/F4320334779",
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
         },
         {
           "id": "https://openalex.org/G1885850072",
-          "display_name": null,
+          "display_name": "Associate Laboratory of Energy, Transports and Aeronautics",
           "funder_award_id": "UIDB/50022/2020",
           "funder_id": "https://openalex.org/F4320334779",
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
@@ -19761,7 +23958,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 9
+          "cited_by_count": 11
         },
         {
           "year": 2025,
@@ -19780,7 +23977,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-14T08:36:36.166977",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20002,7 +24199,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.931Z",
+      "lastUpdated": "2026-06-01T07:08:43.256Z",
       "display_name": "A Comprehensive Dependability Model for QoM-Aware Industrial WSN When Performing Visual Area Coverage in Occluded Scenarios",
       "publication_year": 2020,
       "publication_date": "2020-11-16",
@@ -20319,11 +24516,11 @@
         "currency": "CHF",
         "value_usd": 2598
       },
-      "fwci": 1.133,
+      "fwci": 1.1338,
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.80830778,
+        "value": 0.80837272,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20577,21 +24774,18 @@
           "landing_page_url": "https://doaj.org/article/a4fee7030c654c988ba73a10806c6862",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
           "license": "cc-by-sa",
           "license_id": "https://openalex.org/licenses/cc-by-sa",
@@ -20695,9 +24889,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.5799999833106995,
-          "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [
@@ -21151,7 +25345,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T06:26:12.895304",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21377,7 +25571,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.931Z",
+      "lastUpdated": "2026-06-01T07:08:43.257Z",
       "display_name": "FoV-Based Quality Assessment and Optimization for Area Coverage in Wireless Visual Sensor Networks",
       "publication_year": 2020,
       "publication_date": "2020-01-01",
@@ -21692,11 +25886,11 @@
         "currency": "USD",
         "value_usd": 1850
       },
-      "fwci": 0.4906,
+      "fwci": 0.4903,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.65596193,
+        "value": 0.65543282,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21921,21 +26115,18 @@
           "landing_page_url": "https://doaj.org/article/3f0c41113c674c968ca34a7ef22aa755",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
           "license": "cc-by-sa",
           "license_id": "https://openalex.org/licenses/cc-by-sa",
@@ -21981,9 +26172,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.5299999713897705,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [
@@ -22610,7 +26801,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-06T08:25:59.206177",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22832,7 +27023,7 @@
           "cited_by_count": 4
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.931Z",
+      "lastUpdated": "2026-06-01T07:08:43.257Z",
       "display_name": "Modelling Coverage Failures Caused by Mobile Obstacles for the Selection of Faultless Visual Nodes in Wireless Sensor Networks",
       "publication_year": 2020,
       "publication_date": "2020-01-01",
@@ -23121,11 +27312,11 @@
         "currency": "USD",
         "value_usd": 1850
       },
-      "fwci": 1.7812,
+      "fwci": 1.782,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.85683027,
+        "value": 0.85689429,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23343,21 +27534,18 @@
           "landing_page_url": "https://doaj.org/article/d92b5066bb9549e48cf2b2a2f591a417",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
           "license": "cc-by-sa",
           "license_id": "https://openalex.org/licenses/cc-by-sa",
@@ -23403,9 +27591,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.8999999761581421,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [
@@ -23557,13 +27745,6 @@
           "funder_display_name": "European Regional Development Fund"
         },
         {
-          "id": "https://openalex.org/G6603360721",
-          "display_name": null,
-          "funder_award_id": "PORTUGAL 2020",
-          "funder_id": "https://openalex.org/F4320335322",
-          "funder_display_name": "European Regional Development Fund"
-        },
-        {
           "id": "https://openalex.org/G6679443276",
           "display_name": null,
           "funder_award_id": "UID/EEA/50008/2019",
@@ -23632,13 +27813,10 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "grobid_xml": false,
+        "pdf": false
       },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W3008765476.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W3008765476.grobid-xml"
-      },
+      "content_urls": null,
       "referenced_works_count": 34,
       "referenced_works": [
         "https://openalex.org/W1964377401",
@@ -24212,7 +28390,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-04-30T09:15:22.047038",
+      "updated_date": "2026-05-30T09:04:40.226872",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24390,7 +28568,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.931Z",
+      "lastUpdated": "2026-06-01T07:08:43.257Z",
       "display_name": "An Availability Metric and Optimization Algorithms for Simultaneous Coverage of Targets and Areas by Wireless Visual Sensor Networks",
       "publication_year": 2019,
       "publication_date": "2019-07-01",
@@ -24753,9 +28931,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.5600000023841858,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -25419,7 +29597,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.931Z",
+      "lastUpdated": "2026-06-01T07:08:43.257Z",
       "display_name": "Wireless visual sensor networks redeployment based on dependability optimization",
       "publication_year": 2019,
       "publication_date": "2019-07-01",
@@ -25787,9 +29965,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.5899999737739563,
-          "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -26541,7 +30719,7 @@
           "cited_by_count": 4
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.931Z",
+      "lastUpdated": "2026-06-01T07:08:43.257Z",
       "display_name": "Automated Methodology for Dependability Evaluation of Wireless Visual Sensor Networks",
       "publication_year": 2018,
       "publication_date": "2018-08-10",
@@ -26858,11 +31036,11 @@
         "currency": "CHF",
         "value_usd": 2598
       },
-      "fwci": 2.7358,
+      "fwci": 2.7653,
       "has_fulltext": true,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.911056,
+        "value": 0.91109318,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -27074,21 +31252,18 @@
           "landing_page_url": "https://doaj.org/article/b7fdb4a119fc40f78cab7303b761c6e5",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
           "license": "cc-by-sa",
           "license_id": "https://openalex.org/licenses/cc-by-sa",
@@ -27861,7 +32036,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-21T06:26:12.895304",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27892,7 +32067,7 @@
       "date": "2018-07-01",
       "doi": "https://doi.org/10.1109/indin.2018.8471997",
       "url": "https://doi.org/10.1109/indin.2018.8471997",
-      "citations": 14,
+      "citations": 15,
       "isOpenAccess": false,
       "oaUrl": null,
       "volume": null,
@@ -28018,7 +32193,7 @@
       "citationsPerYear": [
         {
           "year": 2025,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2022,
@@ -28037,7 +32212,7 @@
           "cited_by_count": 3
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.931Z",
+      "lastUpdated": "2026-06-01T07:08:43.257Z",
       "display_name": "On the Computing of Area Coverage by Visual Sensor Networks: Assessing Performance of Approximate and Precise Algorithms",
       "publication_year": 2018,
       "publication_date": "2018-07-01",
@@ -28098,6 +32273,7 @@
           "raw_affiliation_strings": [
             "DTEC-UEFS - State University of Feira de Santana, Brazil"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "DTEC-UEFS - State University of Feira de Santana, Brazil",
@@ -28134,6 +32310,7 @@
           "raw_affiliation_strings": [
             "DTEC-UEFS - State University of Feira de Santana, Brazil"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "DTEC-UEFS - State University of Feira de Santana, Brazil",
@@ -28181,6 +32358,7 @@
           "raw_affiliation_strings": [
             "INESC-TEC-FEUP, University of Porto, Portugal"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "INESC-TEC-FEUP, University of Porto, Portugal",
@@ -28203,11 +32381,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8453,
+      "fwci": 1.9753,
       "has_fulltext": false,
-      "cited_by_count": 14,
+      "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.87110242,
+        "value": 0.87834368,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28876,7 +33054,7 @@
       "counts_by_year": [
         {
           "year": 2025,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2022,
@@ -28895,7 +33073,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-05-07T13:39:58.223016",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28927,7 +33105,7 @@
       "date": "2011-03-15",
       "doi": "https://doi.org/10.1109/tac.2011.2124950",
       "url": "https://doi.org/10.1109/tac.2011.2124950",
-      "citations": 149,
+      "citations": 150,
       "isOpenAccess": false,
       "oaUrl": null,
       "volume": "56",
@@ -29084,7 +33262,7 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -29143,7 +33321,7 @@
           "cited_by_count": 5
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.931Z",
+      "lastUpdated": "2026-06-01T07:08:43.257Z",
       "display_name": "Polynomial Time Verification of Decentralized Diagnosability of Discrete Event Systems",
       "publication_year": 2011,
       "publication_date": "2011-03-15",
@@ -29226,6 +33404,7 @@
             "COPPE-Programa de Engenharia El&#x00E9;trica, Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ, Brazil",
             "COPPE-Programa de Eng. Eletr., Univ. Fed. do Rio de Janeiro, Rio de Janeiro, Brazil"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "COPPE-Programa de Engenharia El&#x00E9;trica, Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ, Brazil",
@@ -29269,6 +33448,7 @@
             "COPPE-Programa de Engenharia El&#x00E9;trica, Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ, Brazil",
             "COPPE-Programa de Eng. Eletr., Univ. Fed. do Rio de Janeiro, Rio de Janeiro, Brazil"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "COPPE-Programa de Engenharia El&#x00E9;trica, Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ, Brazil",
@@ -29312,6 +33492,7 @@
             "COPPE-Programa de Engenharia El&#x00E9;trica, Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ, Brazil",
             "COPPE-Programa de Eng. Eletr., Univ. Fed. do Rio de Janeiro, Rio de Janeiro, Brazil"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "COPPE-Programa de Engenharia El&#x00E9;trica, Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ, Brazil",
@@ -29339,11 +33520,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.1394,
+      "fwci": 6.1968,
       "has_fulltext": false,
-      "cited_by_count": 149,
+      "cited_by_count": 150,
       "citation_normalized_percentile": {
-        "value": 0.96920151,
+        "value": 0.96939074,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -29823,7 +34004,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -29882,7 +34063,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-04-20T07:46:08.049788",
+      "updated_date": "2026-05-31T08:46:17.908082",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30059,7 +34240,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-05-01T05:47:21.931Z",
+      "lastUpdated": "2026-06-01T07:08:43.257Z",
       "display_name": "Polynomial time verification of decentralized diagnosability of discrete event systems",
       "publication_year": 2010,
       "publication_date": "2010-06-01",
@@ -30742,8 +34923,8 @@
     }
   ],
   "meta": {
-    "count": 27,
-    "lastUpdated": "2026-05-01T05:47:21.942Z",
+    "count": 31,
+    "lastUpdated": "2026-06-01T07:08:43.272Z",
     "venueOverridesApplied": 13
   }
 }
