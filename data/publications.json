@@ -7,19 +7,19 @@
         {
           "name": "João Carlos N. Bittencourt",
           "orcid": "https://orcid.org/0000-0002-4540-512X",
-          "isCorresponding": false,
+          "isCorresponding": true,
           "position": "first"
         },
         {
           "name": "Thommas K. S. Flores",
           "orcid": null,
-          "isCorresponding": false,
+          "isCorresponding": true,
           "position": "middle"
         },
         {
           "name": "Thiago C. Jesus",
           "orcid": "https://orcid.org/0000-0001-5299-6856",
-          "isCorresponding": false,
+          "isCorresponding": true,
           "position": "middle"
         },
         {
@@ -35,7 +35,7 @@
       "date": "2026-01-07",
       "doi": "https://doi.org/10.1007/s10462-025-11469-3",
       "url": "https://doi.org/10.1007/s10462-025-11469-3",
-      "citations": 3,
+      "citations": 10,
       "isOpenAccess": true,
       "oaUrl": "https://doi.org/10.1007/s10462-025-11469-3",
       "volume": "59",
@@ -173,10 +173,10 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 10
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.798Z",
+      "lastUpdated": "2026-08-01T05:33:08.136Z",
       "display_name": "On the role of AI in building generative urban intelligence",
       "publication_year": 2026,
       "publication_date": "2026-01-07",
@@ -264,22 +264,22 @@
             "BR",
             "PT"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "João Carlos N. Bittencourt",
           "raw_affiliation_strings": [
-            "CETEC, Federal University of Recôncavo da Bahia, Rua Ruy Barbosa, 710, Cruz das Almas, Bahia, 44380-000, Brazil",
-            "SYSTEC-ARISE, Faculty of Engineering, University of Porto, Rua Dr. Roberto Frias s/n, Porto, 4200-465, Portugal"
+            "CETEC, Federal University of Recôncavo da Bahia, Cruz das Almas, Brazil",
+            "SYSTEC-ARISE, Faculty of Engineering, University of Porto, Porto, Portugal"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "CETEC, Federal University of Recôncavo da Bahia, Rua Ruy Barbosa, 710, Cruz das Almas, Bahia, 44380-000, Brazil",
+              "raw_affiliation_string": "CETEC, Federal University of Recôncavo da Bahia, Cruz das Almas, Brazil",
               "institution_ids": [
                 "https://openalex.org/I129192303"
               ]
             },
             {
-              "raw_affiliation_string": "SYSTEC-ARISE, Faculty of Engineering, University of Porto, Rua Dr. Roberto Frias s/n, Porto, 4200-465, Portugal",
+              "raw_affiliation_string": "SYSTEC-ARISE, Faculty of Engineering, University of Porto, Porto, Portugal",
               "institution_ids": [
                 "https://openalex.org/I182534213"
               ]
@@ -308,15 +308,15 @@
           "countries": [
             "BR"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Thommas K. S. Flores",
           "raw_affiliation_strings": [
-            "PPgEEC-UFRN, Federal University of Rio Grande do Norte, Campus Universitário Lagoa Nova, Natal, Rio Grande do Norte, 59078-970, Brazil"
+            "PPgEEC-UFRN, Federal University of Rio Grande do Norte, Natal, Brazil"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "PPgEEC-UFRN, Federal University of Rio Grande do Norte, Campus Universitário Lagoa Nova, Natal, Rio Grande do Norte, 59078-970, Brazil",
+              "raw_affiliation_string": "PPgEEC-UFRN, Federal University of Rio Grande do Norte, Natal, Brazil",
               "institution_ids": [
                 "https://openalex.org/I35046152"
               ]
@@ -345,15 +345,15 @@
           "countries": [
             "BR"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Thiago C. Jesus",
           "raw_affiliation_strings": [
-            "DTEC, State University of Feira de Santana, Avenida Transnordestina s/n, Feira de Santana, Bahia, 44036-900, Brazil"
+            "DTEC, State University of Feira de Santana, Feira de Santana, Brazil"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "DTEC, State University of Feira de Santana, Avenida Transnordestina s/n, Feira de Santana, Bahia, 44036-900, Brazil",
+              "raw_affiliation_string": "DTEC, State University of Feira de Santana, Feira de Santana, Brazil",
               "institution_ids": [
                 "https://openalex.org/I21606457"
               ]
@@ -385,12 +385,12 @@
           "is_corresponding": true,
           "raw_author_name": "Daniel G. Costa",
           "raw_affiliation_strings": [
-            "SYSTEC-ARISE, Faculty of Engineering, University of Porto, Rua Dr. Roberto Frias s/n, Porto, 4200-465, Portugal"
+            "SYSTEC-ARISE, Faculty of Engineering, University of Porto, Porto, Portugal"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "SYSTEC-ARISE, Faculty of Engineering, University of Porto, Rua Dr. Roberto Frias s/n, Porto, 4200-465, Portugal",
+              "raw_affiliation_string": "SYSTEC-ARISE, Faculty of Engineering, University of Porto, Porto, Portugal",
               "institution_ids": [
                 "https://openalex.org/I182534213"
               ]
@@ -402,32 +402,38 @@
       "countries_distinct_count": 2,
       "institutions_distinct_count": 4,
       "corresponding_author_ids": [
-        "https://openalex.org/A5103572550"
+        "https://openalex.org/A5011761859",
+        "https://openalex.org/A5040609024",
+        "https://openalex.org/A5103572550",
+        "https://openalex.org/A5122092833"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I182534213"
+        "https://openalex.org/I129192303",
+        "https://openalex.org/I182534213",
+        "https://openalex.org/I21606457",
+        "https://openalex.org/I35046152"
       ],
       "apc_list": {
-        "value": 2490,
-        "currency": "EUR",
+        "value": 3090,
+        "currency": "USD",
         "value_usd": 3090
       },
       "apc_paid": {
-        "value": 2490,
-        "currency": "EUR",
+        "value": 3090,
+        "currency": "USD",
         "value_usd": 3090
       },
-      "fwci": 38.1536,
+      "fwci": 65.4907,
       "has_fulltext": false,
-      "cited_by_count": 3,
+      "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.9958092,
+        "value": 0.99881066,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 98,
-        "max": 99
+        "min": 99,
+        "max": 100
       },
       "biblio": {
         "volume": "59",
@@ -724,9 +730,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.5111441016197205,
           "display_name": "Sustainable cities and communities",
-          "score": 0.5111441016197205
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -1358,10 +1364,10 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-06-13T06:13:01.061226",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2026-01-08T00:00:00"
     },
     {
@@ -1528,7 +1534,7 @@
       "language": "en",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-07-01T06:39:58.798Z",
+      "lastUpdated": "2026-08-01T05:33:08.136Z",
       "display_name": "Data-Driven Framework for Consumer-Centric Microgrid Positioning in Smart Cities and Communities Towards Digital Urban Transformation",
       "publication_year": 2025,
       "publication_date": "2025-12-23",
@@ -1562,9 +1568,9 @@
         "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
-        "raw_type": "Text"
+        "raw_type": "Conference Paper"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -1636,7 +1642,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -1645,7 +1651,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.6174327,
+        "value": 0.68492984,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1925,15 +1931,15 @@
           "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
-          "raw_type": "Text"
+          "raw_type": "Conference Paper"
         }
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.461779922246933,
           "display_name": "Sustainable cities and communities",
-          "score": 0.461779922246933
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -2324,7 +2330,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-12-26T00:00:00"
     },
     {
@@ -2477,7 +2483,7 @@
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-07-01T06:39:58.798Z",
+      "lastUpdated": "2026-08-01T05:33:08.136Z",
       "display_name": "Dependability-Driven Planning of Wireless Sensor Networks for Smart Cities Using Machine Learning",
       "publication_year": 2025,
       "publication_date": "2025-10-14",
@@ -2499,7 +2505,7 @@
         "raw_source_name": "IECON 2025 – 51st Annual Conference of the IEEE Industrial Electronics Society",
         "raw_type": "proceedings-article"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -2735,7 +2741,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 6,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -2744,7 +2750,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.33890813,
+        "value": 0.39016418,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3229,7 +3235,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-11-06T00:00:00"
     },
     {
@@ -3375,7 +3381,7 @@
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-07-01T06:39:58.798Z",
+      "lastUpdated": "2026-08-01T05:33:08.136Z",
       "display_name": "Quality-aware Sensors Positioning in Smart Cities: Enhancing Coverage in IoT-driven Urban Scenarios",
       "publication_year": 2025,
       "publication_date": "2025-10-14",
@@ -3397,7 +3403,7 @@
         "raw_source_name": "IECON 2025 – 51st Annual Conference of the IEEE Industrial Electronics Society",
         "raw_type": "proceedings-article"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -3559,7 +3565,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -3568,7 +3574,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.33885338,
+        "value": 0.3900156,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4189,7 +4195,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-11-06T00:00:00"
     },
     {
@@ -4341,7 +4347,7 @@
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-07-01T06:39:58.798Z",
+      "lastUpdated": "2026-08-01T05:33:08.137Z",
       "display_name": "Embedded AI for Intelligent Wildfire Monitoring: A Multi-Sensor and Vision-Driven Approach",
       "publication_year": 2025,
       "publication_date": "2025-10-14",
@@ -4363,7 +4369,7 @@
         "raw_source_name": "IECON 2025 – 51st Annual Conference of the IEEE Industrial Electronics Society",
         "raw_type": "proceedings-article"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -4562,7 +4568,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -4571,7 +4577,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.35339604,
+        "value": 0.45261253,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5265,7 +5271,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-11-06T00:00:00"
     },
     {
@@ -5416,7 +5422,7 @@
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-07-01T06:39:58.798Z",
+      "lastUpdated": "2026-08-01T05:33:08.137Z",
       "display_name": "Urban Emergencies in the Age of 15-Minute Cities: Assessing Response Capability to Critical Situations",
       "publication_year": 2025,
       "publication_date": "2025-10-06",
@@ -5438,7 +5444,7 @@
         "raw_source_name": "2025 IEEE International Smart Cities Conference (ISC2)",
         "raw_type": "proceedings-article"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -5620,7 +5626,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.56513608,
+        "value": 0.69583601,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5870,9 +5876,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.5988869071006775,
           "display_name": "Sustainable cities and communities",
-          "score": 0.5988869071006775
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -5910,10 +5916,10 @@
       "related_works": [],
       "abstract_inverted_index": {
         "5": [
-          106
+          103
         ],
         "15": [
-          129
+          125
         ],
         "Urban": [
           0
@@ -5925,9 +5931,9 @@
           2,
           18,
           95,
-          116,
-          169,
-          180
+          112,
+          165,
+          176
         ],
         "enhance": [
           3
@@ -5937,30 +5943,30 @@
           24,
           72,
           97,
-          117,
-          162,
-          185
+          113,
+          158,
+          181
         ],
         "preparedness": [
           5,
           73,
-          163
+          159
         ],
         "and": [
           6,
           22,
           57,
           74,
-          124,
-          161,
-          174,
-          188
+          120,
+          157,
+          170,
+          184
         ],
         "resilience": [
           7,
           75,
           98,
-          160
+          156
         ],
         "has": [
           8,
@@ -5980,9 +5986,9 @@
           30,
           43,
           100,
-          133,
-          170,
-          177
+          129,
+          166,
+          173
         ],
         "center": [
           12
@@ -6009,8 +6015,8 @@
         ],
         "spatial": [
           20,
-          134,
-          182
+          130,
+          178
         ],
         "inequalities": [
           21
@@ -6020,8 +6026,8 @@
         ],
         "service": [
           25,
-          142,
-          186
+          138,
+          182
         ],
         "coverage.": [
           26
@@ -6029,7 +6035,7 @@
         "In": [
           27,
           85,
-          147
+          143
         ],
         "recent": [
           28
@@ -6042,9 +6048,8 @@
         ],
         "of": [
           32,
-          102,
-          136,
-          172
+          132,
+          168
         ],
         "disruptive": [
           33
@@ -6061,11 +6066,11 @@
         ],
         "based": [
           37,
-          139
+          135
         ],
         "on": [
           38,
-          140
+          136
         ],
         "space-time": [
           39
@@ -6075,11 +6080,11 @@
         ],
         "such": [
           41,
-          120
+          116
         ],
         "as": [
           42,
-          121
+          117
         ],
         "now": [
           44
@@ -6118,10 +6123,10 @@
         "urban": [
           59,
           63,
-          137,
-          152,
-          159,
-          198
+          133,
+          148,
+          155,
+          194
         ],
         "living.": [
           60
@@ -6148,7 +6153,7 @@
           69,
           86,
           88,
-          150
+          146
         ],
         "after": [
           76
@@ -6182,7 +6187,7 @@
         ],
         "a": [
           91,
-          128
+          124
         ],
         "geospatial": [
           92
@@ -6192,196 +6197,187 @@
         ],
         "approach": [
           94,
-          166
+          162
         ],
         "evaluate": [
           96
         ],
         "through": [
           99,
-          144
+          140
         ],
         "lens": [
           101
         ],
-        "<tex": [
-          103
-        ],
-        "xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"": [
-          104
-        ],
-        "xmlns:xlink=\"http://www.w3.org/1999/xlink\">$\\mathbf{1": [
-          105
+        "of$\\mathbf{1": [
+          102
         ],
         "M": [
-          107
+          104
         ],
-        "C}$</tex>": [
-          108
-        ],
-        "principles.": [
-          109
+        "C}$principles.": [
+          105
         ],
         "The": [
-          110
+          106
         ],
         "proposed": [
-          111
+          107
         ],
         "method": [
-          112
+          108
         ],
         "measures": [
-          113
+          109
         ],
         "travel-time": [
-          114
+          110
         ],
         "accessibility": [
-          115,
-          157,
-          194
-        ],
-        "mitigation": [
-          118
-        ],
-        "units,": [
-          119
-        ],
-        "fire": [
-          122
-        ],
-        "stations": [
-          123
-        ],
-        "medical": [
-          125
-        ],
-        "facilities,": [
-          126
-        ],
-        "using": [
-          127
-        ],
-        "-minute": [
-          130
-        ],
-        "threshold,": [
-          131
-        ],
-        "enabling": [
-          132
-        ],
-        "classification": [
-          135
-        ],
-        "zones": [
-          138
-        ],
-        "their": [
-          141
-        ],
-        "coverage": [
-          143
-        ],
-        "isochronous": [
-          145
-        ],
-        "maps.": [
-          146
-        ],
-        "doing": [
-          148
-        ],
-        "so,": [
-          149
-        ],
-        "innovative": [
-          151
-        ],
-        "vulnerability": [
-          153
-        ],
-        "perspective": [
-          154
-        ],
-        "integrates": [
-          155
-        ],
-        "localized": [
-          156,
-          193
-        ],
-        "into": [
-          158,
-          191
-        ],
-        "strategies.": [
-          164
-        ],
-        "This": [
-          165
-        ],
-        "is": [
-          167
-        ],
-        "applied": [
-          168
-        ],
-        "cities": [
-          171
-        ],
-        "Paris": [
-          173
-        ],
-        "Copenhagen,": [
-          175
-        ],
-        "revealing": [
-          176
-        ],
-        "method's": [
-          178
-        ],
-        "capacity": [
-          179
-        ],
-        "identify": [
-          181
-        ],
-        "disparities": [
-          183
-        ],
-        "in": [
-          184
-        ],
-        "distribution": [
-          187
-        ],
-        "offering": [
-          189
-        ],
-        "insights": [
+          111,
+          153,
           190
         ],
+        "mitigation": [
+          114
+        ],
+        "units,": [
+          115
+        ],
+        "fire": [
+          118
+        ],
+        "stations": [
+          119
+        ],
+        "medical": [
+          121
+        ],
+        "facilities,": [
+          122
+        ],
+        "using": [
+          123
+        ],
+        "-minute": [
+          126
+        ],
+        "threshold,": [
+          127
+        ],
+        "enabling": [
+          128
+        ],
+        "classification": [
+          131
+        ],
+        "zones": [
+          134
+        ],
+        "their": [
+          137
+        ],
+        "coverage": [
+          139
+        ],
+        "isochronous": [
+          141
+        ],
+        "maps.": [
+          142
+        ],
+        "doing": [
+          144
+        ],
+        "so,": [
+          145
+        ],
+        "innovative": [
+          147
+        ],
+        "vulnerability": [
+          149
+        ],
+        "perspective": [
+          150
+        ],
+        "integrates": [
+          151
+        ],
+        "localized": [
+          152,
+          189
+        ],
+        "into": [
+          154,
+          187
+        ],
+        "strategies.": [
+          160
+        ],
+        "This": [
+          161
+        ],
+        "is": [
+          163
+        ],
+        "applied": [
+          164
+        ],
+        "cities": [
+          167
+        ],
+        "Paris": [
+          169
+        ],
+        "Copenhagen,": [
+          171
+        ],
+        "revealing": [
+          172
+        ],
+        "method's": [
+          174
+        ],
+        "capacity": [
+          175
+        ],
+        "identify": [
+          177
+        ],
+        "disparities": [
+          179
+        ],
+        "in": [
+          180
+        ],
+        "distribution": [
+          183
+        ],
+        "offering": [
+          185
+        ],
+        "insights": [
+          186
+        ],
         "how": [
-          192
+          188
         ],
         "can": [
-          195
+          191
         ],
         "inform": [
-          196
+          192
         ],
         "resilience-oriented": [
-          197
+          193
         ],
         "planning.": [
-          199
+          195
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-12-23T00:00:00"
     },
     {
@@ -6584,7 +6580,7 @@
           "cited_by_count": 1
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.798Z",
+      "lastUpdated": "2026-08-01T05:33:08.137Z",
       "display_name": "On the Role of AI in Building Generative Urban Intelligence",
       "publication_year": 2025,
       "publication_date": "2025-07-24",
@@ -7068,9 +7064,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.49000000953674316,
           "display_name": "Sustainable cities and communities",
-          "score": 0.49000000953674316
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [
@@ -7161,7 +7157,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-28T08:01:55.173337",
+      "updated_date": "2026-07-14T23:27:15.235271",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7271,7 +7267,7 @@
       "language": "pt",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-07-01T06:39:58.799Z",
+      "lastUpdated": "2026-08-01T05:33:08.137Z",
       "display_name": "Posicionamento de sensores para monitoramento colaborativo de emergências urbanas",
       "publication_year": 2025,
       "publication_date": "2025-06-02",
@@ -7293,7 +7289,7 @@
         "raw_source_name": "Anais do XX Simpósio Brasileiro de Sistemas Colaborativos (SBSC 2025)",
         "raw_type": "proceedings-article"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -7373,7 +7369,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -7382,7 +7378,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.16717641,
+        "value": 0.19972857,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7712,7 +7708,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7750,7 +7746,7 @@
       "date": "2025-04-29",
       "doi": "https://doi.org/10.3390/smartcities8030077",
       "url": "https://doi.org/10.3390/smartcities8030077",
-      "citations": 11,
+      "citations": 13,
       "isOpenAccess": true,
       "oaUrl": "https://www.mdpi.com/2624-6511/8/3/77/pdf?version=1745908429",
       "volume": "8",
@@ -7860,14 +7856,14 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 5
         },
         {
           "year": 2025,
           "cited_by_count": 8
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.799Z",
+      "lastUpdated": "2026-08-01T05:33:08.137Z",
       "display_name": "The Road to Intelligent Cities",
       "publication_year": 2025,
       "publication_date": "2025-04-29",
@@ -8099,18 +8095,18 @@
       "apc_list": {
         "value": 1400,
         "currency": "CHF",
-        "value_usd": 1515
+        "value_usd": 1559
       },
       "apc_paid": {
         "value": 1400,
         "currency": "CHF",
-        "value_usd": 1515
+        "value_usd": 1559
       },
-      "fwci": 10.0235,
+      "fwci": 7.0453,
       "has_fulltext": false,
-      "cited_by_count": 11,
+      "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.98139319,
+        "value": 0.97320031,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8296,7 +8292,7 @@
         },
         {
           "id": "https://openalex.org/G7459556246",
-          "display_name": null,
+          "display_name": "Spatiotemporal Data-Driven Emergency Detection Unit Positioning and Reconfiguration Methodologies for Context-Aware Urban Emergency Management Systems",
           "funder_award_id": "2024.02446.BD",
           "funder_id": "https://openalex.org/F4320334779",
           "funder_display_name": "Fundação para a Ciência e a Tecnologia"
@@ -8944,14 +8940,14 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 5
         },
         {
           "year": 2025,
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-05-28T09:10:13.091523",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9054,12 +9050,12 @@
           }
         }
       ],
-      "abstract": "How can museums enact a profoundly participatory exchange with Indigenous peoples as partners rather than subjects? The Xingu, one of the world’s most ethnically and linguistically diverse Indigenous territories, stands as the largest remaining island of tropical forest in the Brazilian Amazon’s deforestation arc. In September 2018, an expedition found the ancient rock art panels of the Kamukuwaká cave, the most important cultural heritage site for the Upper Xingu communities, systematically des...",
+      "abstract": "How can museums enact a profoundly participatory exchange with Indigenous peoples as partners rather than subjects ? The Xingu, one of the world’s most ethnically and linguistically diverse Indigenous territories, stands as the largest remaining island of tropical forest in the Brazilian Amazon’s deforestation arc. In September 2018, an expedition found the ancient rock art panels of the Kamukuwaká cave, the most important cultural heritage site for the Upper Xingu communities, systematically de...",
       "venue": null,
       "language": "en",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-07-01T06:39:58.799Z",
+      "lastUpdated": "2026-08-01T05:33:08.137Z",
       "display_name": "The Sacred Cave of Kamukuwaká",
       "publication_year": 2025,
       "publication_date": "2025-01-07",
@@ -9110,7 +9106,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5011761859"
       ],
@@ -9121,7 +9117,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.01268054,
+        "value": 0.01185533,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9285,10 +9281,10 @@
         ],
         "a": [
           4,
-          77,
-          113,
-          123,
-          140
+          78,
+          114,
+          124,
+          141
         ],
         "profoundly": [
           5
@@ -9301,21 +9297,21 @@
         ],
         "with": [
           8,
-          82,
-          116,
-          172
+          83,
+          117,
+          173
         ],
         "Indigenous": [
           9,
-          27,
-          173
+          28,
+          174
         ],
         "peoples": [
           10
         ],
         "as": [
           11,
-          30
+          31
         ],
         "partners": [
           12
@@ -9326,434 +9322,437 @@
         "than": [
           14
         ],
-        "subjects?": [
+        "subjects": [
           15
         ],
+        "?": [
+          16
+        ],
         "The": [
-          16,
-          92,
-          159
-        ],
-        "Xingu,": [
-          17
-        ],
-        "one": [
-          18
-        ],
-        "of": [
-          19,
-          35,
-          55,
-          79,
-          88,
-          101,
-          107,
-          126,
-          135,
-          143,
-          162,
-          182,
-          197
-        ],
-        "the": [
-          20,
-          31,
-          39,
-          50,
-          56,
-          59,
-          66,
-          86,
-          89,
-          98,
-          109,
-          133,
-          144,
-          163,
-          180,
-          194
-        ],
-        "world’s": [
-          21
-        ],
-        "most": [
-          22,
-          60
-        ],
-        "ethnically": [
-          23
-        ],
-        "and": [
-          24,
-          119,
-          147,
-          188,
-          193
-        ],
-        "linguistically": [
-          25
-        ],
-        "diverse": [
-          26
-        ],
-        "territories,": [
-          28
-        ],
-        "stands": [
-          29
-        ],
-        "largest": [
-          32
-        ],
-        "remaining": [
-          33
-        ],
-        "island": [
-          34
-        ],
-        "tropical": [
-          36
-        ],
-        "forest": [
-          37
-        ],
-        "in": [
-          38,
-          85,
-          156,
-          185
-        ],
-        "Brazilian": [
-          40
-        ],
-        "Amazon’s": [
-          41
-        ],
-        "deforestation": [
-          42
-        ],
-        "arc.": [
-          43
-        ],
-        "In": [
-          44,
-          104
-        ],
-        "September": [
-          45
-        ],
-        "2018,": [
-          46
-        ],
-        "an": [
-          47,
-          73,
-          95,
-          105,
-          148
-        ],
-        "expedition": [
-          48
-        ],
-        "found": [
-          49
-        ],
-        "ancient": [
-          51
-        ],
-        "rock": [
-          52
-        ],
-        "art": [
-          53
-        ],
-        "panels": [
-          54
-        ],
-        "Kamukuwaká": [
-          57,
-          164
-        ],
-        "cave,": [
-          58
-        ],
-        "important": [
-          61
-        ],
-        "cultural": [
-          62,
-          99,
-          183
-        ],
-        "heritage": [
-          63
-        ],
-        "site": [
-          64
-        ],
-        "for": [
-          65,
-          153
-        ],
-        "Upper": [
-          67
-        ],
-        "Xingu": [
-          68
-        ],
-        "communities,": [
-          69
-        ],
-        "systematically": [
-          70
-        ],
-        "destroyed": [
-          71
-        ],
-        "by": [
-          72
-        ],
-        "unknown": [
-          74
-        ],
-        "assailant": [
-          75
-        ],
-        "at": [
-          76
-        ],
-        "time": [
-          78
-        ],
-        "heightened": [
-          80
-        ],
-        "tensions": [
-          81
-        ],
-        "farming": [
-          83
-        ],
-        "communities": [
-          84
-        ],
-        "borders": [
-          87
-        ],
-        "protected": [
-          90
-        ],
-        "area.": [
-          91
-        ],
-        "vandalism": [
-          93
-        ],
-        "was": [
-          94
-        ],
-        "attack": [
-          96
-        ],
-        "on": [
-          97,
-          179
-        ],
-        "integrity": [
-          100
-        ],
-        "these": [
-          102
-        ],
-        "communities.": [
-          103,
-          174
-        ],
-        "act": [
-          106
-        ],
-        "resistance,": [
-          108
-        ],
-        "Wauja": [
-          110
-        ],
-        "people": [
-          111,
-          187
-        ],
-        "led": [
-          112
-        ],
-        "cross-cultural": [
-          114
-        ],
-        "collaboration": [
-          115
-        ],
-        "scholars,": [
-          117
-        ],
-        "artists,": [
-          118
-        ],
-        "technologists": [
-          120
-        ],
-        "to": [
-          121
-        ],
-        "undertake": [
-          122
-        ],
-        "3D": [
-          124
-        ],
-        "restoration": [
-          125
-        ],
-        "their": [
-          127,
-          136
-        ],
-        "mythological": [
-          128
-        ],
-        "engravings.": [
-          129
-        ],
-        "This": [
-          130
-        ],
-        "effort": [
-          131
-        ],
-        "enabled": [
-          132
-        ],
-        "preservation": [
-          134
-        ],
-        "collective": [
-          137
-        ],
-        "memory": [
-          138
-        ],
-        "through": [
-          139
-        ],
-        "1:1": [
-          141
-        ],
-        "facsimile": [
-          142
-        ],
-        "restored": [
-          145
-        ],
-        "cave": [
-          146
-        ],
-        "educational": [
-          149
-        ],
-        "virtual": [
-          150
-        ],
-        "reality": [
-          151
-        ],
-        "experience": [
-          152
-        ],
-        "younger": [
-          154
-        ],
-        "generations": [
-          155
-        ],
-        "local": [
-          157
-        ],
-        "schools.": [
-          158
-        ],
-        "collaborative": [
+          17,
+          93,
           160
         ],
-        "resurrection": [
-          161
+        "Xingu,": [
+          18
         ],
-        "offers": [
-          165
+        "one": [
+          19
         ],
-        "museum": [
-          166
-        ],
-        "practitioners": [
-          167
-        ],
-        "insights": [
-          168
-        ],
-        "into": [
-          169
-        ],
-        "establishing": [
-          170
-        ],
-        "partnerships": [
-          171
-        ],
-        "Furthermore,": [
-          175
-        ],
-        "it": [
-          176
-        ],
-        "sheds": [
-          177
-        ],
-        "light": [
-          178
-        ],
-        "importance": [
-          181
-        ],
-        "practices": [
-          184
-        ],
-        "protecting": [
-          186
-        ],
-        "places": [
-          189
-        ],
-        "from": [
-          190
-        ],
-        "climate": [
-          191
-        ],
-        "change": [
-          192
-        ],
-        "destructive": [
-          195
-        ],
-        "impacts": [
-          196
-        ],
-        "human": [
+        "of": [
+          20,
+          36,
+          56,
+          80,
+          89,
+          102,
+          108,
+          127,
+          136,
+          144,
+          163,
+          183,
           198
         ],
-        "activities.": [
+        "the": [
+          21,
+          32,
+          40,
+          51,
+          57,
+          60,
+          67,
+          87,
+          90,
+          99,
+          110,
+          134,
+          145,
+          164,
+          181,
+          195
+        ],
+        "world’s": [
+          22
+        ],
+        "most": [
+          23,
+          61
+        ],
+        "ethnically": [
+          24
+        ],
+        "and": [
+          25,
+          120,
+          148,
+          189,
+          194
+        ],
+        "linguistically": [
+          26
+        ],
+        "diverse": [
+          27
+        ],
+        "territories,": [
+          29
+        ],
+        "stands": [
+          30
+        ],
+        "largest": [
+          33
+        ],
+        "remaining": [
+          34
+        ],
+        "island": [
+          35
+        ],
+        "tropical": [
+          37
+        ],
+        "forest": [
+          38
+        ],
+        "in": [
+          39,
+          86,
+          157,
+          186
+        ],
+        "Brazilian": [
+          41
+        ],
+        "Amazon’s": [
+          42
+        ],
+        "deforestation": [
+          43
+        ],
+        "arc.": [
+          44
+        ],
+        "In": [
+          45,
+          105
+        ],
+        "September": [
+          46
+        ],
+        "2018,": [
+          47
+        ],
+        "an": [
+          48,
+          74,
+          96,
+          106,
+          149
+        ],
+        "expedition": [
+          49
+        ],
+        "found": [
+          50
+        ],
+        "ancient": [
+          52
+        ],
+        "rock": [
+          53
+        ],
+        "art": [
+          54
+        ],
+        "panels": [
+          55
+        ],
+        "Kamukuwaká": [
+          58,
+          165
+        ],
+        "cave,": [
+          59
+        ],
+        "important": [
+          62
+        ],
+        "cultural": [
+          63,
+          100,
+          184
+        ],
+        "heritage": [
+          64
+        ],
+        "site": [
+          65
+        ],
+        "for": [
+          66,
+          154
+        ],
+        "Upper": [
+          68
+        ],
+        "Xingu": [
+          69
+        ],
+        "communities,": [
+          70
+        ],
+        "systematically": [
+          71
+        ],
+        "destroyed": [
+          72
+        ],
+        "by": [
+          73
+        ],
+        "unknown": [
+          75
+        ],
+        "assailant": [
+          76
+        ],
+        "at": [
+          77
+        ],
+        "time": [
+          79
+        ],
+        "heightened": [
+          81
+        ],
+        "tensions": [
+          82
+        ],
+        "farming": [
+          84
+        ],
+        "communities": [
+          85
+        ],
+        "borders": [
+          88
+        ],
+        "protected": [
+          91
+        ],
+        "area.": [
+          92
+        ],
+        "vandalism": [
+          94
+        ],
+        "was": [
+          95
+        ],
+        "attack": [
+          97
+        ],
+        "on": [
+          98,
+          180
+        ],
+        "integrity": [
+          101
+        ],
+        "these": [
+          103
+        ],
+        "communities.": [
+          104,
+          175
+        ],
+        "act": [
+          107
+        ],
+        "resistance,": [
+          109
+        ],
+        "Wauja": [
+          111
+        ],
+        "people": [
+          112,
+          188
+        ],
+        "led": [
+          113
+        ],
+        "cross-cultural": [
+          115
+        ],
+        "collaboration": [
+          116
+        ],
+        "scholars,": [
+          118
+        ],
+        "artists,": [
+          119
+        ],
+        "technologists": [
+          121
+        ],
+        "to": [
+          122
+        ],
+        "undertake": [
+          123
+        ],
+        "3D": [
+          125
+        ],
+        "restoration": [
+          126
+        ],
+        "their": [
+          128,
+          137
+        ],
+        "mythological": [
+          129
+        ],
+        "engravings.": [
+          130
+        ],
+        "This": [
+          131
+        ],
+        "effort": [
+          132
+        ],
+        "enabled": [
+          133
+        ],
+        "preservation": [
+          135
+        ],
+        "collective": [
+          138
+        ],
+        "memory": [
+          139
+        ],
+        "through": [
+          140
+        ],
+        "1:1": [
+          142
+        ],
+        "facsimile": [
+          143
+        ],
+        "restored": [
+          146
+        ],
+        "cave": [
+          147
+        ],
+        "educational": [
+          150
+        ],
+        "virtual": [
+          151
+        ],
+        "reality": [
+          152
+        ],
+        "experience": [
+          153
+        ],
+        "younger": [
+          155
+        ],
+        "generations": [
+          156
+        ],
+        "local": [
+          158
+        ],
+        "schools.": [
+          159
+        ],
+        "collaborative": [
+          161
+        ],
+        "resurrection": [
+          162
+        ],
+        "offers": [
+          166
+        ],
+        "museum": [
+          167
+        ],
+        "practitioners": [
+          168
+        ],
+        "insights": [
+          169
+        ],
+        "into": [
+          170
+        ],
+        "establishing": [
+          171
+        ],
+        "partnerships": [
+          172
+        ],
+        "Furthermore,": [
+          176
+        ],
+        "it": [
+          177
+        ],
+        "sheds": [
+          178
+        ],
+        "light": [
+          179
+        ],
+        "importance": [
+          182
+        ],
+        "practices": [
+          185
+        ],
+        "protecting": [
+          187
+        ],
+        "places": [
+          190
+        ],
+        "from": [
+          191
+        ],
+        "climate": [
+          192
+        ],
+        "change": [
+          193
+        ],
+        "destructive": [
+          196
+        ],
+        "impacts": [
+          197
+        ],
+        "human": [
           199
+        ],
+        "activities.": [
+          200
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-05T08:41:31.759640",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9915,7 +9914,7 @@
       "language": null,
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-07-01T06:39:58.799Z",
+      "lastUpdated": "2026-08-01T05:33:08.137Z",
       "display_name": "Detectability of urban emergencies using hierarchical networks in smart cities",
       "publication_year": 2024,
       "publication_date": "2024-10-18",
@@ -9952,7 +9951,7 @@
         "raw_source_name": "Proceedings do Congresso Brasileiro de Automática",
         "raw_type": "proceedings-article"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -10125,7 +10124,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.59813084,
+        "value": 0.52800954,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10663,7 +10662,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-26T08:34:08.712188",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-12-04T00:00:00"
     },
     {
@@ -10857,7 +10856,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.800Z",
+      "lastUpdated": "2026-08-01T05:33:08.138Z",
       "display_name": "Reliability and Detectability of Emergency Management Systems in Smart Cities under Common Cause Failures",
       "publication_year": 2024,
       "publication_date": "2024-05-06",
@@ -11075,7 +11074,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5091913710"
       ],
@@ -11085,24 +11084,24 @@
       "apc_list": {
         "value": 2400,
         "currency": "CHF",
-        "value_usd": 2598
+        "value_usd": 2673
       },
       "apc_paid": {
         "value": 2400,
         "currency": "CHF",
-        "value_usd": 2598
+        "value_usd": 2673
       },
-      "fwci": 1.3564,
+      "fwci": 1.0896,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.77398583,
+        "value": 0.7184613,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 94,
-        "max": 98
+        "max": 97
       },
       "biblio": {
         "volume": "24",
@@ -11401,9 +11400,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.7400000095367432,
           "display_name": "Sustainable cities and communities",
-          "score": 0.7400000095367432
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [
@@ -11856,7 +11855,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-22T08:00:12.763002",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11993,7 +11992,7 @@
       "language": "pt",
       "isRetracted": false,
       "citationsPerYear": [],
-      "lastUpdated": "2026-07-01T06:39:58.800Z",
+      "lastUpdated": "2026-08-01T05:33:08.138Z",
       "display_name": "Plataforma de Crowdsourcing Internet of Things (Crowd-IoT) para detecção de emergências urbanas",
       "publication_year": 2024,
       "publication_date": "2024-04-26",
@@ -12015,7 +12014,7 @@
         "raw_source_name": "Anais Estendidos do XIX Simpósio Brasileiro de Sistemas Colaborativos (SBSC Estendido 2024)",
         "raw_type": "proceedings-article"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -12214,7 +12213,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -12223,7 +12222,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.05302849,
+        "value": 0.0888184,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12603,7 +12602,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12647,7 +12646,7 @@
       "date": "2024-01-11",
       "doi": "https://doi.org/10.3390/su16020640",
       "url": "https://doi.org/10.3390/su16020640",
-      "citations": 75,
+      "citations": 76,
       "isOpenAccess": true,
       "oaUrl": "https://www.mdpi.com/2071-1050/16/2/640/pdf?version=1704965720",
       "volume": "16",
@@ -12802,7 +12801,7 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 20
+          "cited_by_count": 21
         },
         {
           "year": 2025,
@@ -12813,7 +12812,7 @@
           "cited_by_count": 19
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.800Z",
+      "lastUpdated": "2026-08-01T05:33:08.138Z",
       "display_name": "Achieving Sustainable Smart Cities through Geospatial Data-Driven Approaches",
       "publication_year": 2024,
       "publication_date": "2024-01-11",
@@ -13098,18 +13097,18 @@
       "apc_list": {
         "value": 2200,
         "currency": "CHF",
-        "value_usd": 2382
+        "value_usd": 2450
       },
       "apc_paid": {
         "value": 2200,
         "currency": "CHF",
-        "value_usd": 2382
+        "value_usd": 2450
       },
-      "fwci": 43.9115,
+      "fwci": 39.835,
       "has_fulltext": true,
-      "cited_by_count": 75,
+      "cited_by_count": 76,
       "citation_normalized_percentile": {
-        "value": 0.99922484,
+        "value": 0.99916158,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -13394,9 +13393,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.46000000834465027,
           "display_name": "Sustainable cities and communities",
-          "score": 0.46000000834465027
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -14022,7 +14021,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 20
+          "cited_by_count": 21
         },
         {
           "year": 2025,
@@ -14033,7 +14032,7 @@
           "cited_by_count": 19
         }
       ],
-      "updated_date": "2026-06-24T13:16:06.693445",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14177,7 +14176,7 @@
           "cited_by_count": 3
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.800Z",
+      "lastUpdated": "2026-08-01T05:33:08.138Z",
       "display_name": "Urban emergency detection system using hierarchical, collaborative and configurable wireless sensor networks",
       "publication_year": 2023,
       "publication_date": "2023-11-21",
@@ -14199,7 +14198,7 @@
         "raw_source_name": "2023 XIII Brazilian Symposium on Computing Systems Engineering (SBESC)",
         "raw_type": "proceedings-article"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -14342,15 +14341,15 @@
             {
               "raw_affiliation_string": "University of Porto,INEGI, Faculty of Engineering,Portugal",
               "institution_ids": [
-                "https://openalex.org/I4210121509",
-                "https://openalex.org/I182534213"
+                "https://openalex.org/I182534213",
+                "https://openalex.org/I4210121509"
               ]
             },
             {
               "raw_affiliation_string": "INEGI, Faculty of Engineering, University of Porto, Portugal",
               "institution_ids": [
-                "https://openalex.org/I4210121509",
-                "https://openalex.org/I182534213"
+                "https://openalex.org/I182534213",
+                "https://openalex.org/I4210121509"
               ]
             }
           ]
@@ -14363,13 +14362,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5681,
+      "fwci": 3.1208,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.63820908,
+        "value": 0.92979963,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 95,
@@ -14487,9 +14486,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.7799999713897705,
           "display_name": "Sustainable cities and communities",
-          "score": 0.7799999713897705
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -15008,7 +15007,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15234,7 +15233,7 @@
           "cited_by_count": 1
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.801Z",
+      "lastUpdated": "2026-08-01T05:33:08.138Z",
       "display_name": "Exploiting geospatial data of connectivity and urban infrastructure for efficient positioning of emergency detection units in smart cities",
       "publication_year": 2023,
       "publication_date": "2023-11-20",
@@ -15296,16 +15295,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I21606457",
-              "display_name": "Universidade Estadual de Feira de Santana",
-              "ror": "https://ror.org/04ygk5j35",
-              "country_code": "BR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I21606457"
-              ]
-            },
-            {
               "id": "https://openalex.org/I130913789",
               "display_name": "Instituto Federal da Bahia",
               "ror": "https://ror.org/01tzdej37",
@@ -15313,6 +15302,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I130913789"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I21606457",
+              "display_name": "Universidade Estadual de Feira de Santana",
+              "ror": "https://ror.org/04ygk5j35",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I21606457"
               ]
             }
           ],
@@ -15350,16 +15349,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I182534213",
-              "display_name": "Universidade do Porto",
-              "ror": "https://ror.org/043pwc612",
-              "country_code": "PT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I182534213"
-              ]
-            },
-            {
               "id": "https://openalex.org/I129192303",
               "display_name": "Universidade Federal do Recôncavo da Bahia",
               "ror": "https://ror.org/057mvv518",
@@ -15367,6 +15356,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I129192303"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I182534213",
+              "display_name": "Universidade do Porto",
+              "ror": "https://ror.org/043pwc612",
+              "country_code": "PT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I182534213"
               ]
             }
           ],
@@ -15571,7 +15570,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 6,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [
         "https://openalex.org/A5068969835"
       ],
@@ -15589,17 +15588,17 @@
         "currency": "USD",
         "value_usd": 3740
       },
-      "fwci": 9.2776,
+      "fwci": 8.221,
       "has_fulltext": false,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.97790759,
+        "value": 0.97415219,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 90,
-        "max": 100
+        "min": 89,
+        "max": 99
       },
       "biblio": {
         "volume": "107",
@@ -15822,9 +15821,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.6800000071525574,
           "display_name": "Sustainable cities and communities",
-          "score": 0.6800000071525574
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [
@@ -16640,7 +16639,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-24T13:16:06.693445",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16760,7 +16759,7 @@
           "cited_by_count": 5
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.801Z",
+      "lastUpdated": "2026-08-01T05:33:08.139Z",
       "display_name": "A Secure OTA Approach For Flexible Operation of Emergency Detection Units in Smart Cities",
       "publication_year": 2023,
       "publication_date": "2023-09-24",
@@ -16782,7 +16781,7 @@
         "raw_source_name": "2023 IEEE International Smart Cities Conference (ISC2)",
         "raw_type": "proceedings-article"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -16939,11 +16938,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9483,
+      "fwci": 1.8141,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.77256062,
+        "value": 0.85744596,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17021,9 +17020,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.47999998927116394,
           "display_name": "Sustainable cities and communities",
-          "score": 0.47999998927116394
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -17608,7 +17607,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17815,7 +17814,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.801Z",
+      "lastUpdated": "2026-08-01T05:33:08.139Z",
       "display_name": "Dependability and Quality-Aware Connectivity in Smart Cities Applications",
       "publication_year": 2023,
       "publication_date": "2023-09-24",
@@ -17837,7 +17836,7 @@
         "raw_source_name": "2023 IEEE International Smart Cities Conference (ISC2)",
         "raw_type": "proceedings-article"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -17936,15 +17935,15 @@
             {
               "raw_affiliation_string": "University of Porto,INEGI, Faculty of Engineering,Portugal",
               "institution_ids": [
-                "https://openalex.org/I4210121509",
-                "https://openalex.org/I182534213"
+                "https://openalex.org/I182534213",
+                "https://openalex.org/I4210121509"
               ]
             },
             {
               "raw_affiliation_string": "INEGI, Faculty of Engineering, University of Porto, Portugal",
               "institution_ids": [
-                "https://openalex.org/I4210121509",
-                "https://openalex.org/I182534213"
+                "https://openalex.org/I182534213",
+                "https://openalex.org/I4210121509"
               ]
             }
           ]
@@ -18050,15 +18049,15 @@
             {
               "raw_affiliation_string": "University of Porto,INEGI, Faculty of Engineering,Portugal",
               "institution_ids": [
-                "https://openalex.org/I4210121509",
-                "https://openalex.org/I182534213"
+                "https://openalex.org/I182534213",
+                "https://openalex.org/I4210121509"
               ]
             },
             {
               "raw_affiliation_string": "INEGI, Faculty of Engineering, University of Porto, Portugal",
               "institution_ids": [
-                "https://openalex.org/I4210121509",
-                "https://openalex.org/I182534213"
+                "https://openalex.org/I182534213",
+                "https://openalex.org/I4210121509"
               ]
             }
           ]
@@ -18110,16 +18109,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3793,
+      "fwci": 0.7256,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.62412231,
+        "value": 0.65380365,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18393,9 +18392,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.4300000071525574,
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.4300000071525574
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -18885,7 +18884,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19044,7 +19043,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.801Z",
+      "lastUpdated": "2026-08-01T05:33:08.139Z",
       "display_name": "A Framework for the Development of Reconfigurable Sensors-based Emergencies Detection Units in Smart Cities",
       "publication_year": 2022,
       "publication_date": "2022-09-26",
@@ -19079,7 +19078,7 @@
         "raw_source_name": "2022 IEEE International Smart Cities Conference (ISC2)",
         "raw_type": "proceedings-article"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -19243,11 +19242,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4283,
+      "fwci": 0.5392,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.48838174,
+        "value": 0.57190209,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19401,9 +19400,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.4300000071525574,
           "display_name": "Sustainable cities and communities",
-          "score": 0.4300000071525574
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -19747,7 +19746,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19936,7 +19935,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.801Z",
+      "lastUpdated": "2026-08-01T05:33:08.139Z",
       "display_name": "A dependability-aware approach for dynamic mobile sink repositioning in smart cities applications",
       "publication_year": 2022,
       "publication_date": "2022-09-26",
@@ -19971,7 +19970,7 @@
         "raw_source_name": "2022 IEEE International Smart Cities Conference (ISC2)",
         "raw_type": "proceedings-article"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -20205,11 +20204,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6425,
+      "fwci": 0.8088,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.59405256,
+        "value": 0.66695563,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20391,9 +20390,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8899999856948853,
           "display_name": "Affordable and clean energy",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -20857,7 +20856,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21104,7 +21103,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.801Z",
+      "lastUpdated": "2026-08-01T05:33:08.139Z",
       "display_name": "A Survey on Monitoring Quality Assessment for Wireless Visual Sensor Networks",
       "publication_year": 2022,
       "publication_date": "2022-07-19",
@@ -21373,20 +21372,20 @@
         "https://openalex.org/I4210121509"
       ],
       "apc_list": {
-        "value": 1400,
+        "value": 1600,
         "currency": "CHF",
-        "value_usd": 1515
+        "value_usd": 1782
       },
       "apc_paid": {
-        "value": 1400,
+        "value": 1600,
         "currency": "CHF",
-        "value_usd": 1515
+        "value_usd": 1782
       },
-      "fwci": 1.9944,
+      "fwci": 1.591,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.86772299,
+        "value": 0.82865776,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22421,7 +22420,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-07-30T17:31:21.811387",
       "created_date": "2022-07-21T00:00:00"
     },
     {
@@ -22477,7 +22476,7 @@
       "date": "2022-01-01",
       "doi": "https://doi.org/10.1109/access.2022.3180033",
       "url": "https://doi.org/10.1109/access.2022.3180033",
-      "citations": 106,
+      "citations": 110,
       "isOpenAccess": true,
       "oaUrl": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09787492.pdf",
       "volume": "10",
@@ -22587,7 +22586,7 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 12
+          "cited_by_count": 17
         },
         {
           "year": 2025,
@@ -22606,7 +22605,7 @@
           "cited_by_count": 7
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.801Z",
+      "lastUpdated": "2026-08-01T05:33:08.139Z",
       "display_name": "A Survey of Emergencies Management Systems in Smart Cities",
       "publication_year": 2022,
       "publication_date": "2022-01-01",
@@ -22965,7 +22964,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 7,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -22978,11 +22977,11 @@
         "currency": "USD",
         "value_usd": 1850
       },
-      "fwci": 23.953,
+      "fwci": 22.3438,
       "has_fulltext": true,
-      "cited_by_count": 106,
+      "cited_by_count": 110,
       "citation_normalized_percentile": {
-        "value": 0.99740884,
+        "value": 0.99744246,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -23152,9 +23151,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.7200000286102295,
           "display_name": "Sustainable cities and communities",
-          "score": 0.7200000286102295
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [
@@ -23944,7 +23943,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 12
+          "cited_by_count": 17
         },
         {
           "year": 2025,
@@ -23963,7 +23962,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-06-22T08:00:12.763002",
+      "updated_date": "2026-07-30T17:31:21.811387",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24185,7 +24184,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.801Z",
+      "lastUpdated": "2026-08-01T05:33:08.139Z",
       "display_name": "A Comprehensive Dependability Model for QoM-Aware Industrial WSN When Performing Visual Area Coverage in Occluded Scenarios",
       "publication_year": 2020,
       "publication_date": "2020-11-16",
@@ -24313,8 +24312,8 @@
             {
               "raw_affiliation_string": "INEGI/INESC-TEC—Faculty of Engineering, University of Porto (FEUP), 4200-465 Porto, Portugal",
               "institution_ids": [
-                "https://openalex.org/I4210121509",
                 "https://openalex.org/I182534213",
+                "https://openalex.org/I4210121509",
                 "https://openalex.org/I4210166615"
               ]
             }
@@ -24374,8 +24373,8 @@
             {
               "raw_affiliation_string": "INEGI/INESC-TEC—Faculty of Engineering, University of Porto (FEUP), 4200-465 Porto, Portugal",
               "institution_ids": [
-                "https://openalex.org/I4210121509",
                 "https://openalex.org/I182534213",
+                "https://openalex.org/I4210121509",
                 "https://openalex.org/I4210166615"
               ]
             }
@@ -24472,8 +24471,8 @@
             {
               "raw_affiliation_string": "INEGI/INESC-TEC—Faculty of Engineering, University of Porto (FEUP), 4200-465 Porto, Portugal",
               "institution_ids": [
-                "https://openalex.org/I4210121509",
                 "https://openalex.org/I182534213",
+                "https://openalex.org/I4210121509",
                 "https://openalex.org/I4210166615"
               ]
             }
@@ -24495,18 +24494,18 @@
       "apc_list": {
         "value": 2400,
         "currency": "CHF",
-        "value_usd": 2598
+        "value_usd": 2673
       },
       "apc_paid": {
         "value": 2400,
         "currency": "CHF",
-        "value_usd": 2598
+        "value_usd": 2673
       },
-      "fwci": 1.1338,
+      "fwci": 0.9394,
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.80837272,
+        "value": 0.7817622,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24875,9 +24874,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.5799999833106995,
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.5799999833106995
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [
@@ -25331,7 +25330,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25557,7 +25556,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.801Z",
+      "lastUpdated": "2026-08-01T05:33:08.139Z",
       "display_name": "FoV-Based Quality Assessment and Optimization for Area Coverage in Wireless Visual Sensor Networks",
       "publication_year": 2020,
       "publication_date": "2020-01-01",
@@ -25683,8 +25682,8 @@
             {
               "raw_affiliation_string": "Faculty of Engineering, INEGI/INESC-TEC, University of Porto, Porto, Portugal",
               "institution_ids": [
-                "https://openalex.org/I4210121509",
                 "https://openalex.org/I182534213",
+                "https://openalex.org/I4210121509",
                 "https://openalex.org/I4210166615"
               ]
             }
@@ -25781,8 +25780,8 @@
             {
               "raw_affiliation_string": "Faculty of Engineering, INEGI/INESC-TEC, University of Porto, Porto, Portugal",
               "institution_ids": [
-                "https://openalex.org/I4210121509",
                 "https://openalex.org/I182534213",
+                "https://openalex.org/I4210121509",
                 "https://openalex.org/I4210166615"
               ]
             }
@@ -25842,8 +25841,8 @@
             {
               "raw_affiliation_string": "Faculty of Engineering, INEGI/INESC-TEC, University of Porto, Porto, Portugal",
               "institution_ids": [
-                "https://openalex.org/I4210121509",
                 "https://openalex.org/I182534213",
+                "https://openalex.org/I4210121509",
                 "https://openalex.org/I4210166615"
               ]
             }
@@ -25865,16 +25864,16 @@
         "currency": "USD",
         "value_usd": 1850
       },
-      "fwci": 0.4895,
+      "fwci": 0.4808,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.65528711,
+        "value": 0.62205991,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 98
       },
       "biblio": {
@@ -26151,9 +26150,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.5299999713897705,
           "display_name": "Sustainable cities and communities",
-          "score": 0.5299999713897705
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [
@@ -26780,7 +26779,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27002,7 +27001,7 @@
           "cited_by_count": 4
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.801Z",
+      "lastUpdated": "2026-08-01T05:33:08.139Z",
       "display_name": "Modelling Coverage Failures Caused by Mobile Obstacles for the Selection of Faultless Visual Nodes in Wireless Sensor Networks",
       "publication_year": 2020,
       "publication_date": "2020-01-01",
@@ -27264,8 +27263,8 @@
             {
               "raw_affiliation_string": "Instituto de Telecomunicações (IT), University of Porto, Porto, Portugal",
               "institution_ids": [
-                "https://openalex.org/I4210120471",
-                "https://openalex.org/I182534213"
+                "https://openalex.org/I182534213",
+                "https://openalex.org/I4210120471"
               ]
             }
           ]
@@ -27286,17 +27285,17 @@
         "currency": "USD",
         "value_usd": 1850
       },
-      "fwci": 1.7753,
+      "fwci": 1.4758,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.85649353,
+        "value": 0.82993743,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 90,
-        "max": 98
+        "max": 97
       },
       "biblio": {
         "volume": "8",
@@ -27565,9 +27564,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8999999761581421,
           "display_name": "Affordable and clean energy",
-          "score": 0.8999999761581421
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [
@@ -28364,7 +28363,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-06-30T13:55:48.251075",
+      "updated_date": "2026-07-31T08:31:51.225901",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28542,7 +28541,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.801Z",
+      "lastUpdated": "2026-08-01T05:33:08.139Z",
       "display_name": "An Availability Metric and Optimization Algorithms for Simultaneous Coverage of Targets and Areas by Wireless Visual Sensor Networks",
       "publication_year": 2019,
       "publication_date": "2019-07-01",
@@ -28565,7 +28564,7 @@
         "raw_source_name": "2019 IEEE 17th International Conference on Industrial Informatics (INDIN)",
         "raw_type": "proceedings-article"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -28755,21 +28754,21 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5579,
+      "fwci": 0.7211,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.72199891,
+        "value": 0.66703437,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 97
       },
       "biblio": {
@@ -28905,9 +28904,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.5600000023841858,
           "display_name": "Sustainable cities and communities",
-          "score": 0.5600000023841858
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -29381,7 +29380,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29571,7 +29570,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.801Z",
+      "lastUpdated": "2026-08-01T05:33:08.139Z",
       "display_name": "Wireless visual sensor networks redeployment based on dependability optimization",
       "publication_year": 2019,
       "publication_date": "2019-07-01",
@@ -29594,7 +29593,7 @@
         "raw_source_name": "2019 IEEE 17th International Conference on Industrial Informatics (INDIN)",
         "raw_type": "proceedings-article"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -29758,17 +29757,17 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2919,
+      "fwci": 1.5178,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.89746522,
+        "value": 0.86761711,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
-        "max": 98
+        "min": 89,
+        "max": 97
       },
       "biblio": {
         "volume": null,
@@ -29938,9 +29937,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.5899999737739563,
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.5899999737739563
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -30473,7 +30472,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30692,7 +30691,7 @@
           "cited_by_count": 4
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.801Z",
+      "lastUpdated": "2026-08-01T05:33:08.139Z",
       "display_name": "Automated Methodology for Dependability Evaluation of Wireless Visual Sensor Networks",
       "publication_year": 2018,
       "publication_date": "2018-08-10",
@@ -30820,8 +30819,8 @@
             {
               "raw_affiliation_string": "INEGI/INESC-TEC—Faculty of Engineering, University of Porto (FEUP), 4200-465 Porto, Portugal",
               "institution_ids": [
-                "https://openalex.org/I4210121509",
                 "https://openalex.org/I182534213",
+                "https://openalex.org/I4210121509",
                 "https://openalex.org/I4210166615"
               ]
             }
@@ -30881,8 +30880,8 @@
             {
               "raw_affiliation_string": "INEGI/INESC-TEC—Faculty of Engineering, University of Porto (FEUP), 4200-465 Porto, Portugal",
               "institution_ids": [
-                "https://openalex.org/I4210121509",
                 "https://openalex.org/I182534213",
+                "https://openalex.org/I4210121509",
                 "https://openalex.org/I4210166615"
               ]
             }
@@ -30942,8 +30941,8 @@
             {
               "raw_affiliation_string": "INEGI/INESC-TEC—Faculty of Engineering, University of Porto (FEUP), 4200-465 Porto, Portugal",
               "institution_ids": [
-                "https://openalex.org/I4210121509",
                 "https://openalex.org/I182534213",
+                "https://openalex.org/I4210121509",
                 "https://openalex.org/I4210166615"
               ]
             }
@@ -31002,20 +31001,20 @@
       "apc_list": {
         "value": 2400,
         "currency": "CHF",
-        "value_usd": 2598
+        "value_usd": 2673
       },
       "apc_paid": {
         "value": 2400,
         "currency": "CHF",
-        "value_usd": 2598
+        "value_usd": 2673
       },
-      "fwci": 2.7653,
+      "fwci": 2.3991,
       "has_fulltext": true,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.91109318,
+        "value": 0.89495052,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 91,
@@ -32009,7 +32008,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-07-22T07:51:19.307946",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -32185,7 +32184,7 @@
           "cited_by_count": 3
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.801Z",
+      "lastUpdated": "2026-08-01T05:33:08.139Z",
       "display_name": "On the Computing of Area Coverage by Visual Sensor Networks: Assessing Performance of Approximate and Precise Algorithms",
       "publication_year": 2018,
       "publication_date": "2018-07-01",
@@ -32208,7 +32207,7 @@
         "raw_source_name": "2018 IEEE 16th International Conference on Industrial Informatics (INDIN)",
         "raw_type": "proceedings-article"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -32350,11 +32349,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9764,
+      "fwci": 2.2618,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.87841424,
+        "value": 0.88926501,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33042,7 +33041,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33074,7 +33073,7 @@
       "date": "2011-03-15",
       "doi": "https://doi.org/10.1109/tac.2011.2124950",
       "url": "https://doi.org/10.1109/tac.2011.2124950",
-      "citations": 150,
+      "citations": 151,
       "isOpenAccess": false,
       "oaUrl": null,
       "volume": "56",
@@ -33231,7 +33230,7 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -33290,7 +33289,7 @@
           "cited_by_count": 5
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.801Z",
+      "lastUpdated": "2026-08-01T05:33:08.139Z",
       "display_name": "Polynomial Time Verification of Decentralized Diagnosability of Discrete Event Systems",
       "publication_year": 2011,
       "publication_date": "2011-03-15",
@@ -33487,11 +33486,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.1989,
+      "fwci": 6.0623,
       "has_fulltext": false,
-      "cited_by_count": 150,
+      "cited_by_count": 151,
       "citation_normalized_percentile": {
-        "value": 0.96939971,
+        "value": 0.96863441,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -33971,7 +33970,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -34030,7 +34029,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-06-26T08:34:08.712188",
+      "updated_date": "2026-07-14T08:27:34.040176",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34207,7 +34206,7 @@
           "cited_by_count": 2
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.801Z",
+      "lastUpdated": "2026-08-01T05:33:08.139Z",
       "display_name": "Polynomial time verification of decentralized diagnosability of discrete event systems",
       "publication_year": 2010,
       "publication_date": "2010-06-01",
@@ -34230,7 +34229,7 @@
         "raw_source_name": "Proceedings of the 2010 American Control Conference",
         "raw_type": "proceedings-article"
       },
-      "type": "article",
+      "type": "conference-paper",
       "indexed_in": [
         "crossref"
       ],
@@ -34383,11 +34382,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7192,
+      "fwci": 1.5654,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.84167344,
+        "value": 0.81681825,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34886,16 +34885,16 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-26T08:34:08.712188",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     }
   ],
   "stats": {
     "totalPapers": 31,
-    "totalCitations": 513,
+    "totalCitations": 528,
     "hIndex": 11,
     "openAccessCount": 16,
-    "averageCitations": 16.5,
+    "averageCitations": 17,
     "publicationsByYear": {
       "2010": 1,
       "2011": 1,
@@ -34940,7 +34939,7 @@
       "date": "2011-03-15",
       "doi": "https://doi.org/10.1109/tac.2011.2124950",
       "url": "https://doi.org/10.1109/tac.2011.2124950",
-      "citations": 150,
+      "citations": 151,
       "isOpenAccess": false,
       "oaUrl": null,
       "volume": "56",
@@ -35097,7 +35096,7 @@
       "citationsPerYear": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -35156,7 +35155,7 @@
           "cited_by_count": 5
         }
       ],
-      "lastUpdated": "2026-07-01T06:39:58.801Z",
+      "lastUpdated": "2026-08-01T05:33:08.139Z",
       "display_name": "Polynomial Time Verification of Decentralized Diagnosability of Discrete Event Systems",
       "publication_year": 2011,
       "publication_date": "2011-03-15",
@@ -35353,11 +35352,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.1989,
+      "fwci": 6.0623,
       "has_fulltext": false,
-      "cited_by_count": 150,
+      "cited_by_count": 151,
       "citation_normalized_percentile": {
-        "value": 0.96939971,
+        "value": 0.96863441,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -35837,7 +35836,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -35896,12 +35895,12 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-06-26T08:34:08.712188",
+      "updated_date": "2026-07-14T08:27:34.040176",
       "created_date": "2025-10-10T00:00:00"
     },
     "recentPapers": 14
   },
-  "lastFetched": "2026-07-01T06:39:58.802Z",
+  "lastFetched": "2026-08-01T05:33:08.140Z",
   "totalCount": 31,
   "filteredCount": 31,
   "excludedCount": 0
